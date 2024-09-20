@@ -1,7 +1,7 @@
 ---
 title: Are There File Dimensions Requirements for Uploading to FlipBuilder & Creating Interactive Books From PDFs?
-date: 2024-09-19 21:37:52
-updated: 2024-09-20 10:51:56
+date: 2024-09-16T19:51:21.523Z
+updated: 2024-09-20T06:16:52.693Z
 tags:
   - product
 categories:
@@ -126,19 +126,31 @@ With the page-flipping ebook you have created, your book readers will be able to
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/b123.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Refund Policy
 
 We want you to be 100% satisfied, so we offer an unconditional 30 Day Money Back Guarantee！
 
 ![30day_Money_Back](https://www.flipbuilder.com/page-flip-ebook/../images/pro_06_05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

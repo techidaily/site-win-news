@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Intel Quick Sync on an NVIDIA Optimus System: A Comprehensive Step-by-Step Guide"
-date: 2024-09-18 15:59:12
-updated: 2024-09-20 10:18:13
+date: 2024-09-15T02:18:47.071Z
+updated: 2024-09-19T17:16:22.050Z
 tags:
   - product
 categories:
@@ -58,6 +58,13 @@ Action Tutorials
 
 ![Mirillis Action! - Open NVIDIA Control Panel](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_enter_control_panel.jpg "Open NVIDIA Control Panel") 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Select Program Settings tab in Manage 3D Settings 
 
  Open **Manage 3D Settings** in NVIDIA Control Panel window. When **High performance NVIDIA processor** is selected in **Global Settings** tab Intel Quick Sync Video acceleration will be not available in Action! Select **Program Settings** and follow next steps to enable Intel Quick Sync Video acceleration in Action!
@@ -79,6 +86,13 @@ Action Tutorials
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_select_action.jpg "Select activate tab") 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Action! to use integrated graphics (Intel) 
 
  Select **Integrated graphics** from **"Select the preferred graphics processor for this program" dropdown.** Apply settings and close NVIDIA Control Panel.
@@ -91,13 +105,18 @@ Action Tutorials
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_file_format_settings_intel_quick_sync.jpg "Activation window with all fields filled in")
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
