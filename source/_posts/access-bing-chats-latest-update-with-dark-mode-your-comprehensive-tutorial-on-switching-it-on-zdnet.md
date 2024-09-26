@@ -1,7 +1,7 @@
 ---
 title: "Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET"
-date: 2024-09-16T04:47:24.720Z
-updated: 2024-09-20T03:49:09.266Z
+date: 2024-09-22T23:02:07.586Z
+updated: 2024-09-25T23:51:37.299Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -115,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -122,28 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -185,3 +193,25 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-flipping-scripts-generating-parody-content/"><u>[New] 2024 Approved Flipping Scripts Generating Parody Content</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ios-compatible-psp-games-the-five-finest/"><u>[New] IOS Compatible PSP Games The Five Finest</u></a></li>
+<li><a href="https://win-news.techidaily.com/angular-with-tailwind-css-innovative-design-templates-by-creative-tim/"><u>Angular with Tailwind CSS: Innovative Design Templates by Creative Tim</u></a></li>
+<li><a href="https://win-news.techidaily.com/argon-ghost-by-creative-tim-top-tier-ghosts-for-professional-sites/"><u>Argon Ghost by Creative Tim: Top-Tier Ghosts for Professional Sites</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-dashboard-a-responsive-bootstrap-4-admin-interface-for-django-applications/"><u>Creative Tim's Argon Dashboard - A Responsive Bootstrap 4 Admin Interface for Django Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-pro-mui-the-ultimate-enhanced-dashboard-solution-for-react-applications/"><u>Creative Tim's Argon Pro MUI: The Ultimate Enhanced Dashboard Solution for React Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-professional-paper-kit-version-2-elite-bootstrap-4-theme-and-ui-elements-collection/"><u>Creative Tim's Professional Paper Kit Version 2: Elite Bootstrap 4 Theme & UI Elements Collection</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-ultimate-bootstrap-5-professional-ui-framework-for-premium-designers/"><u>Creative Tim's Ultimate Bootstrap 5 Professional UI Framework for Premium Designers</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-unique-reactive-designs-creatively-beyond-22-templates-from-creativetim/"><u>Discover Unique Reactive Designs: Creatively Beyond 22 Templates From @CreativeTim</u></a></li>
+<li><a href="https://win-news.techidaily.com/django-admin-mastery-innovative-template-solutions-from-creative-tim-for-superior-user-interfaces/"><u>Django Admin Mastery: Innovative Template Solutions From Creative Tim for Superior User Interfaces</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/fps-fanatics-resource-for-fast-controls-and-extensions-for-2024/"><u>FPS Fanatics' Resource for Fast Controls and Extensions for 2024</u></a></li>
+<li><a href="https://driver-error.techidaily.com/hardware-access-rejection-win11-notification/"><u>Hardware Access Rejection: Win11 Notification</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-best-samsung-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Samsung FRP Bypass Guide</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-swiping-up-6-ways-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/simplified-game-recording-setups-for-stardew-villagers/"><u>Simplified Game Recording Setups for Stardew Villagers</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-fixing-windows-11-help-menu-failure/"><u>Steps for Fixing Windows 11 Help Menu Failure</u></a></li>
+<li><a href="https://network-issues.techidaily.com/win11-display-issue-unresponsive-to-changes/"><u>Win11 Display Issue: Unresponsive to Changes</u></a></li>
+</ul></div>
+

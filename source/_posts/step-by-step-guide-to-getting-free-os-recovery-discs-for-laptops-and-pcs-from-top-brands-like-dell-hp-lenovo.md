@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Getting Free OS Recovery Discs for Laptops and PCS From Top Brands Like Dell, HP, Lenovo
-date: 2024-09-16T17:10:44.195Z
-updated: 2024-09-19T20:29:19.687Z
+date: 2024-09-18T20:05:01.945Z
+updated: 2024-09-25T23:24:15.495Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -82,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -133,10 +153,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -179,3 +205,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-crafting-perfect-tiktok-captions-the-ultimate-20-guide/"><u>[New] In 2024, Crafting Perfect TikTok Captions The Ultimate 20 Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-scratches-comparative-review-of-recorders/"><u>[New] In 2024, Top Scratches Comparative Review of Recorders</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing-for-2024/"><u>[Updated] Enabling Instant Access to YouTube Videos in Your Facebook Browsing for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-latest-enhancements-in-windows-11-simplified-android-integration-and-accelerated-voice-to-text-features/"><u>Discover the Latest Enhancements in Windows 11: Simplified Android Integration & Accelerated Voice-to-Text Features</u></a></li>
+<li><a href="https://win11.techidaily.com/disentangling-same-account-issues-on-a-device/"><u>Disentangling Same-Account Issues on a Device</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722993012072-end-lost-arks-endless-pc-crashing-effective-techniques-revealed-here/"><u>End Lost Ark's Endless PC Crashing: Effective Techniques Revealed Here</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuita-conversione-ogm-off-site-guida-completa-con-movavi/"><u>Gratuità Conversione OGM Off-Site: Guida Completa Con Movavi</u></a></li>
+<li><a href="https://win-news.techidaily.com/microsoft-reveals-engineers-passionate-affinity-for-windows-11-insights-from-a-zdnet-report/"><u>Microsoft Reveals Engineers' Passionate Affinity for Windows 11: Insights From a ZDNet Report</u></a></li>
+<li><a href="https://win-news.techidaily.com/seamless-cross-platform-file-sharing-connecting-windows-and-android-via-google-quick-share-insights-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Connecting Windows & Android via Google Quick Share - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/simple-steps-to-change-iphones-call-alert-sounds-for-2024/"><u>Simple Steps to Change iPhones' Call Alert Sounds for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-pro-version-insights-from-zdnet/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Pro Version - Insights From ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-tecno-spark-20c-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Tecno Spark 20C Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-ultimate-guide-to-importing-and-exporting-videos-in-adobe-premiere-pro/"><u>Updated The Ultimate Guide to Importing and Exporting Videos in Adobe Premiere Pro</u></a></li>
+</ul></div>
+

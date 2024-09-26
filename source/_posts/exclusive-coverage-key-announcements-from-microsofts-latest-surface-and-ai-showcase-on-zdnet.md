@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Coverage: Key Announcements From Microsoft's Latest Surface & AI Showcase on ZDNet"
-date: 2024-09-17T17:06:57.603Z
-updated: 2024-09-19T17:36:14.262Z
+date: 2024-09-21T22:25:54.385Z
+updated: 2024-09-25T21:13:15.396Z
 tags:
   - microsoft
 categories:
@@ -112,10 +112,27 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-time-saving-strategies-for-gotomeeting-audiovideo-logging/"><u>[New] Time-Saving Strategies for GoToMeeting Audio/Video Logging</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-beat-blast-updated-technology/"><u>[Updated] 2024 Approved Beat Blast Updated Technology</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-maximizing-audience-engagement-with-youtube-shorts-templates/"><u>[Updated] Maximizing Audience Engagement with YouTube Shorts Templates</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-embrace-mematic-your-personal-digital-diary/"><u>2024 Approved Embrace Mematic Your Personal Digital Diary</u></a></li>
+<li><a href="https://win-news.techidaily.com/can-you-access-instructional-materials-on-flipbuildercom-for-easier-navigation/"><u>Can You Access Instructional Materials on FlipBuilder.com for Easier Navigation?</u></a></li>
+<li><a href="https://win-news.techidaily.com/craft-your-own-engaging-mobile-ebook-with-authentic-page-flip-effects-learn-how-at-flipbuildercom/"><u>Craft Your Own Engaging Mobile eBook with Authentic Page Flip Effects - Learn How at FlipBuilder.com</u></a></li>
+<li><a href="https://win-news.techidaily.com/create-interactive-flipbooks-for-mac-using-publisher-apps-explore-with-flipbuilder/"><u>Create Interactive Flipbooks for Mac Using Publisher Apps | Explore with FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/creating-a-custom-theme-from-active-setups-in-flipbuilder-easy-tutorial/"><u>Creating a Custom Theme From Active Setups in FlipBuilder - Easy Tutorial</u></a></li>
+<li><a href="https://win-news.techidaily.com/creating-custom-pdfs-with-images-plus-download-feature-insights-from-flipbuilder/"><u>Creating Custom PDFs with Images + Download Feature – Insights From FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-for-incornporating-powerpoint-hyperlinks-into-your-flipbooks-using-flipbuilder-tools/"><u>Effective Strategies for Incornporating PowerPoint Hyperlinks Into Your Flipbooks Using FlipBuilder Tools</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/harness-the-power-of-cookiebot-for-superior-website-personalization-and-insights/"><u>Harness the Power of Cookiebot for Superior Website Personalization and Insights</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-7-key-elements-for-perfect-instagram-unpackings/"><u>In 2024, 7 Key Elements for Perfect Instagram Unpackings</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unleashing-your-creative-potential-expert-led-audio-transition-workshops-in-audacity-for-2024/"><u>Unleashing Your Creative Potential Expert-Led Audio Transition Workshops in Audacity for 2024</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
