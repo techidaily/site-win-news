@@ -1,7 +1,7 @@
 ---
 title: "Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet"
-date: 2024-09-24T17:16:11.788Z
-updated: 2024-09-25T21:42:50.709Z
+date: 2024-09-28T22:39:05.674Z
+updated: 2024-09-29T17:05:42.599Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,16 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +202,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-step-by-step-guide-uploading-imovie-videos-to-vimeo-platform/"><u>[Updated] In 2024, Step-by-Step Guide Uploading iMovie Videos to Vimeo Platform</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-ultimate-guide-to-top-hd-video-recorders/"><u>[Updated] Ultimate Guide to Top HD Video Recorders</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/webaacflac/"><u>「無償Web版AACからFLACへの移行 - 動画ビデオ編集ソフト」</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-overcome-fullscreen-search-issues-with-limited-keyboard-functionality-on-flipbuildercom/"><u>1. Overcome Fullscreen Search Issues with Limited Keyboard Functionality on FlipBuilder.com</u></a></li>
-<li><a href="https://win-news.techidaily.com/a-step-by-step-guide-to-obtaining-a-flipbuilder-licensing-code-through-corporate-channels/"><u>A Step-by-Step Guide to Obtaining a FlipBuilder Licensing Code Through Corporate Channels</u></a></li>
-<li><a href="https://win-news.techidaily.com/adding-interactive-hyperlinks-to-your-flipbook-creations-using-easy-to-follow-steps/"><u>Adding Interactive Hyperlinks to Your Flipbook Creations Using Easy-to-Follow Steps</u></a></li>
-<li><a href="https://win-news.techidaily.com/are-there-file-dimensions-requirements-for-uploading-to-flipbuilder-and-creating-interactive-books-from-pdfs/"><u>Are There File Dimensions Requirements for Uploading to FlipBuilder & Creating Interactive Books From PDFs?</u></a></li>
-<li><a href="https://win-news.techidaily.com/building-captivating-audiobooks-for-kids-a-step-by-step-guide-with-flipbuilder/"><u>Building Captivating Audiobooks for Kids: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/bulk-conversion-transform-djvu-e-books-into-high-quality-pdf-formats-for-free-flipbuilder-expert-tips/"><u>Bulk Conversion: Transform DJVU E-Books Into High-Quality PDF Formats for Free [FlipBuilder Expert Tips]</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-newest-fingerprint-drivers-on-your-windows-computer/"><u>Download and Install the Newest Fingerprint Drivers on Your Windows Computer</u></a></li>
-<li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-oneplus-12r-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass OnePlus 12R FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/evaluating-the-benefits-of-moving-to-ios-17-what-users-need-to-know/"><u>Evaluating the Benefits of Moving to iOS 17: What Users Need to Know</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/exhaustive-review-of-every-single-pixel-camera-insights-and-discoveries/"><u>Exhaustive Review of Every Single Pixel Camera: Insights & Discoveries</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-cutting-edge-tutorial-for-enabling-automatic-voice-conversion-in-slides/"><u>In 2024, Cutting Edge Tutorial for Enabling Automatic Voice Conversion in Slides</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-punchy-prowess-vs-online-influence/"><u>In 2024, Punchy Prowess Vs Online Influence</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-beauty-behind-the-screen-color-correction-insights/"><u>[New] 2024 Approved Beauty Behind the Screen Color Correction Insights</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-elevate-your-freefire-presence-with-top-tips-and-tricks/"><u>[New] 2024 Approved Elevate Your FreeFire Presence with Top Tips and Tricks</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-brainless-beats-continue-selecting-top-8-zombie-masterpieces/"><u>2024 Approved Brainless Beats Continue Selecting Top 8 Zombie Masterpieces</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-the-premier-selection-of-17-inch-notebooks-for-2amidst-2024-tech-trends/"><u>Discover the Premier Selection of 17-Inch Notebooks for 2Amidst 2024 Tech Trends</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-canon-tips-for-effective-time-lapse-photography/"><u>In 2024, Canon Tips for Effective Time-Lapse Photography</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-customized-soundscape-in-ps4ps5-games/"><u>In 2024, Unlock Customized Soundscape in PS4/PS5 Games</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-getting-free-os-recovery-discs-for-laptops-and-pcs-from-top-brands-like-dell-hp-lenovo/"><u>Step-by-Step Guide to Getting Free OS Recovery Discs for Laptops and PCS From Top Brands Like Dell, HP, Lenovo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/strategie-per-trasformare-i-file-vob-in-mp4-senza-costi-velocemente-con-garanzia-o-senza-protezione-legale/"><u>Strategie per Trasformare I File VOB in MP4 Senza Costi, Velocemente Con Garanzia O Senza Protezione Legale</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamline-your-admin-workflow-with-affordable-powershell-mastery-just-16-learn-from-top-experts-at-zdnet/"><u>Streamline Your Admin Workflow with Affordable PowerShell Mastery, Just $16! Learn From Top Experts at ZDNET.</u></a></li>
+<li><a href="https://win-news.techidaily.com/these-unconventional-tools-are-used-when-traditional-methods-like-changing-policy-interest-rates-are-not-effective-or-viable/"><u>These Unconventional Tools Are Used when Traditional Methods Like Changing Policy Interest Rates Are Not Effective or Viable.</u></a></li>
+<li><a href="https://win-news.techidaily.com/unbeatable-black-friday-offers-on-tech-grab-your-300-surface-go-2-or-secure-a-high-quality-230-acer-hybrid-at-microsofts-doorbuster-prices-top-picks-by-zdne126/"><u>Unbeatable Black Friday Offers on Tech: Grab Your $300 Surface Go 2 or Secure a High-Quality $230 Acer Hybrid at Microsoft's Doorbuster Prices – Top Picks by ZDNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/urgent-deadline-looms-as-microsoft-struggles-to-address-windows-10-issues-in-the-next-year-zdnet-insights/"><u>Urgent Deadline Looms as Microsoft Struggles to Address Windows 10 Issues in the Next Year | ZDNET Insights</u></a></li>
 </ul></div>
 
