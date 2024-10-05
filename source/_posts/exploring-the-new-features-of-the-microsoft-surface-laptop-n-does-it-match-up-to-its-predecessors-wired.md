@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Features of the Microsoft Surface Laptop N: Does It Match Up to Its Predecessors? | Wired"
-date: 2024-09-25T04:57:26.691Z
-updated: 2024-09-30T06:00:21.327Z
+date: 2024-10-04T17:26:16.902Z
+updated: 2024-10-05T22:54:51.776Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -123,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087262/19272" target="_top" id="2087262">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087262" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087262/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-comedy-gold-twitters-hottest-jokes/"><u>[New] 2024 Approved Comedy Gold Twitter's Hottest Jokes</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-boost-camera-output-retain-excellent-clarity/"><u>[Updated] 2024 Approved Boost Camera Output, Retain Excellent Clarity</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-prime-6-sleek-designs-in-virtual-houses-for-2024/"><u>[Updated] Prime 6 Sleek Designs in Virtual Houses for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-revolutionize-digital-diaries-with-complimentary-tools-for-2024/"><u>[Updated] Revolutionize Digital Diaries with Complimentary Tools for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-the-ultimate-guide-to-inspiring-youtube-names/"><u>[Updated] The Ultimate Guide to Inspiring YouTube Names</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-windows-error-code-0xca00a009/"><u>Addressing Windows Error Code: 0XCA00A009</u></a></li>
-<li><a href="https://win-news.techidaily.com/exclusive-coverage-key-announcements-from-microsofts-latest-surface-and-ai-showcase-on-zdnet/"><u>Exclusive Coverage: Key Announcements From Microsoft's Latest Surface & AI Showcase on ZDNet</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/explore-linguistic-horizons-using-premium-chatgptplus/"><u>Explore Linguistic Horizons Using Premium ChatGPT+</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Oppo Find X6 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/is-windows-12-on-the-horizon-unveiling-insights-and-unexpected-forecasts-a-zdnet-guide/"><u>Is Windows 12 on the Horizon? Unveiling Insights and Unexpected Forecasts - A ZDNet Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/master-the-art-of-saving-on-black-friday-gift-card-offers-smart-tips-from-zdnet/"><u>Master the Art of Saving on Black Friday Gift Card Offers | Smart Tips From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/navigating-microsofts-latest-breakthrough-in-ai-chatbots-get-an-exclusive-preview-of-copilot-for-finance-zdnet/"><u>Navigating Microsoft's Latest Breakthrough in AI Chatbots: Get an Exclusive Preview of Copilot for Finance | ZDNET</u></a></li>
-<li><a href="https://win-news.techidaily.com/reviving-windows-11s-classic-feel-a-step-by-step-guide-to-restoring-your-start-menu/"><u>Reviving Windows 11'S Classic Feel: A Step-by-Step Guide to Restoring Your Start Menu</u></a></li>
-<li><a href="https://win-news.techidaily.com/the-dual-nature-of-microsofts-copilot-an-in-depth-look-at-its-assistance-and-marketing-tactics-zdnet/"><u>The Dual Nature of Microsoft's Copilot: An In-Depth Look at Its Assistance and Marketing Tactics | ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-10-microsoft-productivity-tools-for-ios-in-202-grooove-the-ultimate-compilation-techradar/"><u>Top 10 Microsoft Productivity Tools for iOS in 202 Grooove: The Ultimate Compilation | TechRadar</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>[New] Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-mysteries-solved-decoding-unlisted-content-explained/"><u>[New] YouTube Mysteries Solved Decoding 'Unlisted' Content Explained</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 10C | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-snapseed-a-simple-guide-for-new-users/"><u>2024 Approved Exploring Snapseed A Simple Guide for New Users</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-step-by-step-guide-taking-and-sharing-screenshots-with-your-blu-smartphone/"><u>Comprehensive Step-by-Step Guide: Taking and Sharing Screenshots with Your BLU Smartphone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/creating-captivating-narratives-for-video-blogs-for-2024/"><u>Creating Captivating Narratives for Video Blogs for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Find X7 Ultra | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
+<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-broadcasting-your-life-in-real-time-from-pc-via-instagram/"><u>Step-by-Step Guide: Broadcasting Your Life in Real Time From PC via Instagram</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-tutorials-for-disabling-and-uninstalling-vpn-apps-from-ios-devices/"><u>Step-by-Step Tutorials for Disabling and Uninstalling VPN Apps From iOS Devices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/xfx-error-corrected-system-resumed/"><u>XFX Error Corrected: System Resumed</u></a></li>
 </ul></div>
 

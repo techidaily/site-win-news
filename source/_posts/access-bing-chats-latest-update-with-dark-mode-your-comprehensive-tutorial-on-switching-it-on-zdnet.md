@@ -1,7 +1,7 @@
 ---
 title: "Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET"
-date: 2024-09-23T19:50:05.983Z
-updated: 2024-09-29T16:56:41.111Z
+date: 2024-09-30T20:26:53.903Z
+updated: 2024-10-05T17:59:49.390Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,21 +122,35 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-switching-file-extensions-for-your-mac-snapshots/"><u>[Updated] 2024 Approved Switching File Extensions for Your Mac Snapshots</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-fusion-of-video-files-for-ios-devices-for-2024/"><u>[Updated] Fusion of Video Files for iOS Devices for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-in-depth-analysis-of-best-practices-in-valheim-agriculture/"><u>[Updated] In 2024, In-Depth Analysis of Best Practices in Valheim Agriculture</u></a></li>
-<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/1722890375170-all-you-need-to-know-about-the-upcoming-oxygenos-nothing-phone-3-price-release-and-features/"><u>All You Need to Know About the Upcoming OxygenOS Nothing Phone 3 - Price, Release & Features</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/discover-the-impressive-features-299-oneplus-nord-n30-with-120hz-display-and-rapid-50w-fast-charging/"><u>Discover the Impressive Features: $299 OnePlus Nord N30 with 120Hz Display and Rapid 50W Fast Charging</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/download-our-selection-of-festive-free-ebooks-now/"><u>Download Our Selection of Festive Free eBooks Now!</u></a></li>
-<li><a href="https://win-news.techidaily.com/marathi-audio-downloader-get-your-go-to-marathi-tracks-as-mp3s-flacs-aacs-and-more/"><u>Marathi Audio Downloader - Get Your Go-To Marathi Tracks as MP3s, FLACs, AACs, and More!</u></a></li>
-<li><a href="https://win-news.techidaily.com/mp3wavaac-converter-fast-download-tool-for-gaana-music-tracks/"><u>MP3/WAV/AAC Converter - Fast Download Tool for Gaana Music Tracks</u></a></li>
-<li><a href="https://win-news.techidaily.com/quick-and-effective-ways-to-convert-your-favorite-goo-videos-into-common-file-types/"><u>Quick and Effective Ways to Convert Your Favorite Goo Videos Into Common File Types</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamless-mp3-conversion-moving-your-playlist-from-spotify-straight-to-itunes/"><u>Seamless MP3 Conversion: Moving Your Playlist From Spotify Straight to iTunes</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-downloading-primewire-films-series-and-video-content/"><u>Step-by-Step Guide: Downloading PrimeWire Films, Series, and Video Content</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-setting-up-allavsoft-on-mac-os-catalina/"><u>Step-by-Step Guide: Setting Up Allavsoft on Mac OS Catalina</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-jump-cuts-in-fcpx-best-practices-for-2024/"><u>The Ultimate Guide to Jump Cuts in FCPX Best Practices for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-techcapture-pro-a-comprehensive-2023-study/"><u>[New] In 2024, TechCapture Pro A Comprehensive 2023 Study</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-social-media-sensation-making-your-vids-pop/"><u>[Updated] In 2024, Social Media Sensation Making Your Vids Pop</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-time-reversal-tactics-unique-youtube-video-experiences/"><u>[Updated] Time-Reversal Tactics Unique YouTube Video Experiences</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/boost-your-browsing-make-firefox-zoom-at-lightning-speed-with-these-easy-fixes/"><u>Boost Your Browsing: Make Firefox Zoom at Lightning Speed with These Easy Fixes</u></a></li>
+<li><a href="https://win-dash.techidaily.com/brother-mfc-l2740dw-windows-compatible-drivers-download-and-installation-guide/"><u>Brother MFC-L2740DW Windows Compatible Drivers: Download and Installation Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c02-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C02 to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/discover-the-most-popular-vr-cycling-worlds/"><u>Discover the Most Popular VR Cycling Worlds</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-to-change-ogv-format-into-optimal-mp4-video-quality/"><u>Effective Strategies to Change OGV Format Into Optimal MP4 Video Quality</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/practical-strategies-for-downloading-tracks-from-beatport/"><u>Practical Strategies for Downloading Tracks From Beatport</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamlining-your-digital-library-a-guide-to-quick-reliable-internet-music-downloading/"><u>Streamlining Your Digital Library: A Guide to Quick, Reliable Internet Music Downloading</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V29e? | Dr.fone</u></a></li>
 </ul></div>
 

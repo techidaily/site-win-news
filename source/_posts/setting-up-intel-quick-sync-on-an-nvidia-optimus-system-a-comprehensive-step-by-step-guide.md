@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Intel Quick Sync on an NVIDIA Optimus System: A Comprehensive Step-by-Step Guide"
-date: 2024-09-28T07:16:52.697Z
-updated: 2024-09-30T06:46:06.083Z
+date: 2024-10-03T16:25:48.223Z
+updated: 2024-10-05T18:07:22.010Z
 tags:
   - product
 categories:
@@ -52,6 +52,13 @@ Action Tutorials
 
  Intel Quick Sync Video technology may be not avialable in Action! when high performance NVIDIA processor is selected in global settings in NVIDIA Control Panel. If you have a computer with NVIDIA Optimus technology and Intel Quick Sync Video technology is not avialable in Action! please follow instructions below to enable it and enjoy ultra performance of recording and exporting videos.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ##  Open NVIDIA Control Panel 
 
  Click right mouse button on desktop to show menu and open NVIDIA Control Panel. 
@@ -59,10 +66,10 @@ Action Tutorials
 ![Mirillis Action! - Open NVIDIA Control Panel](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_enter_control_panel.jpg "Open NVIDIA Control Panel") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select Program Settings tab in Manage 3D Settings 
@@ -86,6 +93,13 @@ Action Tutorials
 
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_select_action.jpg "Select activate tab") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Set Action! to use integrated graphics (Intel) 
 
  Select **Integrated graphics** from **"Select the preferred graphics processor for this program" dropdown.** Apply settings and close NVIDIA Control Panel.
@@ -93,17 +107,16 @@ Action Tutorials
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_integrated_graphics.jpg "Activation window with all fields filled in") 
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Open Action! and select Intel Quick Sync acceleration 
@@ -111,13 +124,6 @@ Action Tutorials
  Run Action! and check **File format** and **Hardware acceleration** settings in Video Capture/Recording tab. MP4 with Intel Quick Sync Video should be now avialable. 
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_file_format_settings_intel_quick_sync.jpg "Activation window with all fields filled in")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -134,18 +140,21 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-creating-compelling-cost-free-youtube-intros/"><u>[New] In 2024, Creating Compelling, Cost-Free YouTube Intros</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-collection-of-youtube-beauty-icons-to-admire/"><u>[New] In 2024, The Ultimate Collection of YouTube Beauty Icons to Admire</u></a></li>
-<li><a href="https://win-news.techidaily.com/affordable-microsoft-office-2019-deal-at-25-buy-now-and-install-instructions-zdnet-insights/"><u>Affordable Microsoft Office 2019 Deal at $25 – Buy Now and Install Instructions | ZDNET Insights</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-the-differences-between-auto-gpt-and-its-cousin-chatgpt/"><u>Exploring the Differences Between Auto-GPT and Its Cousin, ChatGPT</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/fixing-hp-printer-disconnect-issue/"><u>Fixing HP Printer Disconnect Issue</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo A78 | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-oppo-a1x-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Oppo A1x 5G to New Android Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/openai-vs-microsoft-in-the-ai-race-allies-or-rival-innovators/"><u>OpenAI Vs. Microsoft in the AI Race: Allies or Rival Innovators?</u></a></li>
-<li><a href="https://win-news.techidaily.com/revive-your-aging-pc-with-these-5-time-tested-tricks-for-windows-10-users-many-options-completely-gratiszdnet-guide/"><u>Revive Your Aging PC with These 5 Time-Tested Tricks for Windows 10 Users - Many Options Completely Gratis![ZDNet Guide]</u></a></li>
-<li><a href="https://win-news.techidaily.com/the-dual-nature-of-microsofts-copilot-an-in-depth-look-at-its-assistance-and-marketing-tactics-zdnet/"><u>The Dual Nature of Microsoft's Copilot: An In-Depth Look at Its Assistance and Marketing Tactics | ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-10-microsoft-productivity-tools-for-ios-in-202-grooove-the-ultimate-compilation-techradar/"><u>Top 10 Microsoft Productivity Tools for iOS in 202 Grooove: The Ultimate Compilation | TechRadar</u></a></li>
-<li><a href="https://win-news.techidaily.com/unveiling-microsofts-surprising-find-the-key-to-true-employee-happiness-discovered/"><u>Unveiling Microsoft's Surprising Find: The Key to True Employee Happiness Discovered</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/utilizing-cookiebots-capabilities-for-advanced-data-tracking-and-analysis/"><u>Utilizing Cookiebot's Capabilities for Advanced Data Tracking and Analysis</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-cross-platform-tweeting-twitterfacebook/"><u>[New] In 2024, Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-delving-into-huawei-p10s-app-ecosystem-and-updates/"><u>[Updated] Delving Into Huawei P10’s App Ecosystem and Updates</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-silent-tweets-end-auditory-upgrades-for-twitter-videos-for-2024/"><u>[Updated] Silent Tweets' End Auditory Upgrades for Twitter Videos for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-solutions-for-an-unresponsive-obs-video-source/"><u>[Updated] Solutions for an Unresponsive OBS Video Source</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/achieve-impeccable-framing-discover-ideal-locations-for-ps4-camera/"><u>Achieve Impeccable Framing: Discover Ideal Locations for PS4 Camera</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/melodic-milestinas-where-to-find-elegant-mobile-alerts-for-2024/"><u>Melodic Milestinas Where to Find Elegant Mobile Alerts for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic Vs 2 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-60x-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo 60x 5G Users</u></a></li>
 </ul></div>
 

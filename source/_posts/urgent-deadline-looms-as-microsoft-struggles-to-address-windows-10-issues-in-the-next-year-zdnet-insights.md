@@ -1,7 +1,7 @@
 ---
 title: Urgent Deadline Looms as Microsoft Struggles to Address Windows 10 Issues in the Next Year | ZDNET Insights
-date: 2024-09-22T21:47:01.229Z
-updated: 2024-09-29T18:12:19.540Z
+date: 2024-09-30T19:45:41.051Z
+updated: 2024-10-05T19:59:44.231Z
 tags:
   - microsoft
 categories:
@@ -54,16 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -75,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -136,10 +123,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -148,15 +135,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,15 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/2024-approved-navigate-through-itunes-recording-like-a-pro/"><u>2024 Approved Navigate Through iTunes Recording Like a Pro</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/complimentary-ai-helper-now-available-from-microsoft-and-khan-academy-for-us-educators-discover-how-on-zdnet/"><u>Complimentary AI Helper Now Available From Microsoft & Khan Academy for U.S. Educators - Discover How on ZDNet</u></a></li>
-<li><a href="https://facebook.techidaily.com/cryptocurrency-and-sheep-zuckerbergs-surprising-pet-name/"><u>Cryptocurrency and Sheep? Zuckerberg’s Surprising Pet Name.</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-v30-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme V30 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/free-downloads-secure-a-recovery-disk-imaging-for-dell-hp-lenovo-and-microsoft-surfaces-on-windowslinux-tips-from-zdnet/"><u>Free Downloads: Secure a Recovery Disk Imaging for Dell, HP, Lenovo & Microsoft Surfaces on Windows/Linux - Tips From ZDNet</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-elevating-your-youtube-presence-with-ideal-video-formats/"><u>In 2024, Elevating Your YouTube Presence with Ideal Video Formats</u></a></li>
-<li><a href="https://media-tips.techidaily.com/introducing-the-revamped-hub-discover-google-tvs-freshly-designed-home-dashboard/"><u>Introducing the Revamped Hub: Discover Google TV's Freshly Designed Home Dashboard</u></a></li>
-<li><a href="https://win-news.techidaily.com/setting-up-intel-quick-sync-on-an-nvidia-optimus-system-a-comprehensive-step-by-step-guide/"><u>Setting Up Intel Quick Sync on an NVIDIA Optimus System: A Comprehensive Step-by-Step Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-enhancing-your-experience-with-splash-20-update/"><u>Step-by-Step Guide: Enhancing Your Experience with Splash 2.0 Update</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-professional-picks-top-gimbals-for-drones/"><u>[New] Professional Picks Top Gimbals for Drones</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-guide-to-overcoming-blackout-in-obs-fullscreen/"><u>[Updated] In 2024, Guide to Overcoming Blackout in OBS Fullscreen</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-analysis-of-vsdcs-features-and-its-best-software-rival-for-2024/"><u>[Updated] In-Depth Analysis of VSDC's Features and Its Best Software Rival for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
+<li><a href="https://win-news.techidaily.com/accells-revolutionary-thunderbolt-vehicle-docking-station-is-it-windows-ultimate-insights-from-zdnet/"><u>Accell's Revolutionary Thunderbolt Vehicle Docking Station - Is It Windows Ultimate? Insights From ZDNET</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-play-40c-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Play 40C.</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-latest-enhancements-in-windows-11-simplified-android-integration-and-accelerated-voice-to-text-features/"><u>Discover the Latest Enhancements in Windows 11: Simplified Android Integration & Accelerated Voice-to-Text Features</u></a></li>
+<li><a href="https://fox-links.techidaily.com/discovering-the-tech-behind-dji-phantom-3-professional/"><u>Discovering the Tech Behind DJI Phantom 3 Professional</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/from-bland-to-breathtaking-add-flare-with-stunning-icon-graphics-on-instagram/"><u>From Bland to Breathtaking Add Flare with Stunning Icon Graphics on Instagram</u></a></li>
+<li><a href="https://win-news.techidaily.com/microsoft-reveals-engineers-passionate-affinity-for-windows-11-insights-from-a-zdnet-report/"><u>Microsoft Reveals Engineers' Passionate Affinity for Windows 11: Insights From a ZDNet Report</u></a></li>
+<li><a href="https://win-news.techidaily.com/seamless-cross-platform-file-sharing-connecting-windows-and-android-via-google-quick-share-insights-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Connecting Windows & Android via Google Quick Share - Insights From ZDNet</u></a></li>
 </ul></div>
 

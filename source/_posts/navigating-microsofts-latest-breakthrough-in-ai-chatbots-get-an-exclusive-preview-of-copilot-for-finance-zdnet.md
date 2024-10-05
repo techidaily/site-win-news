@@ -1,7 +1,7 @@
 ---
 title: "Navigating Microsoft's Latest Breakthrough in AI Chatbots: Get an Exclusive Preview of Copilot for Finance | ZDNET"
-date: 2024-09-28T20:04:22.130Z
-updated: 2024-09-29T23:05:22.761Z
+date: 2024-10-01T23:29:33.656Z
+updated: 2024-10-05T16:15:50.880Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -130,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -142,16 +142,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-gpu-nostalgia-update/"><u>[New] 2024 Approved GPU Nostalgia Update</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-overcoming-inconsistency-stop-obs-frame-loss-for-2024/"><u>[Updated] Overcoming Inconsistency Stop OBS Frame Loss for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-free-themes-for-dynamic-youtuber-profiles/"><u>2024 Approved Free Themes for Dynamic YouTuber Profiles</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-leverage-creative-studio-for-maximum-youtube-reach-and-engagement/"><u>2024 Approved Leverage Creative Studio for Maximum YouTube Reach and Engagement</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ambient-weathers-wifi-station-ws-1-002-a-comprehensive-review-of-quality-justifying-its-cost/"><u>Ambient Weather's WiFi Station WS-1 002: A Comprehensive Review of Quality Justifying Its Cost</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/how-artificial-intelligence-is-reshaping-game-creation-and-its-consequences-for-gaming-companies/"><u>How Artificial Intelligence Is Reshaping Game Creation and Its Consequences for Gaming Companies</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/igtv-to-fb-exposure-strategies-6-essential-tips-for-2024/"><u>IGTV to FB Exposure Strategies (6 Essential Tips) for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-advanced-techniques-for-efficient-media-navigation/"><u>In 2024, Advanced Techniques for Efficient Media Navigation</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/microsoft-reveals-engineers-passionate-affinity-for-windows-11-insights-from-a-zdnet-report/"><u>Microsoft Reveals Engineers' Passionate Affinity for Windows 11: Insights From a ZDNet Report</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamless-cross-platform-file-sharing-connecting-windows-and-android-via-google-quick-share-insights-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Connecting Windows & Android via Google Quick Share - Insights From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-pro-version-insights-from-zdnet/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Pro Version - Insights From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/the-impending-crisis-for-microsofts-windows-10-looms-in-under-a-year-how-they-plan-to-respond-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10 Looms in Under a Year - How They Plan to Respond | ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-ranked-laptops-in-depth-comparison-between-apple-dell-asus-and-others-insights-from-zdnet/"><u>Top-Ranked Laptops : In-Depth Comparison Between Apple, Dell, Asus & Others - Insights From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows/"><u>Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-11-upgrade-now-at-a-cost-the-final-word-from-microsoft-according-to-zdnet/"><u>Windows 11 Upgrade Now at a Cost – The Final Word From Microsoft, According to ZDNet</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-16-best-kickstart-videos-on-youtube-for-visibility-boost-for-2024/"><u>[New] 16 Best Kickstart Videos on YouTube for Visibility Boost for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-echoes-of-chuckles-parody-playlists-for-2024/"><u>[New] Echoes of Chuckles Parody Playlists for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-effortlessly-blur-your-conference-backgrounds-on-teams-for-2024/"><u>[Updated] Effortlessly Blur Your Conference Backgrounds on Teams for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-top-rated-software-for-effortlessly-inserting-stickers-into-images/"><u>1. Top Rated Software For Effortlessly Inserting Stickers Into Images</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/integrating-zoom-appointments-into-phone-and-pc-schedules/"><u>Integrating Zoom Appointments Into Phone & PC Schedules</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-vivo-s17t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Vivo S17t? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cket-your-channels-status-on-youtube-with-these-steps/"><u>Skyrocket Your Channel's Status on YouTube with These Steps</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
 </ul></div>
 

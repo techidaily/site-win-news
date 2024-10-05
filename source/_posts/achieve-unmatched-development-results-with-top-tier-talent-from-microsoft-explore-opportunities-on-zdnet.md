@@ -1,7 +1,7 @@
 ---
 title: "Achieve Unmatched Development Results with Top-Tier Talent From Microsoft: Explore Opportunities on ZDNet"
-date: 2024-09-27T04:34:19.717Z
-updated: 2024-09-30T10:32:56.330Z
+date: 2024-09-30T23:30:23.350Z
+updated: 2024-10-05T21:01:07.729Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,13 +89,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +122,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +196,14 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-facebooks-rivalry-with-social-media-comparing-tiktok-and-snap/"><u>2024 Approved Facebook's Rivalry with Social Media Comparing TikTok & Snap</u></a></li>
-<li><a href="https://win-news.techidaily.com/building-captivating-audiobooks-for-kids-a-step-by-step-guide-with-flipbuilder/"><u>Building Captivating Audiobooks for Kids: A Step-by-Step Guide with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/bulk-conversion-transform-djvu-e-books-into-high-quality-pdf-formats-for-free-flipbuilder-expert-tips/"><u>Bulk Conversion: Transform DJVU E-Books Into High-Quality PDF Formats for Free [FlipBuilder Expert Tips]</u></a></li>
-<li><a href="https://win-news.techidaily.com/can-you-access-instructional-materials-on-flipbuildercom-for-easier-navigation/"><u>Can You Access Instructional Materials on FlipBuilder.com for Easier Navigation?</u></a></li>
-<li><a href="https://win-news.techidaily.com/craft-your-own-engaging-mobile-ebook-with-authentic-page-flip-effects-learn-how-at-flipbuildercom/"><u>Craft Your Own Engaging Mobile eBook with Authentic Page Flip Effects - Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://win-news.techidaily.com/create-interactive-flipbooks-for-mac-using-publisher-apps-explore-with-flipbuilder/"><u>Create Interactive Flipbooks for Mac Using Publisher Apps | Explore with FlipBuilder</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-can-we-bypass-infinix-hot-30-5g-frp-by-drfone-android/"><u>How Can We Bypass Infinix Hot 30 5G FRP?</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/immediate-cessation-of-live-streaming-in-quicktime-for-2024/"><u>Immediate Cessation of Live Streaming in QuickTime for 2024</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-silent-elements-unveiled-techniques-for-retrieving-sound-from-videos/"><u>New 2024 Approved Silent Elements Unveiled Techniques for Retrieving Sound From Videos</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlock-the-power-of-chatbot-conversations-5-essential-tips-for-writing-high-impact-gpt-prompts/"><u>Unlock the Power of Chatbot Conversations: 5 Essential Tips for Writing High-Impact GPT Prompts</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-here-are-the-top-10-free-and-paid-whiteboard-animation-software-options-available-now-check-it-to-find-which-free-whiteboard-animation-software-you-/"><u>Updated Here Are the Top 10 Free and Paid Whiteboard Animation Software Options Available Now. Check It to Find Which Free Whiteboard Animation Software You Want to Use for 2024</u></a></li>
-<li><a href="https://some-tips.techidaily.com/pngjpg-movavi/"><u>オンラインで手軽にPNGからJPGへ変換! Movaviの無料ダウンロード可能</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elite-visualsai-cutting-edge-photo-transformations/"><u>[Updated] In 2024, Elite VisualsAI Cutting-Edge Photo Transformations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-step-by-step-tutorial-for-efficient-video-capturing-via-zd/"><u>2024 Approved Step-by-Step Tutorial for Efficient Video Capturing via ZD</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-step-by-step-guide-taking-and-sharing-screenshots-with-your-blu-smartphone/"><u>Comprehensive Step-by-Step Guide: Taking and Sharing Screenshots with Your BLU Smartphone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-guide-to-premium-extensions/"><u>Essential Guide to Premium Extensions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-repair-your-lenovo-mouse-mat-compatibility-with-windows-10-8-and-7-systems/"><u>How to Repair Your Lenovo Mouse Mat Compatibility with Windows 10, 8 & 7 Systems</u></a></li>
+<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
+<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-broadcasting-your-life-in-real-time-from-pc-via-instagram/"><u>Step-by-Step Guide: Broadcasting Your Life in Real Time From PC via Instagram</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/steps-to-enable-and-utilize-bings-ai-conversational-assistant-on-the-android-keyboard/"><u>Steps to Enable and Utilize Bing's AI Conversational Assistant on the Android Keyboard</u></a></li>
 </ul></div>
 

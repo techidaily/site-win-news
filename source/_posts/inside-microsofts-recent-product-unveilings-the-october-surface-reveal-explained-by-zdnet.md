@@ -1,7 +1,7 @@
 ---
 title: Inside Microsoft’s Recent Product Unveilings – The October Surface Reveal Explained by ZDNet
-date: 2024-09-29T08:06:26.936Z
-updated: 2024-09-30T07:10:34.148Z
+date: 2024-10-01T21:48:41.377Z
+updated: 2024-10-05T20:54:58.788Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,13 +136,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,16 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-gameplay-narratives-6-compelling-ways-to-document-your-virtual-worlds-for-2024/"><u>[New] Gameplay Narratives 6 Compelling Ways to Document Your Virtual Worlds for 2024</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/elevate-your-creations-with-these-5-design-strategies-for-3d-printing-excellence/"><u>Elevate Your Creations with These 5 Design Strategies for 3D Printing Excellence</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-can-you-transfer-files-from-tecno-camon-30-pro-5g-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How Can You Transfer Files From Tecno Camon 30 Pro 5G To iPhone 15/14/13? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-embed-a-minute-logo-in-your-browsers-status-bar-with-flipbuilder/"><u>How to Embed a Minute Logo in Your Browser's Status Bar with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-self-design-your-own-book-theme-using-flipbuilders-tools/"><u>How to Self-Design Your Own Book Theme Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-dynamic-presentations-create-interactive-powerpoints-with-flippower-your-guide-to-animated-content-and-ebook-style-pages/"><u>Mastering Dynamic Presentations: Create Interactive PowerPoints with FlipPower - Your Guide to Animated Content and Ebook-Style Pages</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-multi-page-spreads-tips-for-scaling-up-your-pdf-presentations-on-two-pages-with-flipbuilder/"><u>Mastering Multi-Page Spreads: Tips for Scaling Up Your PDF Presentations on Two Pages with FlipBuilder</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/reign-as-a-tycoon-champion-with-our-12-must-play-games-for-2024/"><u>Reign as a Tycoon Champion with Our #12 Must-Play Games for 2024</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-google-pixel-8-pro-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Google Pixel 8 Pro Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-lurkers-to-leaders-top-30-strategies-for-facebook-pros/"><u>[Updated] From Lurkers to Leaders Top 30 Strategies for Facebook Pros</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-accelerating-streamed-instagram-content-mobile-hacks/"><u>2024 Approved Accelerating Streamed Instagram Content Mobile Hacks</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-in-depth-review-of-dji-mavic-pro-eyewear-tech/"><u>2024 Approved In-Depth Review of DJI Mavic Pro Eyewear Tech</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-photos-from-oppo-k11-5g-by-fonelab-android-recover-photos/"><u>Best Android Data Recovery - Retrieve Lost Photos from Oppo K11 5G.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-techniques-for-iphones-in-virtual-space/"><u>In 2024, Comprehensive Techniques for iPhones in Virtual Space</u></a></li>
+<li><a href="https://facebook.techidaily.com/instant-actions-to-undo-the-impact-of-a-facebook-intrusion/"><u>Instant Actions to Undo the Impact of a Facebook Intrusion</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Motorola Edge 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-game-capture-techniques-using-action-software-a-comprehensive-guide/"><u>Mastering Game Capture Techniques Using Action Software: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-motion-a-comprehensive-guide-to-the-action-rcu-application/"><u>Mastering Motion: A Comprehensive Guide to the Action RCU Application</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-music-from-oppo-a1x-5g-by-fonelab-android-recover-music/"><u>Possible solutions to restore deleted music from Oppo A1x 5G</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/rhythmic-resonance-harmony-for-visuals-for-2024/"><u>Rhythmic Resonance Harmony for Visuals for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/setting-up-intel-quick-sync-on-an-nvidia-optimus-system-a-comprehensive-step-by-step-guide/"><u>Setting Up Intel Quick Sync on an NVIDIA Optimus System: A Comprehensive Step-by-Step Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-setting-up-allavsoft-on-mac-os-catalina/"><u>Step-by-Step Guide: Setting Up Allavsoft on Mac OS Catalina</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-tutorial-how-to-enable-vlc-for-directly-playing-your-favorite-spotify-songs/"><u>Step-by-Step Tutorial: How to Enable VLC for Directly Playing Your Favorite Spotify Songs</u></a></li>
+<li><a href="https://win-news.techidaily.com/steps-for-converting-operatic-performances-from-the-met-into-downloadable-high-definition-mp4-files/"><u>Steps for Converting Operatic Performances From the Met Into Downloadable, High-Definition MP4 Files</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/ultimate-guide-converting-and-downloading-high-quality-hip-hop-dance-content-in-various-formats-mp4-mov-avi/"><u>Ultimate Guide: Converting & Downloading High-Quality Hip Hop Dance Content in Various Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://win-news.techidaily.com/ultimate-resource-on-securing-the-full-dragon-ball-tv-show-collection-online/"><u>Ultimate Resource on Securing the Full Dragon Ball TV Show Collection Online</u></a></li>
+<li><a href="https://win-news.techidaily.com/ultimate-tutorial-for-converting-your-blizzcon-video-library-into-high-quality-mp4-or-mov-formats-on-mac-and-pc/"><u>Ultimate Tutorial for Converting Your BlizzCon Video Library Into High-Quality MP4 or MOV Formats on Mac and PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Google Worker Advocates: Why MacBook Triumphs Over Windows PCs - Insights From the Inside"
-date: 2024-09-23T12:29:50.080Z
-updated: 2024-09-29T17:10:23.666Z
+date: 2024-10-01T17:59:19.736Z
+updated: 2024-10-05T16:28:19.573Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +96,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +137,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -141,13 +148,6 @@ I'd only go with an ESU, myself, if I _really_ had no other choice.
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
@@ -196,24 +196,18 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-swift-tips-for-easy-ipad-screen-recordings/"><u>[New] In 2024, Swift Tips for Easy iPad Screen Recordings</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-unlocking-visual-potential-perfect-aspect-ratios-revealed/"><u>[Updated] 2024 Approved Unlocking Visual Potential Perfect Aspect Ratios Revealed</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-professional-photography-hacks-top-cinematic-tips/"><u>[Updated] Professional Photography Hacks Top Cinematic Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-creative-utilization-of-b-footage-in-media/"><u>2024 Approved The Creative Utilization of B-Footage in Media</u></a></li>
-<li><a href="https://driver-download.techidaily.com/brother-mfc-7360n-drivers-update-made-simple-for-users-of-windows-1187-systems/"><u>Brother MFC-7360N Drivers Update Made Simple for Users of Windows 11/8/7 Systems</u></a></li>
-<li><a href="https://games-able.techidaily.com/claiming-your-money-back-from-xbox-game-bets/"><u>Claiming Your Money Back From Xbox Game Bets</u></a></li>
-<li><a href="https://win-news.techidaily.com/create-interactive-flipbooks-for-mac-using-publisher-apps-explore-with-flipbuilder/"><u>Create Interactive Flipbooks for Mac Using Publisher Apps | Explore with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/creating-a-custom-theme-from-active-setups-in-flipbuilder-easy-tutorial/"><u>Creating a Custom Theme From Active Setups in FlipBuilder - Easy Tutorial</u></a></li>
-<li><a href="https://win-news.techidaily.com/creating-custom-pdfs-with-images-plus-download-feature-insights-from-flipbuilder/"><u>Creating Custom PDFs with Images + Download Feature – Insights From FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/effective-strategies-for-incornporating-powerpoint-hyperlinks-into-your-flipbooks-using-flipbuilder-tools/"><u>Effective Strategies for Incornporating PowerPoint Hyperlinks Into Your Flipbooks Using FlipBuilder Tools</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-book-browsing-create-and-read-ebooks-on-all-devices-using-the-flipbuilder-tool/"><u>Effortless Book Browsing - Create & Read eBooks on All Devices Using the FlipBuilder Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensure-your-projects-live-on-preserve-with-the-flipproject-learn-how-at-flipbuildercom/"><u>Ensure Your Projects Live On: Preserve with the FlipProject - Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-versatility-of-flipped-images-how-many-orientation-options-on-flipbuildercom/"><u>Exploring the Versatility of Flipped Images: How Many Orientation Options on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-change-your-preferred-language-on-flipbuilder-understanding-the-menu-bar-settings/"><u>How to Change Your Preferred Language on FlipBuilder: Understanding the Menu Bar Settings</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-rtf-documents-to-pdf-on-flipbuildercom-a-simple-guide/"><u>How to Convert RTF Documents to PDF on FlipBuilder.com: A Simple Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-samsung-galaxy-a23-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to Samsung Galaxy A23 5G FRP Bypass Everything You Need to Know</u></a></li>
-<li><a href="https://games-able.techidaily.com/innocn-39g1r-affordable-high-refresh-pace-monitor/"><u>InnoCN 39G1R: Affordable, High Refresh Pace Monitor</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/no-more-freezing-overcome-nba-2k23-pc-crash-with-these-proven-7-fixes/"><u>No More Freezing: Overcome NBA 2K23 PC Crash with These Proven 7 Fixes</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/the-backstage-pass-for-streamers-recording-on-twitch/"><u>The Backstage Pass for Streamers Recording on Twitch</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-craft-your-story-with-vscos-editing-power-tools/"><u>[New] Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-frostbite-finishes-olympic-ice-classics-for-2024/"><u>[Updated] Frostbite Finishes Olympic Ice Classics for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-streamlining-instagram-video-load-times-mobile/"><u>[Updated] Streamlining Instagram Video Load Times (Mobile)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/home-studio-ready-essential-webcam-recorders-reviewed-for-2024/"><u>Home Studio Ready Essential WebCam Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-save-and-convert-your-favorite-videos-into-mp4avi-using-mojoclip-tool/"><u>How to Save and Convert Your Favorite Videos Into MP4/AVI Using MojoClip Tool</u></a></li>
+<li><a href="https://win-news.techidaily.com/marathi-audio-downloader-get-your-go-to-marathi-tracks-as-mp3s-flacs-aacs-and-more/"><u>Marathi Audio Downloader - Get Your Go-To Marathi Tracks as MP3s, FLACs, AACs, and More!</u></a></li>
+<li><a href="https://win-news.techidaily.com/mp3wavaac-converter-fast-download-tool-for-gaana-music-tracks/"><u>MP3/WAV/AAC Converter - Fast Download Tool for Gaana Music Tracks</u></a></li>
+<li><a href="https://win-news.techidaily.com/quick-and-effective-ways-to-convert-your-favorite-goo-videos-into-common-file-types/"><u>Quick and Effective Ways to Convert Your Favorite Goo Videos Into Common File Types</u></a></li>
+<li><a href="https://win-news.techidaily.com/seamless-mp3-conversion-moving-your-playlist-from-spotify-straight-to-itunes/"><u>Seamless MP3 Conversion: Moving Your Playlist From Spotify Straight to iTunes</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-downloading-primewire-films-series-and-video-content/"><u>Step-by-Step Guide: Downloading PrimeWire Films, Series, and Video Content</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-evolution-of-language-models-exploring-the-variances-between-gpt-4-gpt-4-turbo-and-gpt-e/"><u>The Evolution of Language Models - Exploring the Variances Between GPT-4, GPT-4 Turbo & GPT-E</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-the-best-text-to-speech-online-tools-to-use/"><u>Updated 2024 Approved The Best Text-to-Speech Online Tools To Use</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco C65 | Dr.fone</u></a></li>
 </ul></div>
 

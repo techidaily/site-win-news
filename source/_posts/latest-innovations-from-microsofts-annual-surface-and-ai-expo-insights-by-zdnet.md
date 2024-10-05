@@ -1,7 +1,7 @@
 ---
 title: Latest Innovations From Microsoft's Annual Surface & AI Expo - Insights by ZDNet
-date: 2024-09-26T16:21:03.483Z
-updated: 2024-09-29T19:15:18.151Z
+date: 2024-09-28T19:51:20.836Z
+updated: 2024-10-05T21:19:09.489Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997648/19272" target="_top" id="1997648">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997648" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997648/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,20 +196,17 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-ideal-mac-voice-storage-tools-the-most-reliable-5-for-2024/"><u>[New] Ideal Mac Voice Storage Tools The Most Reliable 5 for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comparing-profit-potential-dailymovement-and-youtubes-earnings/"><u>[Updated] 2024 Approved Comparing Profit Potential DailyMovement and Youtube's Earnings</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-the-ultimate-guide-to-media-player-replacements-for-vlc/"><u>[Updated] The Ultimate Guide to Media Player Replacements for VLC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-reigniting-creativity-a-comprehensive-look-at-windows-10-for-editors/"><u>2024 Approved Reigniting Creativity A Comprehensive Look at Windows 10 for Editors</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensure-your-projects-live-on-preserve-with-the-flipproject-learn-how-at-flipbuildercom/"><u>Ensure Your Projects Live On: Preserve with the FlipProject - Learn How at FlipBuilder.com</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-versatility-of-flipped-images-how-many-orientation-options-on-flipbuildercom/"><u>Exploring the Versatility of Flipped Images: How Many Orientation Options on FlipBuilder.com?</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-change-your-preferred-language-on-flipbuilder-understanding-the-menu-bar-settings/"><u>How to Change Your Preferred Language on FlipBuilder: Understanding the Menu Bar Settings</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-rtf-documents-to-pdf-on-flipbuildercom-a-simple-guide/"><u>How to Convert RTF Documents to PDF on FlipBuilder.com: A Simple Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-embed-a-minute-logo-in-your-browsers-status-bar-with-flipbuilder/"><u>How to Embed a Minute Logo in Your Browser's Status Bar with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-self-design-your-own-book-theme-using-flipbuilders-tools/"><u>How to Self-Design Your Own Book Theme Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-9-free-online-tools-to-make-your-own-movies/"><u>New 2024 Approved 9 Free Online Tools to Make Your Own Movies</u></a></li>
-<li><a href="https://article-tips.techidaily.com/pinnacle-lineup-of-flexible-fonts/"><u>Pinnacle Lineup of Flexible Fonts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/troubleshoot-and-repair-iphones-standby-mode-issues-4-proven-methods/"><u>Troubleshoot & Repair iPhone's Standby Mode Issues: 4 Proven Methods</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/why-youtube-premium-stands-out-as-my-unparalleled-streaming-choice-a-must-read-explanation/"><u>Why YouTube Premium Stands Out as My Unparalleled Streaming Choice - A Must-Read Explanation</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-flipping-order-inverting-the-flow-of-your-youtube-watch-list-for-2024/"><u>[New] Flipping Order Inverting the Flow of Your YouTube Watch List for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716069811180-new-in-2024-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] In 2024, Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-360-camera-rigsmounts-for-vr-video-production/"><u>[Updated] 360 Camera Rigs/Mounts for VR Video Production</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-top-rated-software-for-effortlessly-inserting-stickers-into-images/"><u>1. Top Rated Software For Effortlessly Inserting Stickers Into Images</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>2024 Approved Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-vimeo-and-youtube-the-ultimate-showdown/"><u>2024 Approved Vimeo and YouTube The Ultimate Showdown</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X7b | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/seamless-transition-strategies-for-shifting-contents-from-an-iphone-to-a-samsung-galaxy-device/"><u>Seamless Transition Strategies for Shifting Contents From an iPhone to a Samsung Galaxy Device</u></a></li>
+<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-strategies-for-upgrading-videos-to-high-definition/"><u>Top Strategies for Upgrading Videos to High Definition</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/video-earnings-explored-in-depth-look-at-dm-and-yo-for-2024/"><u>Video Earnings Explored In-Depth Look at Dm & Yo for 2024</u></a></li>
 </ul></div>
 

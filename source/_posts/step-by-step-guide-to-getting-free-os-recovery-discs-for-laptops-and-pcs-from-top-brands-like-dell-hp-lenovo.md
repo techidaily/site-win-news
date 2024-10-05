@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Getting Free OS Recovery Discs for Laptops and PCS From Top Brands Like Dell, HP, Lenovo
-date: 2024-09-27T03:30:23.915Z
-updated: 2024-09-30T11:53:03.323Z
+date: 2024-10-04T22:04:08.818Z
+updated: 2024-10-05T21:51:36.953Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +130,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +196,21 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-8-trending-videos-on-facebook-for-2024/"><u>[New] 8 Trending Videos on Facebook for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-viral-victory-restoring-your-facebook-space/"><u>[New] In 2024, Viral Victory Restoring Your Facebook Space</u></a></li>
-<li><a href="https://extra-support.techidaily.com/new-perfect-phone-match-up-for-samsungs-virtual-reality-dreams-update-2023/"><u>[New] Perfect Phone Match-Up for Samsung's Virtual Reality Dreams - Update 2023</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/connecting-samsung-wireless-headphones-the-ultimate-guide-for-windows-and-mac-users/"><u>Connecting Samsung Wireless Headphones: The Ultimate Guide for Windows and Mac Users</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-top-jiu-jitsu-techniques-from-expertly-curated-bjj-video-collection/"><u>Download Top Jiu-Jitsu Techniques From Expertly Curated BJJ Video Collection</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-your-favorite-kickstarter-campaigns-as-mp4-with-this-simple-tool/"><u>Download Your Favorite Kickstarter Campaigns as MP4 with This Simple Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/downloading-video-footage-from-the-youjizz-platform-essential-steps-for-users/"><u>Downloading Video Footage From the YouJizz Platform: Essential Steps for Users</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-guide-how-to-save-and-enjoy-daftsex-originals-on-your-device-as-mp4-files/"><u>Easy Guide: How to Save and Enjoy DaftSex Originals on Your Device as MP4 Files</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-techniques-to-save-your-favorite-tutorials-from-videojug/"><u>Easy Techniques to Save Your Favorite Tutorials From Videojug</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/iently-shortening-youtube-content-for-2024/"><u>Efficiently Shortening YouTube Content for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-4k-uhd-video-collection-downloads-for-windows-and-macos-users/"><u>Effortless 4K UHD Video Collection Downloads for Windows & macOS Users</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-audio-extraction-convert-your-favorite-songs-from-jango-streaming-service-into-mp3wavwmaaac-formats-with-ease/"><u>Effortless Audio Extraction: Convert Your Favorite Songs From Jango Streaming Service Into MP3/WAV/WMA/AAC Formats with Ease</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-downloading-of-naruto-episodes-in-various-media-types-mp4-mov-avi-for-macos-and-windows-enthusiasts/"><u>Effortless Downloading of Naruto Episodes in Various Media Types (MP4, MOV, AVI) for macOS and Windows Enthusiasts</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-ascend-to-million-view-milestone-with-this-guide/"><u>In 2024, Ascend to Million View Milestone with This Guide</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-y78plus-t1-edition-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo Y78+ (T1) Edition Bypass FRP Tools for PC That Actually Work</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/perfecting-pics-with-practicality-top-5-pc-snipping-tools-for-2024/"><u>Perfecting Pics with Practicality - Top 5 PC Snipping Tools for 2024</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-unlocking-full-access-to-itunes-radio-features-for-2024/"><u>[Updated] Unlocking Full Access to iTunes Radio Features for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-unveiling-the-latest-ai-features-of-microsoft-copilot-in-office-365-your-guide-to-optimization/"><u>1. Unveiling the Latest AI Features of Microsoft Copilot in Office 365: Your Guide to Optimization</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-choices-best-6-fb-lite-video-saves/"><u>2024 Approved Expert Choices Best 6 FB Lite Video Saves</u></a></li>
+<li><a href="https://win-news.techidaily.com/access-bing-chats-latest-update-with-dark-mode-your-comprehensive-tutorial-on-switching-it-on-zdnet/"><u>Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/ai-desktops-unveiled-understanding-their-capabilities-and-making-the-right-purchase-decision/"><u>AI Desktops Unveiled: Understanding Their Capabilities and Making the Right Purchase Decision</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-microsoft-surface-pro/"><u>Comprehensive Microsoft Surface Pro</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-fix-kernel32dll-faults-in-windows-environments/"><u>Comprehensive Solutions to Fix Kernel32.dll Faults in Windows Environments</u></a></li>
+<li><a href="https://win-news.techidaily.com/controversial-response-to-microsofts-stealth-release-unveiled-by-zdnet/"><u>Controversial Response to Microsoft's Stealth Release Unveiled by ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhance-account-safety-with-two-step-verification-a-step-by-step-guide-from-zdnet/"><u>Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/free-upgrade-latest-wacom-digitizer-software-for-cintiq-13-hd-model/"><u>Free Upgrade: Latest Wacom Digitizer Software for Cintiq 13 HD Model</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>In 2024, Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-note-13-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi Note 13 Pro 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-creating-your-professional-email-signature-on-microsoft-outlook-tips-and-tricks/"><u>Step-by-Step Guide: Creating Your Professional Email Signature on Microsoft Outlook - Tips & Tricks</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-instagrams-gold-standard-your-guide-to-official-account-recognition/"><u>Unlocking Instagram's Gold Standard: Your Guide to Official Account Recognition</u></a></li>
 </ul></div>
 

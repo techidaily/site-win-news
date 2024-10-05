@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating Your Professional Email Signature on Microsoft Outlook - Tips & Tricks"
-date: 2024-09-29T05:56:45.670Z
-updated: 2024-09-29T19:28:37.618Z
+date: 2024-09-29T16:04:42.816Z
+updated: 2024-10-05T17:32:54.475Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -71,10 +71,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,13 +96,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-youtube-like-audio-making-via-twitter-for-2024/"><u>[New] YouTube-Like Audio Making via Twitter for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-electoral-enthusiasm-top-5-political-game-experiences/"><u>[Updated] Electoral Enthusiasm Top 5 Political Game Experiences</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-rank-your-download-preferences-with-our-top-5-list-for-2024/"><u>[Updated] Rank Your Download Preferences with Our Top 5 List for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-nfl-matches-high-quality-footage-stream-and-save-from-official-site-macwindows-compatible/"><u>1) NFL Matches High-Quality Footage: Stream & Save From Official Site (Mac/Windows Compatible)</u></a></li>
-<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-motorola-moto-g13-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Motorola Moto G13 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/access-full-sphere-vr-content-for-download-directly-from-youtube-facebook-and-more/"><u>Access Full-Sphere VR Content for Download Directly From YouTube, Facebook & More</u></a></li>
-<li><a href="https://win-news.techidaily.com/converting-and-downloading-nasm-tutorials-in-multiple-formats-like-mp4-avi-and-more/"><u>Converting and Downloading NASM Tutorials in Multiple Formats Like MP4, AVI & More</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-episodes-and-programs-from-itv-convert-to-mp4avi-formats/"><u>Download Episodes & Programs From ITV: Convert to MP4/AVI Formats</u></a></li>
-<li><a href="https://some-skills.techidaily.com/easy-tutorial-enabling-windows-10-defender-for-optimal-security/"><u>Easy Tutorial: Enabling Windows 10 Defender for Optimal Security</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>In 2024, Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
-<li><a href="https://win-news.techidaily.com/ultimate-tutorial-on-retrieving-guitar-tricks-videos-as-high-quality-files-mp4-mov-mp3-avi/"><u>Ultimate Tutorial on Retrieving Guitar Tricks Videos as High-Quality Files (MP4, MOV, MP3, AVI)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/unlock-serenity-with-asmr-for-uninterrupted-slumber/"><u>Unlock Serenity with ASMR for Uninterrupted Slumber</u></a></li>
-<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-vivo-v27-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-10-best-live-streaming-platforms-you-should-know/"><u>[New] 10 Best Live Streaming Platforms You Should Know</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-efficient-techniques-for-capturing-google-voice-calls/"><u>[New] 2024 Approved Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-filmmaking-simplified-create-an-inviting-youtube-subscription-button-in-filmora/"><u>[New] In 2024, Filmmaking Simplified Create an Inviting YouTube Subscription Button in Filmora</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-duality-mastering-image-turnover-on-social-media-giants/"><u>[New] In 2024, The Art of Duality Mastering Image Turnover on Social Media Giants</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-comprehensive-guide-for-effective-video-capturing/"><u>[Updated] Comprehensive Guide for Effective Video Capturing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/enhance-music-mixing-with-our-comprehensible-online-tempo-tools-for-2024/"><u>Enhance Music Mixing with Our Comprehensible Online Tempo Tools for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/inside-microsofts-recent-product-unveilings-the-october-surface-reveal-explained-by-zdnet/"><u>Inside Microsoft’s Recent Product Unveilings – The October Surface Reveal Explained by ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/securing-elite-programming-talent-how-microsoft-outshines-competitors-for-developer-productivity-according-to-zdnet/"><u>Securing Elite Programming Talent: How Microsoft Outshines Competitors for Developer Productivity, According to ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-getting-free-os-recovery-discs-for-laptops-and-pcs-from-top-brands-like-dell-hp-lenovo/"><u>Step-by-Step Guide to Getting Free OS Recovery Discs for Laptops and PCS From Top Brands Like Dell, HP, Lenovo</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamline-your-admin-workflow-with-affordable-powershell-mastery-just-16-learn-from-top-experts-at-zdnet/"><u>Streamline Your Admin Workflow with Affordable PowerShell Mastery, Just $16! Learn From Top Experts at ZDNET.</u></a></li>
+<li><a href="https://win-news.techidaily.com/these-unconventional-tools-are-used-when-traditional-methods-like-changing-policy-interest-rates-are-not-effective-or-viable/"><u>These Unconventional Tools Are Used when Traditional Methods Like Changing Policy Interest Rates Are Not Effective or Viable.</u></a></li>
+<li><a href="https://win-news.techidaily.com/unbeatable-black-friday-offers-on-tech-grab-your-300-surface-go-2-or-secure-a-high-quality-230-acer-hybrid-at-microsofts-doorbuster-prices-top-picks-by-zdne126/"><u>Unbeatable Black Friday Offers on Tech: Grab Your $300 Surface Go 2 or Secure a High-Quality $230 Acer Hybrid at Microsoft's Doorbuster Prices – Top Picks by ZDNET</u></a></li>
+<li><a href="https://win-news.techidaily.com/urgent-deadline-looms-as-microsoft-struggles-to-address-windows-10-issues-in-the-next-year-zdnet-insights/"><u>Urgent Deadline Looms as Microsoft Struggles to Address Windows 10 Issues in the Next Year | ZDNET Insights</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-vivo-y02t-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Vivo Y02T? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/zdnets-ranking-for-2-best-pc-brands-in-depth-comparison-of-apple-dell-and-more/"><u>ZDNET's Ranking for 2^ Best PC Brands : In-Depth Comparison of Apple, Dell, and More!</u></a></li>
 </ul></div>
 
