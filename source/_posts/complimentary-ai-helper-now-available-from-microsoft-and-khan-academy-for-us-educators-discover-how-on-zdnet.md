@@ -1,7 +1,7 @@
 ---
 title: Complimentary AI Helper Now Available From Microsoft & Khan Academy for U.S. Educators - Discover How on ZDNet
-date: 2024-10-04T22:11:44.169Z
-updated: 2024-10-05T19:45:22.268Z
+date: 2024-10-10T04:41:53.066Z
+updated: 2024-10-10T21:17:16.580Z
 tags:
   - microsoft
 categories:
@@ -53,19 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -75,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -97,16 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -148,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -159,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -208,20 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-boosting-youtube-traffic-perfecting-titles-and-tags-for-max-views-for-2024/"><u>[New] Boosting YouTube Traffic Perfecting Titles & Tags for Max Views for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-best-ways-to-adjust-speed-on-snapchat-videos-and-the-best-alternative/"><u>[New] In 2024, Best Ways to Adjust Speed on Snapchat Videos (And the Best Alternative</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/he-satirists-handbook-video-creation-for-comedy-for-2024/"><u>[New] The Satirist's Handbook Video Creation for Comedy for 2024</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-master-your-youtube-settings-stop-auto-play-videos/"><u>[Updated] Master Your YouTube Settings - Stop Auto-Play Videos</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-episodes-and-programs-from-itv-convert-to-mp4avi-formats/"><u>Download Episodes & Programs From ITV: Convert to MP4/AVI Formats</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-top-jiu-jitsu-techniques-from-expertly-curated-bjj-video-collection/"><u>Download Top Jiu-Jitsu Techniques From Expertly Curated BJJ Video Collection</u></a></li>
-<li><a href="https://win-news.techidaily.com/download-your-favorite-kickstarter-campaigns-as-mp4-with-this-simple-tool/"><u>Download Your Favorite Kickstarter Campaigns as MP4 with This Simple Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/downloading-video-footage-from-the-youjizz-platform-essential-steps-for-users/"><u>Downloading Video Footage From the YouJizz Platform: Essential Steps for Users</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-guide-how-to-save-and-enjoy-daftsex-originals-on-your-device-as-mp4-files/"><u>Easy Guide: How to Save and Enjoy DaftSex Originals on Your Device as MP4 Files</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-techniques-to-save-your-favorite-tutorials-from-videojug/"><u>Easy Techniques to Save Your Favorite Tutorials From Videojug</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-4k-uhd-video-collection-downloads-for-windows-and-macos-users/"><u>Effortless 4K UHD Video Collection Downloads for Windows & macOS Users</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-deep-does-it-go-exploring-the-multiple-levels-of-royal-match/"><u>How Deep Does It Go? Exploring the Multiple Levels of 'Royal Match'</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-honor-v-purse-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Honor V Purse Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/innovazioni-chiave-del-2024-modi-eccellenti-per-cambiare-sfondo-in-video-con-ottimo-rendimento-seo/"><u>Innovazioni Chiave Del 2024: Modi Eccellenti per Cambiare Sfondo in Video Con Ottimo Rendimento SEO</u></a></li>
-<li><a href="https://win11.techidaily.com/redefine-windows-trail-design-with-ease/"><u>Redefine Window's Trail Design with Ease</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-advanced-practices-for-capturing-iptv-visuals/"><u>[New] In 2024, Advanced Practices for Capturing IPTV Visuals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-brainless-beats-continue-selecting-top-8-zombie-masterpieces/"><u>[Updated] Brainless Beats Continue Selecting Top 8 Zombie Masterpieces</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-options-ultimate-guide-to-macs-video-capturing-tools/"><u>Best Options Ultimate Guide to Mac's Video Capturing Tools</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhance-account-safety-with-two-step-verification-a-step-by-step-guide-from-zdnet/"><u>Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-tips-on-acquiring-profitable-yt-channels/"><u>Essential Tips on Acquiring Profitable YT Channels</u></a></li>
+<li><a href="https://win-news.techidaily.com/exclusive-coverage-key-announcements-from-microsofts-latest-surface-and-ai-showcase-on-zdnet/"><u>Exclusive Coverage: Key Announcements From Microsoft's Latest Surface & AI Showcase on ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-new-features-of-the-microsoft-surface-laptop-n-does-it-match-up-to-its-predecessors-wired/"><u>Exploring the New Features of the Microsoft Surface Laptop N: Does It Match Up to Its Predecessors? | Wired</u></a></li>
+<li><a href="https://win-able.techidaily.com/immediate-fixes-to-resolve-palworld-not-opening-correctly/"><u>Immediate Fixes to Resolve Palworld Not Opening Correctly</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-bypass-activation-lock-from-iphone-7-plus-4-easy-ways-by-drfone-ios/"><u>In 2024, Bypass Activation Lock From iPhone 7 Plus - 4 Easy Ways</u></a></li>
+<li><a href="https://win-news.techidaily.com/is-windows-12-on-the-horizon-unveiling-insights-and-unexpected-forecasts-a-zdnet-guide/"><u>Is Windows 12 on the Horizon? Unveiling Insights and Unexpected Forecasts - A ZDNet Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/master-the-art-of-saving-on-black-friday-gift-card-offers-smart-tips-from-zdnet/"><u>Master the Art of Saving on Black Friday Gift Card Offers | Smart Tips From ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/navigating-microsofts-latest-breakthrough-in-ai-chatbots-get-an-exclusive-preview-of-copilot-for-finance-zdnet/"><u>Navigating Microsoft's Latest Breakthrough in AI Chatbots: Get an Exclusive Preview of Copilot for Finance | ZDNET</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/review-of-clearstream-2v-all-weather-hd-tv-antenna-exceptional-signal-in-an-aesthetic-design/"><u>Review of ClearStream 2V All-Weather HD TV Antenna: Exceptional Signal in an Aesthetic Design</u></a></li>
+<li><a href="https://win-news.techidaily.com/reviving-windows-11s-classic-feel-a-step-by-step-guide-to-restoring-your-start-menu/"><u>Reviving Windows 11'S Classic Feel: A Step-by-Step Guide to Restoring Your Start Menu</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sequential-watchlist-experience-the-legendary-bond-journey/"><u>Sequential Watchlist: Experience the Legendary Bond Journey</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/smart-speaker-battle-pros-and-cons-of-google-nest-audio-vs-apple-homepod/"><u>Smart Speaker Battle: Pros and Cons of Google Nest Audio Vs. Apple HomePod</u></a></li>
+<li><a href="https://win-news.techidaily.com/the-dual-nature-of-microsofts-copilot-an-in-depth-look-at-its-assistance-and-marketing-tactics-zdnet/"><u>The Dual Nature of Microsoft's Copilot: An In-Depth Look at Its Assistance and Marketing Tactics | ZDNet</u></a></li>
 </ul></div>
 

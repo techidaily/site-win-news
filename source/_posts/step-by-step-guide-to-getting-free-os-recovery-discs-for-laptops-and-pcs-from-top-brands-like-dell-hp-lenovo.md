@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Getting Free OS Recovery Discs for Laptops and PCS From Top Brands Like Dell, HP, Lenovo
-date: 2024-10-04T22:04:08.818Z
-updated: 2024-10-05T21:51:36.953Z
+date: 2024-10-06T03:16:43.520Z
+updated: 2024-10-10T21:24:07.762Z
 tags:
   - microsoft
 categories:
@@ -53,6 +53,13 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -62,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037345/7443" target="_top" id="2037345">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037345" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037345/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -91,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -129,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -143,15 +136,22 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,21 +196,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-tips.techidaily.com/updated-unlocking-full-access-to-itunes-radio-features-for-2024/"><u>[Updated] Unlocking Full Access to iTunes Radio Features for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-unveiling-the-latest-ai-features-of-microsoft-copilot-in-office-365-your-guide-to-optimization/"><u>1. Unveiling the Latest AI Features of Microsoft Copilot in Office 365: Your Guide to Optimization</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-expert-choices-best-6-fb-lite-video-saves/"><u>2024 Approved Expert Choices Best 6 FB Lite Video Saves</u></a></li>
-<li><a href="https://win-news.techidaily.com/access-bing-chats-latest-update-with-dark-mode-your-comprehensive-tutorial-on-switching-it-on-zdnet/"><u>Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET</u></a></li>
-<li><a href="https://win-news.techidaily.com/ai-desktops-unveiled-understanding-their-capabilities-and-making-the-right-purchase-decision/"><u>AI Desktops Unveiled: Understanding Their Capabilities and Making the Right Purchase Decision</u></a></li>
-<li><a href="https://win-news.techidaily.com/comprehensive-microsoft-surface-pro/"><u>Comprehensive Microsoft Surface Pro</u></a></li>
-<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-fix-kernel32dll-faults-in-windows-environments/"><u>Comprehensive Solutions to Fix Kernel32.dll Faults in Windows Environments</u></a></li>
-<li><a href="https://win-news.techidaily.com/controversial-response-to-microsofts-stealth-release-unveiled-by-zdnet/"><u>Controversial Response to Microsoft's Stealth Release Unveiled by ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhance-account-safety-with-two-step-verification-a-step-by-step-guide-from-zdnet/"><u>Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/free-upgrade-latest-wacom-digitizer-software-for-cintiq-13-hd-model/"><u>Free Upgrade: Latest Wacom Digitizer Software for Cintiq 13 HD Model</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>In 2024, Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-xiaomi-redmi-note-13-pro-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Xiaomi Redmi Note 13 Pro 5G Android SIM Unlock APK</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723009748320-overcoming-hurdles-experience-la-noire-now-on-the-personal-computers/"><u>Overcoming Hurdles? Experience L.A. Noire Now on the Personal Computers!</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-creating-your-professional-email-signature-on-microsoft-outlook-tips-and-tricks/"><u>Step-by-Step Guide: Creating Your Professional Email Signature on Microsoft Outlook - Tips & Tricks</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/top-resource-allocation-analysis-software/"><u>Top Resource Allocation Analysis Software</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlocking-instagrams-gold-standard-your-guide-to-official-account-recognition/"><u>Unlocking Instagram's Gold Standard: Your Guide to Official Account Recognition</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-tags-a-must-read-before-uploading-for-2024/"><u>[New] Mastering Tags A Must-Read Before Uploading for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-screenshotsweeperpro-next-gen-bg-removal-tool/"><u>[Updated] 2024 Approved ScreenshotSweeperPro Next-Gen BG Removal Tool</u></a></li>
+<li><a href="https://win-news.techidaily.com/beginner-friendly-tutorial-on-utilizing-apowersoft-for-live-audio-capture/"><u>Beginner-Friendly Tutorial on Utilizing Apowersoft for Live Audio Capture</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-guide-changing-the-audible-content-in-videos/"><u>Comprehensive Guide: Changing the Audible Content in Videos</u></a></li>
+<li><a href="https://win-news.techidaily.com/easy-instructions-on-how-to-sync-android-smartphonetablet-with-lg-tv/"><u>Easy Instructions on How to Sync Android Smartphone/Tablet with LG TV</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-correct-steam-online-connectivity-error-win11/"><u>How to Correct Steam Online Connectivity Error (Win11)</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-tecno-pop-7-pro-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Tecno Pop 7 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-navigating-youtube-for-ultimate-virtual-reality-adventures/"><u>In 2024, Navigating YouTube for Ultimate Virtual Reality Adventures</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-top-10-viral-music-videos-on-social-media/"><u>In 2024, Top 10 Viral Music Videos on Social Media</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melody-in-motion-incorporating-music-into-powerpoint/"><u>Melody in Motion Incorporating Music Into PowerPoint</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/step-by-step-guide-converting-aac-audio-files-to-mp3-format-using-itunes/"><u>Step-by-Step Guide: Converting AAC Audio Files to MP3 Format Using iTunes</u></a></li>
+<li><a href="https://win-news.techidaily.com/stickermakingtutorial-free-guide-to-crafting-2022s-hottest-personalized-decals/"><u>StickerMakingTutorial: Free Guide to Crafting 2022'S Hottest Personalized Decals!</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-tips-and-techniques-for-perfecting-your-2022-drivers-license-photograph/"><u>Top Tips and Techniques for Perfecting Your 2022 Driver's License Photograph</u></a></li>
+<li><a href="https://win-news.techidaily.com/unlocking-made-effortless-an-intuitive-tutorial-for-iphone/"><u>Unlocking Made Effortless: An Intuitive Tutorial for iPhone</u></a></li>
 </ul></div>
 

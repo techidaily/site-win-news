@@ -1,7 +1,7 @@
 ---
 title: "The Dual Nature of Microsoft's Copilot: An In-Depth Look at Its Assistance and Marketing Tactics | ZDNet"
-date: 2024-10-03T18:34:46.981Z
-updated: 2024-10-05T22:25:02.866Z
+date: 2024-10-08T06:30:51.733Z
+updated: 2024-10-10T20:34:48.306Z
 tags:
   - microsoft
 categories:
@@ -114,31 +114,23 @@ I fear, though, that for very many people, Excel is just a dull, efficient, util
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-review-of-wirecast-and-similar-programs/"><u>[New] The Ultimate Review of WireCast & Similar Programs</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-unleashing-popularity-how-to-make-a-youtube-hit-for-2024/"><u>[Updated] Unleashing Popularity How to Make a YouTube Hit for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/beneath-virtual-facades-discovering-whos-behind-your-screen-interactions-in-the-webs-hidden-layers-and-unraveling-the-dead-internet-conjecture/"><u>Beneath Virtual Facades: Discovering Who's Behind Your Screen Interactions in The Web's Hidden Layers and Unraveling The Dead Internet Conjecture</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/create-tailored-ai-unveiling-the-new-features-of-chatgpts-recent-upgrade/"><u>Create Tailored AI: Unveiling the New Features of ChatGPT's Recent Upgrade</u></a></li>
-<li><a href="https://win-ratings.techidaily.com/discover-the-ultimate-list-of-free-watermark-programs-including-a-dive-into-movavi/"><u>Discover the Ultimate List of Free Watermark Programs, Including a Dive Into Movavi</u></a></li>
-<li><a href="https://win-webster.techidaily.com/explore-premium-vuejs-design-solutions-by-creative-tim-over-35plus/"><u>Explore Premium VueJS Design Solutions by Creative Tim, Over 35+</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-rtf-documents-to-pdf-on-flipbuildercom-a-simple-guide/"><u>How to Convert RTF Documents to PDF on FlipBuilder.com: A Simple Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-embed-a-minute-logo-in-your-browsers-status-bar-with-flipbuilder/"><u>How to Embed a Minute Logo in Your Browser's Status Bar with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-self-design-your-own-book-theme-using-flipbuilders-tools/"><u>How to Self-Design Your Own Book Theme Using FlipBuilder's Tools</u></a></li>
-<li><a href="https://driver-download.techidaily.com/hp-officejet-pro-8610-driver-download-for-windows-operating-systems-win1187xpvista/"><u>HP Officejet Pro 8610 Driver Download for Windows Operating Systems (Win11/8/7/XP/Vista)</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovation-meets-tradition-the-best-frame-makers/"><u>Innovation Meets Tradition The Best Frame Makers</u></a></li>
-<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/leading-curved-gaming-screens-to-elevate-your-play-experience-2024/"><u>Leading Curved Gaming Screens to Elevate Your Play Experience, 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-dynamic-presentations-create-interactive-powerpoints-with-flippower-your-guide-to-animated-content-and-ebook-style-pages/"><u>Mastering Dynamic Presentations: Create Interactive PowerPoints with FlipPower - Your Guide to Animated Content and Ebook-Style Pages</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-multi-page-spreads-tips-for-scaling-up-your-pdf-presentations-on-two-pages-with-flipbuilder/"><u>Mastering Multi-Page Spreads: Tips for Scaling Up Your PDF Presentations on Two Pages with FlipBuilder</u></a></li>
-<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
-<li><a href="https://discover-docs.techidaily.com/winxvideo-ai-seamless-screen-capture-live-streaming-and-sound-recording-made-easy/"><u>WinXvideo AI - Seamless Screen Capture, Live Streaming, and Sound Recording Made Easy</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-the-past-through-youtube-top-10-for-students-and-enthusiasts/"><u>[New] In 2024, Mastering the Past Through YouTube Top 10 for Students & Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/escalate-video-display-in-public-profile/"><u>Escalate Video Display in Public Profile</u></a></li>
+<li><a href="https://win-news.techidaily.com/free-downloads-secure-a-recovery-disk-imaging-for-dell-hp-lenovo-and-microsoft-surfaces-on-windowslinux-tips-from-zdnet/"><u>Free Downloads: Secure a Recovery Disk Imaging for Dell, HP, Lenovo & Microsoft Surfaces on Windows/Linux - Tips From ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/google-worker-advocates-why-macbook-triumphs-over-windows-pcs-insights-from-the-inside/"><u>Google Worker Advocates: Why MacBook Triumphs Over Windows PCs - Insights From the Inside</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-oneplus-open-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On OnePlus Open?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Moto G34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/inside-microsofts-recent-product-unveilings-the-october-surface-reveal-explained-by-zdnet/"><u>Inside Microsoft’s Recent Product Unveilings – The October Surface Reveal Explained by ZDNet</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/instagrams-best-practices-video-sizes-and-formats/"><u>Instagram's Best Practices Video Sizes and Formats</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/navigate-the-vlogiverse-6-curated-questionnaires-for-discerning-viewers-for-2024/"><u>Navigate the Vlogiverse 6 Curated Questionnaires for Discerning Viewers for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/securing-elite-programming-talent-how-microsoft-outshines-competitors-for-developer-productivity-according-to-zdnet/"><u>Securing Elite Programming Talent: How Microsoft Outshines Competitors for Developer Productivity, According to ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-creating-your-professional-email-signature-on-microsoft-outlook-tips-and-tricks/"><u>Step-by-Step Guide: Creating Your Professional Email Signature on Microsoft Outlook - Tips & Tricks</u></a></li>
 </ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: Urgent Deadline Looms as Microsoft Struggles to Address Windows 10 Issues in the Next Year | ZDNET Insights
-date: 2024-09-30T19:45:41.051Z
-updated: 2024-10-05T19:59:44.231Z
+date: 2024-10-10T09:31:34.099Z
+updated: 2024-10-11T00:49:36.566Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,19 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +135,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +142,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,17 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-professional-picks-top-gimbals-for-drones/"><u>[New] Professional Picks Top Gimbals for Drones</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-guide-to-overcoming-blackout-in-obs-fullscreen/"><u>[Updated] In 2024, Guide to Overcoming Blackout in OBS Fullscreen</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-depth-analysis-of-vsdcs-features-and-its-best-software-rival-for-2024/"><u>[Updated] In-Depth Analysis of VSDC's Features and Its Best Software Rival for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-syncopating-youtube-melodies-with-visuals/"><u>2024 Approved Syncopating YouTube Melodies with Visuals</u></a></li>
-<li><a href="https://win-news.techidaily.com/accells-revolutionary-thunderbolt-vehicle-docking-station-is-it-windows-ultimate-insights-from-zdnet/"><u>Accell's Revolutionary Thunderbolt Vehicle Docking Station - Is It Windows Ultimate? Insights From ZDNET</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-pictures-from-honor-play-40c-by-fonelab-android-recover-pictures/"><u>Best Android Data Recovery - Retrieve Lost Pictures from Honor Play 40C.</u></a></li>
-<li><a href="https://win-news.techidaily.com/discover-the-latest-enhancements-in-windows-11-simplified-android-integration-and-accelerated-voice-to-text-features/"><u>Discover the Latest Enhancements in Windows 11: Simplified Android Integration & Accelerated Voice-to-Text Features</u></a></li>
-<li><a href="https://fox-links.techidaily.com/discovering-the-tech-behind-dji-phantom-3-professional/"><u>Discovering the Tech Behind DJI Phantom 3 Professional</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-pros-and-cons-of-android-integration-on-windows-11-is-it-worthwhile-digitalsavvy-blog/"><u>Exploring the Pros and Cons of Android Integration on Windows 11 - Is It Worthwhile? | DigitalSavvy Blog</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/from-bland-to-breathtaking-add-flare-with-stunning-icon-graphics-on-instagram/"><u>From Bland to Breathtaking Add Flare with Stunning Icon Graphics on Instagram</u></a></li>
-<li><a href="https://win-news.techidaily.com/microsoft-reveals-engineers-passionate-affinity-for-windows-11-insights-from-a-zdnet-report/"><u>Microsoft Reveals Engineers' Passionate Affinity for Windows 11: Insights From a ZDNet Report</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamless-cross-platform-file-sharing-connecting-windows-and-android-via-google-quick-share-insights-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Connecting Windows & Android via Google Quick Share - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-marketing-magic-in-metaverse/"><u>[Updated] Mastering Marketing Magic in Metaverse</u></a></li>
+<li><a href="https://win-news.techidaily.com/angular-with-tailwind-css-innovative-design-templates-by-creative-tim/"><u>Angular with Tailwind CSS: Innovative Design Templates by Creative Tim</u></a></li>
+<li><a href="https://win-news.techidaily.com/argon-ghost-by-creative-tim-top-tier-ghosts-for-professional-sites/"><u>Argon Ghost by Creative Tim: Top-Tier Ghosts for Professional Sites</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/best-photo-slideshow-maker-how-to-make-a-photo-slideshow-2023-update/"><u>Best Photo Slideshow Maker How to Make a Photo Slideshow 2023 Update</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-dashboard-a-responsive-bootstrap-4-admin-interface-for-django-applications/"><u>Creative Tim's Argon Dashboard - A Responsive Bootstrap 4 Admin Interface for Django Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-pro-mui-the-ultimate-enhanced-dashboard-solution-for-react-applications/"><u>Creative Tim's Argon Pro MUI: The Ultimate Enhanced Dashboard Solution for React Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-professional-paper-kit-version-2-elite-bootstrap-4-theme-and-ui-elements-collection/"><u>Creative Tim's Professional Paper Kit Version 2: Elite Bootstrap 4 Theme & UI Elements Collection</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-ultimate-bootstrap-5-professional-ui-framework-for-premium-designers/"><u>Creative Tim's Ultimate Bootstrap 5 Professional UI Framework for Premium Designers</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-unique-reactive-designs-creatively-beyond-22-templates-from-creativetim/"><u>Discover Unique Reactive Designs: Creatively Beyond 22 Templates From @CreativeTim</u></a></li>
+<li><a href="https://win-news.techidaily.com/django-admin-mastery-innovative-template-solutions-from-creative-tim-for-superior-user-interfaces/"><u>Django Admin Mastery: Innovative Template Solutions From Creative Tim for Superior User Interfaces</u></a></li>
+<li><a href="https://win-news.techidaily.com/elevate-your-apps-with-premium-react-native-styling-discover-now-ui-pro-by-creative-tim/"><u>Elevate Your Apps with Premium React Native Styling - Discover Now UI PRO by Creative Tim</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/find-and-buy-premium-youtube-ringtone-videos-easily/"><u>Find & Buy Premium YouTube Ringtone Videos Easily</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-s24-ultra-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy S24 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-passcode-or-face-id-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-key-aspects-of-creating-animated-visual-narratives/"><u>In 2024, Key Aspects of Creating Animated Visual Narratives</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/introducing-the-revolutionary-bamboolabs-bed-slinger-rapid-printing-with-their-latest-a1-3d-printer-coming-soon-on-dec-14th/"><u>Introducing the Revolutionary BambooLab's Bed Slinger: Rapid-Printing with Their Latest A1 3D Printer - Coming Soon on Dec. 14Th!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/keeping-linux-side-of-windows-uninterrupted-by-win-11/"><u>Keeping Linux Side of Windows Uninterrupted by Win 11</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-essential-guide-to-understanding-facebook-metrics-for-2024/"><u>The Essential Guide to Understanding Facebook Metrics for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Motorola Moto G 5G (2023) | Dr.fone</u></a></li>
 </ul></div>
 

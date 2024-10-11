@@ -1,7 +1,7 @@
 ---
 title: "Setting Up Intel Quick Sync on an NVIDIA Optimus System: A Comprehensive Step-by-Step Guide"
-date: 2024-10-03T16:25:48.223Z
-updated: 2024-10-05T18:07:22.010Z
+date: 2024-10-10T09:55:42.298Z
+updated: 2024-10-11T09:11:08.189Z
 tags:
   - product
 categories:
@@ -53,10 +53,10 @@ Action Tutorials
  Intel Quick Sync Video technology may be not avialable in Action! when high performance NVIDIA processor is selected in global settings in NVIDIA Control Panel. If you have a computer with NVIDIA Optimus technology and Intel Quick Sync Video technology is not avialable in Action! please follow instructions below to enable it and enjoy ultra performance of recording and exporting videos.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Open NVIDIA Control Panel 
@@ -66,10 +66,17 @@ Action Tutorials
 ![Mirillis Action! - Open NVIDIA Control Panel](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_enter_control_panel.jpg "Open NVIDIA Control Panel") 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ##  Select Program Settings tab in Manage 3D Settings 
@@ -94,10 +101,10 @@ Action Tutorials
 ![Mirillis Action! - Activate tab](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_select_action.jpg "Select activate tab") 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Set Action! to use integrated graphics (Intel) 
@@ -105,19 +112,6 @@ Action Tutorials
  Select **Integrated graphics** from **"Select the preferred graphics processor for this program" dropdown.** Apply settings and close NVIDIA Control Panel.
 
 ![Mirillis Action! - Activation window](https://mirillis.com/res/old/gfx/tutorials/hardware_settings/mirillis_action_nvidia_optimus_setup_integrated_graphics.jpg "Activation window with all fields filled in") 
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Open Action! and select Intel Quick Sync acceleration 
 
@@ -140,21 +134,20 @@ Action Tutorials
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-mastering-cross-platform-tweeting-twitterfacebook/"><u>[New] In 2024, Mastering Cross-Platform Tweeting (Twitter/Facebook)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-delving-into-huawei-p10s-app-ecosystem-and-updates/"><u>[Updated] Delving Into Huawei P10’s App Ecosystem and Updates</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-silent-tweets-end-auditory-upgrades-for-twitter-videos-for-2024/"><u>[Updated] Silent Tweets' End Auditory Upgrades for Twitter Videos for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-solutions-for-an-unresponsive-obs-video-source/"><u>[Updated] Solutions for an Unresponsive OBS Video Source</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/achieve-impeccable-framing-discover-ideal-locations-for-ps4-camera/"><u>Achieve Impeccable Framing: Discover Ideal Locations for PS4 Camera</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
-<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How and Where to Find a Shiny Stone Pokémon For Apple iPhone SE (2020)? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
-<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/melodic-milestinas-where-to-find-elegant-mobile-alerts-for-2024/"><u>Melodic Milestinas Where to Find Elegant Mobile Alerts for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Set Your Preferred Job Location on LinkedIn App of your Honor Magic Vs 2 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-realme-narzo-60x-5g-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Realme Narzo 60x 5G Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-vsx-screen-grabber-insight-detailed-overview/"><u>[New] VSX Screen Grabber Insight Detailed Overview</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-overcome-fullscreen-search-issues-with-limited-keyboard-functionality-on-flipbuildercom/"><u>1. Overcome Fullscreen Search Issues with Limited Keyboard Functionality on FlipBuilder.com</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-easy-guide-using-flipbook-apps-on-ipads-and-iphones/"><u>1) Easy Guide: Using FlipBook Apps on iPads and iPhones</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-efficient-techniques-for-capturing-google-voice-calls/"><u>2024 Approved Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-reinforcing-windows-photo-viewer-functionality-in-windows-10/"><u>2024 Approved Reinforcing Windows Photo Viewer Functionality in Windows 10</u></a></li>
+<li><a href="https://win-news.techidaily.com/a-step-by-step-guide-to-obtaining-a-flipbuilder-licensing-code-through-corporate-channels/"><u>A Step-by-Step Guide to Obtaining a FlipBuilder Licensing Code Through Corporate Channels</u></a></li>
+<li><a href="https://win-news.techidaily.com/adding-interactive-hyperlinks-to-your-flipbook-creations-using-easy-to-follow-steps/"><u>Adding Interactive Hyperlinks to Your Flipbook Creations Using Easy-to-Follow Steps</u></a></li>
+<li><a href="https://win-news.techidaily.com/are-there-file-dimensions-requirements-for-uploading-to-flipbuilder-and-creating-interactive-books-from-pdfs/"><u>Are There File Dimensions Requirements for Uploading to FlipBuilder & Creating Interactive Books From PDFs?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-from-your-iphone-11-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card from Your iPhone 11 Pro Max Apple ID and Apple Pay</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-13-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 13 without Password?</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-adding-pdf-documents-to-your-ibook-library/"><u>Step-by-Step Guide: Adding PDF Documents to Your iBook Library</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-boosting-dtv-reception-in-urban-settings-with-an-interior-antenna-setup/"><u>Step-by-Step Guide: Boosting DTV Reception in Urban Settings with an Interior Antenna Setup</u></a></li>
+<li><a href="https://win-news.techidaily.com/unveiling-multiple-perspectives-exploring-flip-image-output-options-on-flipbuilder/"><u>Unveiling Multiple Perspectives: Exploring Flip Image Output Options on FlipBuilder</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-flexus-200-klipschs-new-sound-innovation/"><u>Unveiling The Flexus 200: Klipsch's New Sound Innovation</u></a></li>
+<li><a href="https://win-news.techidaily.com/zoom-feature-for-dual-page-viewing-in-pdfs-created-with-flipbuilder-explained/"><u>Zoom Feature for Dual-Page Viewing in PDFs Created with FlipBuilder Explained</u></a></li>
 </ul></div>
 

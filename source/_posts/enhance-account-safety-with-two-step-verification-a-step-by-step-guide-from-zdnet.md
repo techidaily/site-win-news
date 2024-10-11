@@ -1,7 +1,7 @@
 ---
 title: "Enhance Account Safety with Two-Step Verification: A Step-by-Step Guide From ZDNet"
-date: 2024-09-30T21:34:13.681Z
-updated: 2024-10-05T18:38:49.083Z
+date: 2024-10-09T19:16:40.481Z
+updated: 2024-10-11T11:26:05.734Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -69,6 +62,13 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,16 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -202,20 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://common-error.techidaily.com/camera-troubles-behind-you-expert-tips-to-rectify-windows-error-0xa00f4292-and-resume-photography/"><u>[Camera Troubles Behind You]: Expert Tips to Rectify Windows Error 0xA00F4292 and Resume Photography!</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-in-2024-mastering-srt-to-txt-translation-the-fastest-guide/"><u>[Updated] In 2024, Mastering SRT to TXT Translation - The Fastest Guide</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-recollection-runway-your-easy-path-to-story-archives/"><u>[Updated] In 2024, Recollection Runway Your Easy Path to Story Archives</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-in-2024-the-professionals-handbook-to-video-editing-in-youtube-studio/"><u>[Updated] In 2024, The Professional's Handbook to Video Editing in YouTube Studio</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-distinctions-a-look-at-youtube-and-dailymention/"><u>[Updated] Unveiling Distinctions A Look at YouTube and DailyMention</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mp4gif-movavi/"><u>網頁上自由下載MP4變成GIF - 利用Movavi轉換工具</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
-<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
-<li><a href="https://program-issues.techidaily.com/1722998053798-fixing-the-issue-fallout-3-crashes-on-windows-11-solutions-inside/"><u>Fixing the Issue: Fallout 3 Crashes on Windows 11 – Solutions Inside!</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-reset-iphone-14-plus-to-factory-settings-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Reset iPhone 14 Plus to Factory Settings? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/nextgen-vision-optimal-4k-displays-for-professional-edits/"><u>NextGen Vision Optimal 4K Displays for Professional Edits</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-5-screen-recorder-for-chromebook-free-extensions-for-2024/"><u>[Updated] Top 5 Screen Recorder for Chromebook Free Extensions for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-building-a-brand-through-expertly-planned-onestream-broadcasts/"><u>2024 Approved Building a Brand Through Expertly Planned OneStream Broadcasts</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-master-time-reverse-techniques-for-ios-users/"><u>2024 Approved Master Time-Reverse Techniques for iOS Users</u></a></li>
+<li><a href="https://driver-download.techidaily.com/expert-advice-overcoming-hp-speaker-driver-challenges-in-multiple-windows-environments/"><u>Expert Advice: Overcoming HP Speaker Driver Challenges in Multiple Windows Environments</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-embed-a-minute-logo-in-your-browsers-status-bar-with-flipbuilder/"><u>How to Embed a Minute Logo in Your Browser's Status Bar with FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-self-design-your-own-book-theme-using-flipbuilders-tools/"><u>How to Self-Design Your Own Book Theme Using FlipBuilder's Tools</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-12-mini-to-samsung-simplified-guide-drfone-by-drfone-transfer-from-ios/"><u>How To Transfer From Apple iPhone 12 mini to Samsung Simplified Guide | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-film-views-through-zoom-adjustment/"><u>In 2024, Fine-Tuning Film Views Through Zoom Adjustment</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Infinix Note 30 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-dynamic-presentations-create-interactive-powerpoints-with-flippower-your-guide-to-animated-content-and-ebook-style-pages/"><u>Mastering Dynamic Presentations: Create Interactive PowerPoints with FlipPower - Your Guide to Animated Content and Ebook-Style Pages</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-multi-page-spreads-tips-for-scaling-up-your-pdf-presentations-on-two-pages-with-flipbuilder/"><u>Mastering Multi-Page Spreads: Tips for Scaling Up Your PDF Presentations on Two Pages with FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-page-zoom-tips-for-enlarging-text-in-pdfs-from-word-conversions-with-flipbuilder/"><u>Mastering Page Zoom: Tips for Enlarging Text in PDFs From Word Conversions with FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/preparing-your-controlled-flipping-book-for-import-adjust-size-and-paper-quality-on-flipbuilder/"><u>Preparing Your Controlled Flipping Book for Import - Adjust Size and Paper Quality on FlipBuilder</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/trustworthiness-of-ai-enhancements-gpt-apps-reviewed/"><u>Trustworthiness of AI Enhancements: GPT Apps Reviewed</u></a></li>
 </ul></div>
 

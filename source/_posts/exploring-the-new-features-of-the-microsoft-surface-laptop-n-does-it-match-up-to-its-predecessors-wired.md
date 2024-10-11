@@ -1,7 +1,7 @@
 ---
 title: "Exploring the New Features of the Microsoft Surface Laptop N: Does It Match Up to Its Predecessors? | Wired"
-date: 2024-10-04T17:26:16.902Z
-updated: 2024-10-05T22:54:51.776Z
+date: 2024-10-08T05:47:32.651Z
+updated: 2024-10-11T02:35:07.751Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -89,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -122,13 +129,6 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
-  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,10 +136,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
@@ -147,10 +147,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +196,22 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-leveraging-youtubes-cc-for-high-quality-video-creation/"><u>[New] Leveraging YouTube’s CC for High-Quality Video Creation</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/outube-mysteries-solved-decoding-unlisted-content-explained/"><u>[New] YouTube Mysteries Solved Decoding 'Unlisted' Content Explained</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-tecno-spark-10c-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Tecno Spark 10C | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-exploring-snapseed-a-simple-guide-for-new-users/"><u>2024 Approved Exploring Snapseed A Simple Guide for New Users</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-just-got-ios-friendly/"><u>ChatGPT Just Got iOS-Friendly!</u></a></li>
-<li><a href="https://win-news.techidaily.com/comprehensive-step-by-step-guide-taking-and-sharing-screenshots-with-your-blu-smartphone/"><u>Comprehensive Step-by-Step Guide: Taking and Sharing Screenshots with Your BLU Smartphone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/creating-captivating-narratives-for-video-blogs-for-2024/"><u>Creating Captivating Narratives for Video Blogs for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-find-x7-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Find X7 Ultra | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
-<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-broadcasting-your-life-in-real-time-from-pc-via-instagram/"><u>Step-by-Step Guide: Broadcasting Your Life in Real Time From PC via Instagram</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-tutorials-for-disabling-and-uninstalling-vpn-apps-from-ios-devices/"><u>Step-by-Step Tutorials for Disabling and Uninstalling VPN Apps From iOS Devices</u></a></li>
-<li><a href="https://network-issues.techidaily.com/xfx-error-corrected-system-resumed/"><u>XFX Error Corrected: System Resumed</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-beginners-guide-to-video-equipment-selection/"><u>[New] 2024 Approved The Beginner's Guide to Video Equipment Selection</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-ideation-at-its-peak-crafting-impressive-youtube-titles-for-2024/"><u>[Updated] Ideation at Its Peak Crafting Impressive YouTube Titles for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-nfl-matches-high-quality-footage-stream-and-save-from-official-site-macwindows-compatible/"><u>1) NFL Matches High-Quality Footage: Stream & Save From Official Site (Mac/Windows Compatible)</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-definitive-guide-for-shoppers-in-the-era-of-virtual-reality/"><u>2024 Approved The Definitive Guide for Shoppers in the Era of Virtual Reality</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-your-shots-into-dynamic-works-of-art-with-motion-blur-techniques/"><u>2024 Approved Transform Your Shots Into Dynamic Works of Art with Motion Blur Techniques</u></a></li>
+<li><a href="https://win-news.techidaily.com/access-full-sphere-vr-content-for-download-directly-from-youtube-facebook-and-more/"><u>Access Full-Sphere VR Content for Download Directly From YouTube, Facebook & More</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/conversion-gratuite-flac-a-mp3-avec-movavi-loutil-facile-et-rapide-pour-tous-les-utilisateurs/"><u>Conversion Gratuite FLAC À MP3 Avec Movavi - L'outil Facile Et Rapide Pour Tous Les Utilisateurs</u></a></li>
+<li><a href="https://win-news.techidaily.com/converting-and-downloading-nasm-tutorials-in-multiple-formats-like-mp4-avi-and-more/"><u>Converting and Downloading NASM Tutorials in Multiple Formats Like MP4, AVI & More</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/discover-the-best-free-film-torrent-and-streaming-websites-a-comprehensive-guide-top-16-picks/"><u>Discover the Best Free Film Torrent and Streaming Websites: A Comprehensive Guide (Top 16 Picks)</u></a></li>
+<li><a href="https://win-news.techidaily.com/download-and-listen-transforming-brian-tracys-lessons-into-mp3mp4-files-easily/"><u>Download and Listen: Transforming Brian Tracy's Lessons Into MP3/MP4 Files Easily</u></a></li>
+<li><a href="https://win-news.techidaily.com/download-episodes-and-programs-from-itv-convert-to-mp4avi-formats/"><u>Download Episodes & Programs From ITV: Convert to MP4/AVI Formats</u></a></li>
+<li><a href="https://win-news.techidaily.com/download-top-jiu-jitsu-techniques-from-expertly-curated-bjj-video-collection/"><u>Download Top Jiu-Jitsu Techniques From Expertly Curated BJJ Video Collection</u></a></li>
+<li><a href="https://win-news.techidaily.com/download-your-favorite-kickstarter-campaigns-as-mp4-with-this-simple-tool/"><u>Download Your Favorite Kickstarter Campaigns as MP4 with This Simple Tool</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-vivo-y100t-drfone-by-drfone-virtual-android/"><u>How to Use Life360 on Windows PC For Vivo Y100t? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-vivo-y100i-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Vivo Y100i Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/superior-5-web-video-capture-kits-for-2024/"><u>Superior 5 Web Video Capture Kits for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/ultimate-tutorial-on-retrieving-guitar-tricks-videos-as-high-quality-files-mp4-mov-mp3-avi/"><u>Ultimate Tutorial on Retrieving Guitar Tricks Videos as High-Quality Files (MP4, MOV, MP3, AVI)</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Affordable Microsoft Office 2019 Deal at $25 – Buy Now and Install Instructions | ZDNET Insights
-date: 2024-09-28T17:58:00.619Z
-updated: 2024-10-05T17:24:48.117Z
+date: 2024-10-09T18:33:46.650Z
+updated: 2024-10-11T06:08:33.909Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,6 +69,19 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -89,13 +102,6 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
-
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
-  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,28 +135,28 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,19 +202,19 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/updated-ultimate-guide-on-how-to-create-srt-file-plus-tips/"><u>[Updated] Ultimate Guide on How to Create SRT File (Plus Tips)</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/29-visionary-metaverse-projects-elucidating-potentialities/"><u>29 Visionary Metaverse Projects Elucidating Potentialities</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/craft-the-perfect-picture-on-android-with-these-5-best-apps-for-2024/"><u>Craft the Perfect Picture on Android with These 5 Best Apps for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/how-to-choose-lg-gram-laptop-156-2018-the-perfect-blend-of-long-battery-life-and-lightweight-design/"><u>How to Choose: LG Gram Laptop (15.6, 2018) - The Perfect Blend of Long Battery Life & Lightweight Design</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-xiaomi-redmi-note-12r-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Xiaomi Redmi Note 12R Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
-<li><a href="https://facebook.techidaily.com/invest-in-yourself-10-free-apps-for-social-savvy/"><u>Invest in Yourself: 10 FREE Apps for Social Savvy</u></a></li>
-<li><a href="https://tools.techidaily.com/wondershare/drfone/iphone-transfer/"><u>iOS Phone Manager/Transfer Tool</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iphones-a-compreenas-guide-to-storing-and-sharing-gifs/"><u>IPhones A Compreenas Guide to Storing & Sharing GIFs</u></a></li>
-<li><a href="https://win-news.techidaily.com/practical-strategies-for-downloading-tracks-from-beatport/"><u>Practical Strategies for Downloading Tracks From Beatport</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/quick-resize-youtube-to-fit-mac-display-ratio/"><u>Quick Resize YouTube to Fit Mac Display Ratio</u></a></li>
-<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-tutorials-for-disabling-and-uninstalling-vpn-apps-from-ios-devices/"><u>Step-by-Step Tutorials for Disabling and Uninstalling VPN Apps From iOS Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>[New] 2024 Approved Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-your-guide-to-affordable-cloud-collaboration-top-10-software-recommendations/"><u>[New] 2024 Approved Your Guide to Affordable Cloud Collaboration Top 10 Software Recommendations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-best-slo-mo-camera-apps-on-iosandroid-platforms/"><u>[New] Explore Best Slo-Mo Camera Apps on iOS/Android Platforms</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-top-11-techniques-for-perfecting-color-in-post-production/"><u>[New] In 2024, Top 11 Techniques for Perfecting Color in Post-Production</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-optimized-note-recording-on-mematic-app/"><u>[Updated] Optimized Note Recording on Mematic App</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-of-games-100plus-channel-spectrums-galore-for-2024/"><u>Arena of Games 100+ Channel Spectrums Galore for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-dashboard-a-responsive-bootstrap-4-admin-interface-for-django-applications/"><u>Creative Tim's Argon Dashboard - A Responsive Bootstrap 4 Admin Interface for Django Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-argon-pro-mui-the-ultimate-enhanced-dashboard-solution-for-react-applications/"><u>Creative Tim's Argon Pro MUI: The Ultimate Enhanced Dashboard Solution for React Applications</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-professional-paper-kit-version-2-elite-bootstrap-4-theme-and-ui-elements-collection/"><u>Creative Tim's Professional Paper Kit Version 2: Elite Bootstrap 4 Theme & UI Elements Collection</u></a></li>
+<li><a href="https://win-news.techidaily.com/creative-tims-ultimate-bootstrap-5-professional-ui-framework-for-premium-designers/"><u>Creative Tim's Ultimate Bootstrap 5 Professional UI Framework for Premium Designers</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-unique-reactive-designs-creatively-beyond-22-templates-from-creativetim/"><u>Discover Unique Reactive Designs: Creatively Beyond 22 Templates From @CreativeTim</u></a></li>
+<li><a href="https://win-news.techidaily.com/django-admin-mastery-innovative-template-solutions-from-creative-tim-for-superior-user-interfaces/"><u>Django Admin Mastery: Innovative Template Solutions From Creative Tim for Superior User Interfaces</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-upgrade-your-zebra-printers-software-on-windows-easy-guide-and-links/"><u>Download and Upgrade Your Zebra Printer's Software on Windows – Easy Guide & Links</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722892591611-the-ultimate-guide-to-fooling-friends-side-splitting-iphone-and-ipad-trickery-tips/"><u>The Ultimate Guide to Fooling Friends: Side-Splitting iPhone & iPad Trickery Tips</u></a></li>
 </ul></div>
 

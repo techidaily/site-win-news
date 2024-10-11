@@ -1,7 +1,7 @@
 ---
 title: Latest Innovations From Microsoft's Annual Surface & AI Expo - Insights by ZDNet
-date: 2024-09-28T19:51:20.836Z
-updated: 2024-10-05T21:19:09.489Z
+date: 2024-10-04T07:21:01.602Z
+updated: 2024-10-10T22:56:59.871Z
 tags:
   - microsoft
 categories:
@@ -53,13 +53,6 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 
 [See all](https://www.zdnet.com/newsletters/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **2\. Install Linux**
 
 Then, there's my default suggestion: [Move from your soon-to-be-outdated Windows 10 to Linux](https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.com/article/how-to-replace-windows-with-linux-mint-on-your-pc/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%22Move%20from%20your%20soon-to-be-outdated%20Windows%2010%20to%20Linux%22%7D). Yes, I know you've been told that Linux is hard to use and install. It's not. 
@@ -71,10 +64,10 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -129,6 +129,13 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
@@ -136,22 +143,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,17 +196,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-flipping-order-inverting-the-flow-of-your-youtube-watch-list-for-2024/"><u>[New] Flipping Order Inverting the Flow of Your YouTube Watch List for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/1716069811180-new-in-2024-capturing-screen-content-via-built-in-recorders-in-the-mate-and-p-series/"><u>[New] In 2024, Capturing Screen Content via Built-In Recorders in the Mate and P Series.</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/updated-360-camera-rigsmounts-for-vr-video-production/"><u>[Updated] 360 Camera Rigs/Mounts for VR Video Production</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-top-rated-software-for-effortlessly-inserting-stickers-into-images/"><u>1. Top Rated Software For Effortlessly Inserting Stickers Into Images</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-adventure-showdown-analyzing-gopros-hero5b-and-session/"><u>2024 Approved Adventure Showdown Analyzing GoPro's Hero5B & Session</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/2024-approved-vimeo-and-youtube-the-ultimate-showdown/"><u>2024 Approved Vimeo and YouTube The Ultimate Showdown</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamless-transition-strategies-for-shifting-contents-from-an-iphone-to-a-samsung-galaxy-device/"><u>Seamless Transition Strategies for Shifting Contents From an iPhone to a Samsung Galaxy Device</u></a></li>
-<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-strategies-for-upgrading-videos-to-high-definition/"><u>Top Strategies for Upgrading Videos to High Definition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/video-earnings-explored-in-depth-look-at-dm-and-yo-for-2024/"><u>Video Earnings Explored In-Depth Look at Dm & Yo for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-drift-through-darkness-a-cam-review/"><u>[New] Drift Through Darkness A CAM Review</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-cut-the-clutter-in-your-tiktok-archive-learn-to-edit-wisely/"><u>[New] In 2024, Cut the Clutter in Your TikTok Archive Learn to Edit Wisely</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-innovating-with-snapchats-new-highlight-feature/"><u>[New] In 2024, Innovating with Snapchat's New Highlight Feature</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-safedrive-backup-specialists-take/"><u>[New] In 2024, SafeDrive Backup Specialists' Take</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-breaking-into-the-elite-6-steps-for-becoming-an-instagram-certified-account/"><u>[Updated] In 2024, Breaking Into the Elite 6 Steps for Becoming an Instagram Certified Account</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-must-know-windows-10-tips-and-tricks/"><u>[Updated] Must-Know Windows 10 Tips and Tricks</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/addressing-android-and-ios-issues-with-fb-messages-video-transmission/"><u>Addressing Android & iOS Issues with FB Messages Video Transmission</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-to-change-ogv-format-into-optimal-mp4-video-quality/"><u>Effective Strategies to Change OGV Format Into Optimal MP4 Video Quality</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-full-guide-to-fix-itoolab-anygo-not-working-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Fix iToolab AnyGO Not Working On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-pro-level-chat-skills-inside-the-world-of-whatsapp-tips/"><u>In 2024, Pro-Level Chat Skills Inside the World of WhatsApp Tips</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-video-translation-playbook-with-13-expert-recommended-apps/"><u>In 2024, The Ultimate Video Translation Playbook with 13 Expert-Recommended Apps</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/practical-strategies-for-downloading-tracks-from-beatport/"><u>Practical Strategies for Downloading Tracks From Beatport</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-tutorials-for-disabling-and-uninstalling-vpn-apps-from-ios-devices/"><u>Step-by-Step Tutorials for Disabling and Uninstalling VPN Apps From iOS Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/streamlining-your-digital-library-a-guide-to-quick-reliable-internet-music-downloading/"><u>Streamlining Your Digital Library: A Guide to Quick, Reliable Internet Music Downloading</u></a></li>
 </ul></div>
 

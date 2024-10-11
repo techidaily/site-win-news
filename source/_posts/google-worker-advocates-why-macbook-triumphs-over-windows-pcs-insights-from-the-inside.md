@@ -1,7 +1,7 @@
 ---
 title: "Google Worker Advocates: Why MacBook Triumphs Over Windows PCs - Insights From the Inside"
-date: 2024-10-01T17:59:19.736Z
-updated: 2024-10-05T16:28:19.573Z
+date: 2024-10-08T11:29:01.032Z
+updated: 2024-10-10T23:22:25.302Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -98,10 +91,10 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
@@ -136,22 +129,29 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **5\. Try alternative security patching**
 
 Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://0patch.com/%22,%22target%22:%22%5Fblank%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%22%7D) offers customized patches for out-of-service operating systems. For example, [0Patch](https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/#link=%7B%22role%22:%22standard%22,%22href%22:%22https://www.zdnet.de/88411127/0patch-verspricht-sicherheitsupdates-fuer-windows-server-2012-bis-2026/%22,%22target%22:%22%22,%22absolute%22:%22%22,%22linkText%22:%220Patch%20offers%20%22%7D)supported Windows Server 2012 until 2026\. Now, it supports [Windows 10 for about $25 a year](https://0patch.com/pricing.html).
 
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,18 +196,20 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-craft-your-story-with-vscos-editing-power-tools/"><u>[New] Craft Your Story with VSCO’s Editing Power Tools</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-frostbite-finishes-olympic-ice-classics-for-2024/"><u>[Updated] Frostbite Finishes Olympic Ice Classics for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-streamlining-instagram-video-load-times-mobile/"><u>[Updated] Streamlining Instagram Video Load Times (Mobile)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/home-studio-ready-essential-webcam-recorders-reviewed-for-2024/"><u>Home Studio Ready Essential WebCam Recorders Reviewed for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-save-and-convert-your-favorite-videos-into-mp4avi-using-mojoclip-tool/"><u>How to Save and Convert Your Favorite Videos Into MP4/AVI Using MojoClip Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/marathi-audio-downloader-get-your-go-to-marathi-tracks-as-mp3s-flacs-aacs-and-more/"><u>Marathi Audio Downloader - Get Your Go-To Marathi Tracks as MP3s, FLACs, AACs, and More!</u></a></li>
-<li><a href="https://win-news.techidaily.com/mp3wavaac-converter-fast-download-tool-for-gaana-music-tracks/"><u>MP3/WAV/AAC Converter - Fast Download Tool for Gaana Music Tracks</u></a></li>
-<li><a href="https://win-news.techidaily.com/quick-and-effective-ways-to-convert-your-favorite-goo-videos-into-common-file-types/"><u>Quick and Effective Ways to Convert Your Favorite Goo Videos Into Common File Types</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamless-mp3-conversion-moving-your-playlist-from-spotify-straight-to-itunes/"><u>Seamless MP3 Conversion: Moving Your Playlist From Spotify Straight to iTunes</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-downloading-primewire-films-series-and-video-content/"><u>Step-by-Step Guide: Downloading PrimeWire Films, Series, and Video Content</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-evolution-of-language-models-exploring-the-variances-between-gpt-4-gpt-4-turbo-and-gpt-e/"><u>The Evolution of Language Models - Exploring the Variances Between GPT-4, GPT-4 Turbo & GPT-E</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/updated-2024-approved-the-best-text-to-speech-online-tools-to-use/"><u>Updated 2024 Approved The Best Text-to-Speech Online Tools To Use</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-poco-c65-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Poco C65 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-seamless-avi-media-playback-ideal-for-everyones-device/"><u>[New] Seamless Avi Media Playback - Ideal for Everyone's Device</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-the-easy-route-to-capturing-every-gameplay-moment/"><u>[New] The Easy Route to Capturing Every Gameplay Moment</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-building-on-your-content-a-guide-to-stellar-videography-closures/"><u>[Updated] In 2024, Building on Your Content A Guide to Stellar Videography Closures</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-capturing-crisp-sound-a-guide-to-superior-audio-recording/"><u>2024 Approved Capturing Crisp Sound A Guide to Superior Audio Recording</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-efficient-video-production-tips-embracing-free-luts-in-obs-workflow/"><u>2024 Approved Efficient Video Production Tips Embracing Free LUTs in OBS Workflow</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-top-10-gif-recorder-mac/"><u>2024 Approved Top 10 Gif Recorder Mac</u></a></li>
+<li><a href="https://win-news.techidaily.com/achieve-unmatched-development-results-with-top-tier-talent-from-microsoft-explore-opportunities-on-zdnet/"><u>Achieve Unmatched Development Results with Top-Tier Talent From Microsoft: Explore Opportunities on ZDNet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/experts-choice-ultimate-guide-to-the-best-airtag-wallets-of-2024-on-zdnet-compare-and-buy-smart/"><u>Experts' Choice: Ultimate Guide to the Best AirTag Wallets of 2024 on ZDNET | Compare and Buy Smart!</u></a></li>
+<li><a href="https://win-news.techidaily.com/explore-the-finest-desks-for-workspaces-insights-by-zdnet/"><u>Explore the Finest Desks for Workspaces | Insights by ZDNet</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-apple-iphone-13-mini-by-drfone-ios/"><u>In 2024, New Multiple Ways How To Remove iCloud Activation Lock On your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://win-news.techidaily.com/latest-innovations-from-microsofts-annual-surface-and-ai-expo-insights-by-zdnet/"><u>Latest Innovations From Microsoft's Annual Surface & AI Expo - Insights by ZDNet</u></a></li>
+<li><a href="https://driver-download.techidaily.com/logitech-g602-driver-download-for-windows/"><u>Logitech G602 Driver Download for Windows</u></a></li>
+<li><a href="https://win-news.techidaily.com/revive-your-aging-pc-with-these-5-time-tested-tricks-for-windows-10-users-many-options-completely-gratiszdnet-guide/"><u>Revive Your Aging PC with These 5 Time-Tested Tricks for Windows 10 Users - Many Options Completely Gratis![ZDNet Guide]</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-trending-internet-browsers-insights-from-zdnet/"><u>Top Trending Internet Browsers : Insights From ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/unlock-bings-new-dark-mode-feature-a-step-by-step-guide-for-users-zdnet/"><u>Unlock Bing's New Dark Mode Feature - A Step-by-Step Guide for Users | ZDNet</u></a></li>
 </ul></div>
 

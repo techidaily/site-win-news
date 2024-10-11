@@ -1,7 +1,7 @@
 ---
 title: "Access Bing Chat's Latest Update with Dark Mode: Your Comprehensive Tutorial on Switching It On | ZDNET"
-date: 2024-09-30T20:26:53.903Z
-updated: 2024-10-05T17:59:49.390Z
+date: 2024-10-04T10:58:36.587Z
+updated: 2024-10-10T22:35:15.883Z
 tags:
   - microsoft
 categories:
@@ -64,10 +64,16 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
@@ -89,6 +95,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -123,10 +136,10 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
-  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -136,22 +149,15 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 **Also: [Linux might be your best bet for heightening your desktop computer security](https://www.zdnet.com/article/linux-might-be-your-best-bet-for-heightening-your-desktop-computer-security/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Ignore it and keep running Windows 10** 
 
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Conclusion**
 
@@ -196,22 +202,24 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-techcapture-pro-a-comprehensive-2023-study/"><u>[New] In 2024, TechCapture Pro A Comprehensive 2023 Study</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-social-media-sensation-making-your-vids-pop/"><u>[Updated] In 2024, Social Media Sensation Making Your Vids Pop</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-time-reversal-tactics-unique-youtube-video-experiences/"><u>[Updated] Time-Reversal Tactics Unique YouTube Video Experiences</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/boost-your-browsing-make-firefox-zoom-at-lightning-speed-with-these-easy-fixes/"><u>Boost Your Browsing: Make Firefox Zoom at Lightning Speed with These Easy Fixes</u></a></li>
-<li><a href="https://win-dash.techidaily.com/brother-mfc-l2740dw-windows-compatible-drivers-download-and-installation-guide/"><u>Brother MFC-L2740DW Windows Compatible Drivers: Download and Installation Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-nokia-c02-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Nokia C02 to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/discover-the-most-popular-vr-cycling-worlds/"><u>Discover the Most Popular VR Cycling Worlds</u></a></li>
-<li><a href="https://win-news.techidaily.com/effective-strategies-to-change-ogv-format-into-optimal-mp4-video-quality/"><u>Effective Strategies to Change OGV Format Into Optimal MP4 Video Quality</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
-<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
-<li><a href="https://win-news.techidaily.com/practical-strategies-for-downloading-tracks-from-beatport/"><u>Practical Strategies for Downloading Tracks From Beatport</u></a></li>
-<li><a href="https://win-news.techidaily.com/streamlining-your-digital-library-a-guide-to-quick-reliable-internet-music-downloading/"><u>Streamlining Your Digital Library: A Guide to Quick, Reliable Internet Music Downloading</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-complete-tech-manual-for-game-screen-recording-win10-for-2024/"><u>The Complete Tech Manual for Game Screen Recording Win10 for 2024</u></a></li>
-<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v29e-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-effective-use-of-look-up-tables-in-cinematic-color-grading/"><u>[New] In 2024, Effective Use of Look-Up Tables in Cinematic Color Grading</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-leveraging-video-conferencing-a-guide-to-zipping-up-zoom-and-gmail-integration/"><u>[New] In 2024, Leveraging Video Conferencing A Guide to Zipping Up Zoom and Gmail Integration</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-techniques-of-composing-persuasive-content-in-vlogging-for-2024/"><u>[New] Techniques of Composing Persuasive Content in Vlogging for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-what-is-the-meaning-and-functionality-of-a-blue-emoji-in-messenger-in-2024/"><u>[New] What Is the Meaning and Functionality of a Blue Emoji in Messenger, In 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-pinnacle-20-anime-songs-to-start-with/"><u>[Updated] Pinnacle 20 Anime Songs to Start With</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-overcome-fullscreen-search-issues-with-limited-keyboard-functionality-on-flipbuildercom/"><u>1. Overcome Fullscreen Search Issues with Limited Keyboard Functionality on FlipBuilder.com</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-easy-guide-using-flipbook-apps-on-ipads-and-iphones/"><u>1) Easy Guide: Using FlipBook Apps on iPads and iPhones</u></a></li>
+<li><a href="https://win-news.techidaily.com/a-step-by-step-guide-to-obtaining-a-flipbuilder-licensing-code-through-corporate-channels/"><u>A Step-by-Step Guide to Obtaining a FlipBuilder Licensing Code Through Corporate Channels</u></a></li>
+<li><a href="https://win-news.techidaily.com/adding-interactive-hyperlinks-to-your-flipbook-creations-using-easy-to-follow-steps/"><u>Adding Interactive Hyperlinks to Your Flipbook Creations Using Easy-to-Follow Steps</u></a></li>
+<li><a href="https://win-news.techidaily.com/are-there-file-dimensions-requirements-for-uploading-to-flipbuilder-and-creating-interactive-books-from-pdfs/"><u>Are There File Dimensions Requirements for Uploading to FlipBuilder & Creating Interactive Books From PDFs?</u></a></li>
+<li><a href="https://win-news.techidaily.com/creating-an-engaging-reading-experience-adding-sounds-to-each-page-flip-on-flipbuildercom/"><u>Creating an Engaging Reading Experience: Adding Sounds to Each Page Flip on FlipBuilder.com</u></a></li>
+<li><a href="https://win-news.techidaily.com/direct-conversion-of-rtf-to-pdf-using-flipbuilder-effortless-file-editing-and-outputting-techniques/"><u>Direct Conversion of RTF to PDF Using FlipBuilder: Effortless File Editing and Outputting Techniques</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-vivo-y100t-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Vivo Y100t to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-iphone-12-mini-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On iPhone 12 mini If Youve Tried Everything</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-motorola-edge-40-neo-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Motorola Edge 40 Neo to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-review-in-depth-analysis-of-computer-components/"><u>Tom's Tech Review: In-Depth Analysis of Computer Components</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-how-to-resolve-undetected-steam-vr-devices-on-windowsmac/"><u>Troubleshooting Tips: How to Resolve Undetected Steam VR Devices on Windows/Mac</u></a></li>
+<li><a href="https://win-news.techidaily.com/unveiling-multiple-perspectives-exploring-flip-image-output-options-on-flipbuilder/"><u>Unveiling Multiple Perspectives: Exploring Flip Image Output Options on FlipBuilder</u></a></li>
+<li><a href="https://win-news.techidaily.com/zoom-feature-for-dual-page-viewing-in-pdfs-created-with-flipbuilder-explained/"><u>Zoom Feature for Dual-Page Viewing in PDFs Created with FlipBuilder Explained</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Securing Elite Programming Talent: How Microsoft Outshines Competitors for Developer Productivity, According to ZDNet"
-date: 2024-10-01T16:55:00.594Z
-updated: 2024-10-05T19:41:48.213Z
+date: 2024-10-09T05:00:56.760Z
+updated: 2024-10-11T01:46:51.520Z
 tags:
   - microsoft
 categories:
@@ -54,10 +54,10 @@ ZDNET's Tech Today newsletter is a daily briefing of the newest, most talked abo
 [See all](https://www.zdnet.com/newsletters/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **2\. Install Linux**
@@ -69,13 +69,6 @@ Sure, back in the 2000s, you needed to be a Linux shell command wizard to instal
 **Also: [5 reasons why Linux will overtake Windows and MacOS on the desktop](https://www.zdnet.com/article/5-reasons-why-linux-will-eventually-overtake-windows-and-macos-on-the-desktop/)**
 
 Another advantage of running Linux is that your PC will never be left behind. I have computers more than a decade old that came with Windows XP, and they're still running up-to-date Linux. 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **3\. Switch to ChromeOS**
 
@@ -96,6 +89,13 @@ By the way, neither Linux nor ChromeOS Flex will cost you a dime. They're free n
 **Also: [Google might abandon ChromeOS Flex. Here's why - and what you can do about it](https://www.zdnet.com/article/google-might-abandon-chromeos-flex-next-heres-why/)**
 
 If you want to replace your Windows machines in a business, Google can help you. For organizations using ChromeOS Flex under [Chrome Enterprise Upgrade](https://chromeos.google/products/device-management/) or [Chrome Education Upgrade](https://services.google.com/fh/files/misc/chrome%5Feducation%5Fupgrade%5Fonepager.pdf), Google offers dedicated support. You can access support via the Google Admin console. There, you'll find help with device enrollment, connectivity issues, and software-related problems. The price starts at $50 per machine per year. 
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **4\. Pay for Windows 10 Extended Support**
 
@@ -130,10 +130,16 @@ In summary, commercial organizations will pay $61 to $244 per device over three 
 I'd only go with an ESU, myself, if I _really_ had no other choice.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **5\. Try alternative security patching**
@@ -147,10 +153,10 @@ Finally, a company called [0Patch](https://0patch.com/#link=%7B%22role%22:%22sta
 Do you have a death wish!? No, just no! Unless your Windows 10 PC is never, ever connected to the internet, this is just asking for trouble.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Conclusion**
@@ -196,14 +202,16 @@ Don't trash your old Windows 10 PCs! There are many ways to give them a long, us
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-innovative-economical-switch-replicas/"><u>[New] Innovative Economical Switch Replicas</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-transforming-views-11-keys-to-thriving-in-facebook-video-marketing/"><u>[Updated] 2024 Approved Transforming Views 11 Keys to Thriving in Facebook Video Marketing</u></a></li>
-<li><a href="https://win-news.techidaily.com/complimentary-ai-helper-now-available-from-microsoft-and-khan-academy-for-us-educators-discover-how-on-zdnet/"><u>Complimentary AI Helper Now Available From Microsoft & Khan Academy for U.S. Educators - Discover How on ZDNet</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/exploring-googles-artificial-intelligence-endeavor-unveiling-the-mysteries-of-project-gemini/"><u>Exploring Google's Artificial Intelligence Endeavor: Unveiling the Mysteries of Project Gemini</u></a></li>
-<li><a href="https://win-news.techidaily.com/free-downloads-secure-a-recovery-disk-imaging-for-dell-hp-lenovo-and-microsoft-surfaces-on-windowslinux-tips-from-zdnet/"><u>Free Downloads: Secure a Recovery Disk Imaging for Dell, HP, Lenovo & Microsoft Surfaces on Windows/Linux - Tips From ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/google-worker-advocates-why-macbook-triumphs-over-windows-pcs-insights-from-the-inside/"><u>Google Worker Advocates: Why MacBook Triumphs Over Windows PCs - Insights From the Inside</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-sound-capture-in-windows-11/"><u>Mastering Sound Capture in Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-enhancing-your-experience-with-splash-20-update/"><u>Step-by-Step Guide: Enhancing Your Experience with Splash 2.0 Update</u></a></li>
-<li><a href="https://location-social.techidaily.com/top-7-skype-hacker-to-hack-any-skype-account-on-your-motorola-razr-40-ultra-drfone-by-drfone-virtual-android/"><u>Top 7 Skype Hacker to Hack Any Skype Account On your Motorola Razr 40 Ultra | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-charting-success-top-online-video-channels/"><u>[New] In 2024, Charting Success Top Online Video Channels</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boosting-creative-project-success-using-chatgpts-advanced-tools/"><u>Boosting Creative Project Success Using ChatGPT's Advanced Tools</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-motorola-edgeplus-2023-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Motorola Edge+ (2023)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Oppo A18 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-prime-window-viewer-for-speedy-images/"><u>In 2024, Prime Window Viewer for Speedy Images</u></a></li>
+<li><a href="https://win-news.techidaily.com/seamless-cross-platform-file-sharing-connecting-windows-and-android-via-google-quick-share-insights-from-zdnet/"><u>Seamless Cross-Platform File Sharing: Connecting Windows & Android via Google Quick Share - Insights From ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transforming-your-windows-home-into-a-professional-pro-version-insights-from-zdnet/"><u>Step-by-Step Guide: Transforming Your Windows Home Into a Professional Pro Version - Insights From ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/the-impending-crisis-for-microsofts-windows-10-looms-in-under-a-year-how-they-plan-to-respond-zdnet/"><u>The Impending Crisis for Microsoft's Windows 10 Looms in Under a Year - How They Plan to Respond | ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-ranked-laptops-in-depth-comparison-between-apple-dell-asus-and-others-insights-from-zdnet/"><u>Top-Ranked Laptops : In-Depth Comparison Between Apple, Dell, Asus & Others - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unbeatable-freebie-subtitle-services-our-top-picks/"><u>Unbeatable Freebie Subtitle Services Our Top Picks</u></a></li>
+<li><a href="https://win-news.techidaily.com/windows-11-upgrade-now-at-a-cost-the-final-word-from-microsoft-according-to-zdnet/"><u>Windows 11 Upgrade Now at a Cost – The Final Word From Microsoft, According to ZDNet</u></a></li>
 </ul></div>
 
