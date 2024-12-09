@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2024-11-23T21:07:44.807Z
-updated: 2024-12-01T01:52:59.473Z
+date: 2024-12-05T03:16:21.934Z
+updated: 2024-12-09T04:59:12.487Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,22 +74,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ultimate-spots-for-discovering-rich-gold-text-effects/"><u>[New] In 2024, Ultimate Spots for Discovering Rich, Gold Text Effects</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-video-vibrancy-picking-the-best-5-enhancement-aids/"><u>[Updated] 2024 Approved Video Vibrancy Picking the Best 5 Enhancement Aids</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-close-up-power-in-videoleap-zooming-made-easy/"><u>[Updated] Close-Up Power in VideoLeap Zooming Made Easy</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-transform-speeches-into-animated-videos/"><u>2024 Approved Transform Speeches Into Animated Videos</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-781011-linux-usb/"><u>如何在 Windows 7、8、10、11 與 Linux 中制作可引啟 USB 設備</u></a></li>
-<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-oppo-find-x6-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Oppo Find X6 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-outstanding.techidaily.com/backing-up-your-entire-pc-a-guide-to-utilizing-wbadmin-for-full-system-restore-in-windows-tenth-version/"><u>Backing Up Your Entire PC: A Guide to Utilizing WBAdmin for Full System Restore in Windows Tenth Version</u></a></li>
-<li><a href="https://win-news.techidaily.com/come-esegui-laggiorna-a-windows-11-e-proteggi-i-tuoi-applicativi-con-questi-tre-metodi/"><u>Come Esegui L'Aggiorna a Windows 11 E Proteggi I Tuoi Applicativi Con Questi Tre Metodi!</u></a></li>
-<li><a href="https://win-news.techidaily.com/emeditor-text-editor-understanding-the-academic-and-technical-licensing-terms/"><u>EmEditor Text Editor: Understanding the Academic and Technical Licensing Terms</u></a></li>
-<li><a href="https://win-news.techidaily.com/guide-pour-recuperation-de-donnees-a-partir-dun-hdd-inutilise-quelles-sont-tes-options/"><u>Guide Pour Récupération De Données À Partir D’un HDD Inutilisé : Quelles Sont Tes Options ?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-vivo-v30-lite-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo V30 Lite 5G Mirror Screen to PC? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-11-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme 11 5G Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/pro-artists-rejoice-with-monoprices-graphics-tablet-a-comprehensive-review-of-its-premium-features-at-an-unbeatable-price-point/"><u>Pro Artists Rejoice with Monoprice's Graphics Tablet: A Comprehensive Review of Its Premium Features at an Unbeatable Price Point.</u></a></li>
-<li><a href="https://win-news.techidaily.com/qnap-naswindows-7/"><u>QNAP NASにWindows 7データを簡単に複製する - 実用ガイド</u></a></li>
-<li><a href="https://win-news.techidaily.com/scopri-i-primissimi-applicativi-di-backup-e-sincronizzazione-file-in-windows-elenco-consigliato/"><u>Scopri I Primissimi Applicativi Di Backup E Sincronizzazione File in Windows - Elenco Consigliato</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-selecting-and-installing-the-perfect-vmware-network-interface/"><u>Step-by-Step Guide: Selecting & Installing the Perfect VMware Network Interface</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-gratuite-alternatives-cobian-backup/"><u>Top Gratuite Alternatives Cobian Backup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-methods-for-documenting-live-youtube-broadcasts/"><u>[Updated] In 2024, Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
+<li><a href="https://win-news.techidaily.com/connect-and-configure-dual-or-more-displays-for-your-computer-tips-from-yl-software-experts/"><u>Connect and Configure Dual or More Displays for Your Computer - Tips From YL Software Experts</u></a></li>
+<li><a href="https://win-news.techidaily.com/halloween-desktop-artwork-screensavers-wallpapers-and-the-brand-name-yl-computing/"><u>Halloween, Desktop Artwork, Screensavers, Wallpapers, and the Brand Name YL Computing.</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-overcome-hardware-challenges-in-oculus-headsets/"><u>How To Repair & Overcome Hardware Challenges in Oculus Headsets</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-by-yl-computing/"><u>Identifying Your System's GPU: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/maximizing-storage-on-your-iphone-a-step-by-step-guide-to-free-up-gigabytes-techtips/"><u>Maximizing Storage on Your iPhone: A Step-by-Step Guide to Free Up Gigabytes | TechTips</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/optimize-your-workflows-10-essential-chatgpt-integrations-in-vs-code/"><u>Optimize Your Workflows: 10 Essential ChatGPT Integrations in VS Code</u></a></li>
+<li><a href="https://facebook.techidaily.com/pioneers-pushing-boundaries-triggering-discord/"><u>Pioneers Pushing Boundaries, Triggering Discord</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-your-pcs-ram-problems-a-step-by-step-guide-techwise-tips-from-yl-computing/"><u>Solving Your PC's RAM Problems: A Step-by-Step Guide - TechWise Tips From YL Computing</u></a></li>
 </ul></div>
 

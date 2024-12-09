@@ -1,7 +1,7 @@
 ---
 title: 3 Functions on Your Singularity Mixer | HD Video Tutorial
-date: 2024-11-23T16:05:42.915Z
-updated: 2024-11-30T17:17:14.970Z
+date: 2024-12-04T22:18:31.584Z
+updated: 2024-12-08T19:08:02.982Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,20 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-best-10-sites-to-get-free-images/"><u>[New] Best 10 Sites to Get Free Images</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-macos-sierra-switching-back-to-os-x-el-capitan/"><u>[New] MacOS Sierra Switching Back To OS X El Capitan</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-10-must-use-filmmaking-cuts-explained/"><u>[Updated] 10 Must-Use Filmmaking Cuts Explained</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-deciphering-authenticity-in-your-facebook-brand-community/"><u>[Updated] 2024 Approved Deciphering Authenticity in Your Facebook Brand Community</u></a></li>
-<li><a href="https://win-news.techidaily.com/comment-graver-securement-un-dvd-de-tous-types-sur-une-cle-usb-guide-detaille/"><u>Comment Graver Securement Un DVD De Tous Types Sur Une Clé USB - Guide Détaillé</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/conquering-the-creative-sector-with-savvy-strategies/"><u>Conquering the Creative Sector with Savvy Strategies</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/expert-advice-how-to-easily-change-your-facebook-login-credentials/"><u>Expert Advice: How to Easily Change Your Facebook Login Credentials</u></a></li>
-<li><a href="https://win-news.techidaily.com/guide-detaille-pour-faire-fonctionner-un-appareil-usb-inexplicablement-ignore-dans-windows-11/"><u>Guide Détaillé Pour Faire Fonctionner Un Appareil USB Inexplicablement Ignoré Dans Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-generate-portable-windows-installers-for-xpvista7-on-a-flash-drive-using-three-different-techniques/"><u>How to Generate Portable Windows Installers for XP/Vista/7 on a Flash Drive Using Three Different Techniques</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-safely-and-quickly-retrieve-data-from-an-unavailable-micro-sd-card-sector/"><u>How to Safely and Quickly Retrieve Data From an Unavailable Micro SD Card Sector</u></a></li>
-<li><a href="https://win-news.techidaily.com/les-3-meilleurs-sujets-dechec-pour-supprimer-totalement-votre-hdd-a-laide-de-dban/"><u>Les 3 Meilleurs Sujets D'Échec Pour Supprimer Totalement Votre HDD À L'Aide De DBAN</u></a></li>
-<li><a href="https://techtrends.techidaily.com/mastering-dvd-burning-on-hdd-with-windows-117-a-step-by-step-guide-to-using-winxdvd/"><u>Mastering DVD Burning on HDD with Windows 11/7: A Step-by-Step Guide to Using WinXDVD</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/our-5-favorite-sleep-apps-for-apple-watch/"><u>Our 5 Favorite Sleep Apps for Apple Watch</u></a></li>
-<li><a href="https://win-news.techidaily.com/quick-and-simple-guide-to-moving-data-from-external-hard-drive-to-windows-11/"><u>Quick & Simple Guide to Moving Data From External Hard Drive to Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/resolving-vdcpromo-failed-during-vcenter-setup-issues/"><u>Resolving 'VDCpromo Failed During vCenter Setup' Issues</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshoot-windows-nerror-0xc00000e-expert-solutions-and-backup-strategies-for-a-smooth-operating-experience/"><u>Troubleshoot Windows nError 0xC00000e: Expert Solutions & Backup Strategies for a Smooth Operating Experience</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/troubleshooting-and-updating-webcam-drivers-made-simple-on-windows-11/"><u>Troubleshooting and Updating Webcam Drivers Made Simple on Windows 11</u></a></li>
-<li><a href="https://article-posts.techidaily.com/vision-quest-steps-to-secure-your-dream-4k-screen-for-2024/"><u>Vision Quest Steps to Secure Your Dream 4K Screen for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/wd-my-passport-avec-les-meilleures-fonctionnalites-de-sauvegarde-aomei-backupper-enrichi/"><u>WD My Passport Avec Les Meilleures Fonctionnalités De Sauvegarde : AOMEI Backupper Enrichi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-get-the-glamour-swipes-masterful-tinder-profile-secrets-revealed/"><u>[New] Get the Glamour Swipes - Masterful Tinder Profile Secrets Revealed</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-ultimate-gear-guide-for-fresh-powder-adventures/"><u>[Updated] 2024 Approved Ultimate Gear Guide for Fresh Powder Adventures</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-unmissable-virtual-realms-for-gamers/"><u>[Updated] In 2024, Unmissable Virtual Realms for Gamers</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-identifying-common-reasons-behind-scanner-breakdowns-in-depth-insight-from-yl-computing/"><u>1. Identifying Common Reasons Behind Scanner Breakdowns - In-Depth Insight From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-ultimate-guide-switching-your-default-browser-search-provider-on-windows-tips-from-yl-computing/"><u>1. Ultimate Guide: Switching Your Default Browser Search Provider on Windows - Tips From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/android-safe-mode-how-to-turn-off-safe-mode-on-lava-blaze-2-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Safe Mode - How to Turn off Safe Mode on Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/comprehensive-guide-to-the-affordable-and-speedy-raspberry-pi-m2-hatplus/"><u>Comprehensive Guide to the Affordable & Speedy Raspberry Pi M.2 HAT+</u></a></li>
+<li><a href="https://win-news.techidaily.com/download-beautiful-cotton-cookie-wallpapers-and-bg-sets-from-yl-softwares-exclusive-collection/"><u>Download Beautiful Cotton Cookie Wallpapers & Bg Sets From YL Software's Exclusive Collection</u></a></li>
+<li><a href="https://win-news.techidaily.com/efficiently-handling-system-energy-settings-insights-by-yl-software-experts/"><u>Efficiently Handling System Energy Settings - Insights by YL Software Experts</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/huawei-p20-pro-examined-exceptional-photography-capabilities-in-an-impressive-device/"><u>Huawei P20 Pro Examined: Exceptional Photography Capabilities in an Impressive Device</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-tecno-camon-20-pro-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Tecno Camon 20 Pro 5G Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/navigating-volatile-gold-prices-insights-from-experts-on-mitigating-risk-in-a-high-stakes-market-expert-analysis-by-yl-computing/"><u>Navigating Volatile Gold Prices: Insights From Experts on Mitigating Risk in a High-Stakes Market - Expert Analysis by YL Computing</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/rootjunky-apk-to-bypass-google-frp-lock-for-nokia-g310-by-drfone-android/"><u>Rootjunky APK To Bypass Google FRP Lock For Nokia G310</u></a></li>
+<li><a href="https://win-news.techidaily.com/successfully-setting-up-dual-gpus-common-challenges-and-solutions-yl-computing-guide/"><u>Successfully Setting Up Dual GPUs: Common Challenges & Solutions - YL Computing Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/tracing-back-to-origins-foddian-games/"><u>Tracing Back to Origins: Foddian Games</u></a></li>
 </ul></div>
 

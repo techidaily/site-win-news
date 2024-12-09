@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2024-11-25T23:22:50.621Z
-updated: 2024-11-30T20:47:24.148Z
+date: 2024-12-02T03:14:37.894Z
+updated: 2024-12-09T01:18:57.644Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,22 +107,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-vimeo-playback-velocity/"><u>[New] Enhancing Vimeo Playback Velocity</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>[New] In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-vibe-of-the-town-top-20-viral-tiktok-rap-songs-to-follow/"><u>[New] In 2024, Vibe of the Town Top 20 Viral TikTok Rap Songs to Follow</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-telltale-signs-your-chat-is-hidden-for-2024/"><u>[New] Telltale Signs Your Chat Is Hidden for 2024</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-choosing-between-obs-and-fraps-for-capture/"><u>[Updated] In 2024, Choosing Between OBS and Fraps for Capture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-unlock-the-magic-for-fbs-10-music-vids-recipe-book/"><u>2024 Approved Unlock the Magic for FB's #10 Music Vids Recipe Book</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-operating-system-for-gamers-windows-11-or-windows-10/"><u>Best Operating System for Gamers: Windows 11 or Windows 10?</u></a></li>
-<li><a href="https://win-news.techidaily.com/festplattenreparatur-wiederherstellung-und-erweiterung-von-nicht-zugeordnetem-speicherplatz/"><u>Festplattenreparatur: Wiederherstellung Und Erweiterung Von Nicht Zugeordnetem Speicherplatz</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-vivo-s17-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Vivo S17 Easily & Safely | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-successfully-insert-mp3-songs-into-itunes-top-3-solutions-for-common-errors/"><u>How To Successfully Insert MP3 Songs Into iTunes: Top 3 Solutions for Common Errors</u></a></li>
-<li><a href="https://win-news.techidaily.com/instruzione-passo-passo-per-creare-unimage-iso-da-hard-disk-utilizzando-windows-11/"><u>Instruzione Passo-Passo per Creare Un'Image ISO Da Hard Disk Utilizzando Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/losungen-fur-iphone-videoprobleme-bei-verschiedenen-bedingungen/"><u>Lösungen Für iPhone-Videoprobleme Bei Verschiedenen Bedingungen</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-service-setups-for-an-immaculate-windows-11-launch-experience/"><u>Mastering Service Setups for an Immaculate Windows 11 Launch Experience</u></a></li>
-<li><a href="https://win-news.techidaily.com/original-asus-wiederherstellungsschlussel-fur-pcs-einfache-systemrettung/"><u>Original Asus Wiederherstellungsschlüssel Für PCs: Einfache Systemrettung</u></a></li>
-<li><a href="https://win-news.techidaily.com/quick-and-easy-guide-retrieving-deleted-songs-using-3-proven-techniques/"><u>Quick & Easy Guide: Retrieving Deleted Songs Using 3 Proven Techniques</u></a></li>
-<li><a href="https://discover-community.techidaily.com/winx-mediatrans-anleitung-professionelle-schritt-fur-schritt-guide-zum-hochladen-von-musik-videos-und-fotos/"><u>WinX MediaTrans-Anleitung: Professionelle Schritt-Für-Schritt-Guide Zum Hochladen Von Musik, Videos Und Fotos</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728477814728-windows-10/"><u>システム復元ポイントをWindows 10上で作成する詳しいガイド</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ransforming-spaces-with-channels-top-10-online-tools-revealed-for-2024/"><u>[New] Transforming Spaces with Channels Top 10 Online Tools Revealed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[Updated] 2024 Approved Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-windows-identifying-top-5-cutting-tools-for-2024/"><u>[Updated] Mastering Windows Identifying Top 5 Cutting Tools for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-techniques-for-stunning-android-time-lapse-captures/"><u>[Updated] Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-the-comprehensive-guide-to-using-luts-in-video-editing/"><u>2024 Approved The Comprehensive Guide to Using LUTs in Video Editing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-mystery-scriptwriting-for-documentaries/"><u>2024 Approved Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
+<li><a href="https://win-news.techidaily.com/halloween-desktop-artwork-screensavers-wallpapers-and-the-brand-name-yl-computing/"><u>Halloween, Desktop Artwork, Screensavers, Wallpapers, and the Brand Name YL Computing.</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-troubleshoot-a-frozen-or-crashed-pc-expert-advice-from-yl-computings-software-solutions/"><u>How to Troubleshoot a Frozen or Crashed PC: Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/iron-man-series-ultimate-hd-wallpapers-and-backgrounds-4k-visuals-photo-collections-by-yl-software/"><u>Iron Man Series Ultimate HD Wallpapers and Backgrounds – 4K Visuals, Photo Collections by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-your-pcs-ram-problems-a-step-by-step-guide-techwise-tips-from-yl-computing/"><u>Solving Your PC's RAM Problems: A Step-by-Step Guide - TechWise Tips From YL Computing</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-live-photos-from-videos-top-converter-apps-and-tips-for-2024/"><u>Updated Unlock Live Photos From Videos Top Converter Apps and Tips for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-reveals-secrets-effective-strategies-for-boosting-hard-drive-speed/"><u>YL Software Reveals Secrets: Effective Strategies for Boosting Hard Drive Speed!</u></a></li>
 </ul></div>
 

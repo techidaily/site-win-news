@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2024-11-23T22:38:08.440Z
-updated: 2024-11-30T16:15:35.490Z
+date: 2024-12-08T02:38:19.934Z
+updated: 2024-12-09T02:55:19.289Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ost-effective-recording-devices-the-ultimate-list-for-2024/"><u>[New] Cost-Effective Recording Devices The Ultimate List for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-fix-red-eyes-quickly-in-photos-on-ios-without-cost/"><u>2024 Approved Fix Red Eyes Quickly in Photos on iOS Without Cost</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-how-to-prevent-and-mend-live-stream-glitches-fb/"><u>2024 Approved How to Prevent & Mend Live Stream Glitches (FB)</u></a></li>
-<li><a href="https://win-news.techidaily.com/4-effective-methods-to-restore-lost-data-outside-of-the-recycle-bin/"><u>4 Effective Methods to Restore Lost Data Outside of the Recycle Bin</u></a></li>
-<li><a href="https://win-news.techidaily.com/5-simple-methods-wirelessly-moving-data-from-iphone-to-your-computer/"><u>5 Simple Methods: Wirelessly Moving Data From iPhone to Your Computer</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728497867467-iphone/"><u>四种迅速的iPhone备份技术 |从老设备到新机进行简单转移</u></a></li>
-<li><a href="https://win-news.techidaily.com/comprehensive-guide-to-setting-up-data-lifespan-protocols-in-aomei-cloud-storage/"><u>Comprehensive Guide to Setting Up Data Lifespan Protocols in AOMEI Cloud Storage</u></a></li>
-<li><a href="https://win-news.techidaily.com/hacktivism-is-politically-or-socially-motivated-unautehorized-computer-access-which-can-be-both-legal-ethical-hacking-and-illegal-depending-on-circumstances6/"><u>Hacktivism Is Politically or Socially Motivated Unautehorized Computer Access, Which Can Be Both Legal (Ethical Hacking) and Illegal Depending on Circumstances.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-se-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-get-and-use-pokemon-go-promo-codes-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Get and Use Pokemon Go Promo Codes On Infinix Smart 8 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-oneplus-nord-ce-3-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from OnePlus Nord CE 3 5G to Laptop Without USB | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/optimizing-pc-performance-for-seamless-zombie-battles-in-dead-war/"><u>Optimizing PC Performance for Seamless Zombie Battles in 'Dead War'</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/overview-of-google-ar-sticker-and-its-alternative-for-2024/"><u>Overview of Google AR Sticker and Its Alternative for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/peak-visionary-suite-feedback/"><u>Peak Visionary Suite Feedback</u></a></li>
-<li><a href="https://win-news.techidaily.com/rubah-pakai-ios-proses-pemulihan-gadgeti-cloud-apple/"><u>Rubah Pakai iOS - Proses Pemulihan Gadgeti Cloud Apple</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-retrieving-your-missing-administrator-credentials-in-a-hyper-v-vm/"><u>Step-by-Step Guide: Retrieving Your Missing Administrator Credentials in a Hyper-V VM</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-2-methods-for-repairing-a-damaged-disk-in-windows-11-a-step-by-step-guide/"><u>Top 2 Methods for Repairing a Damaged Disk in Windows 11: A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-no-cost-replacements-for-hdclone-on-windows-os-versions/"><u>Top No-Cost Replacements for HDClone on Windows OS Versions</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/uncompromising-performance-meets-style-with-be-quiets-latest-dark-base-701-computer-case-launch/"><u>Uncompromising Performance Meets Style with Be Quiet's Latest Dark Base 지하 701 Computer Case Launch</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation-for-2024/"><u>[New] Unleash the Power of Windows 11 with Auto HDR Feature Activation for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-reclaiming-windows-photo-viewer-in-windows-10-methods-demystified-for-2024/"><u>[Updated] Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-easy-guide-retrieving-system-details-with-yl-computings-comprehensive-tool/"><u>1. Easy Guide: Retrieving System Details with YL Computing's Comprehensive Tool</u></a></li>
+<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-methods-for-diagnosing-network-adapter-functionality-tips-from-yl-computings-expertise/"><u>Effective Methods for Diagnosing Network Adapter Functionality - Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://win-news.techidaily.com/freshest-tracks-alert-for-karaoke-enthusiasts-experience-the-latest-additions-to-karaoke-cloud-pro-version-42020-with-our-subscription-service/"><u>Freshest Tracks Alert for Karaoke Enthusiasts! Experience the Latest Additions to Karaoke Cloud Pro (Version 4.20.20) with Our Subscription Service.</u></a></li>
+<li><a href="https://win-news.techidaily.com/high-res-spider-man-no-way-home-visual-graphics-backgrounds-and-posters-your-latest-web-design-solution-from-yl-computing/"><u>High-Res Spider-Man No Way Home Visual Graphics, Backgrounds & Posters - Your Latest Web Design Solution From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-can-i-retrieve-deleted-information-with-specialized-software-solutions-insights-from-yl-computing/"><u>How Can I Retrieve Deleted Information with Specialized Software Solutions? - Insights From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-can-you-quickly-identify-and-repair-a-defective-sound-card-tips-from-yl-computing-experts/"><u>How Can You Quickly Identify and Repair a Defective Sound Card - Tips From YL Computing Experts</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-c50-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco C50 Phone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-election-excitement-5-best-voting-simulators/"><u>In 2024, Election Excitement 5 Best Voting Simulators</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-key-principles-of-metaverse-commercial-strategy/"><u>In 2024, Key Principles of Metaverse Commercial Strategy</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-canons-official-windows-scanning-software-today-free/"><u>Quick and Easy: Download Canon's Official Windows Scanning Software Today, FREE!</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-extracting-zip-files-on-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Extracting ZIP Files on Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/unleash-limitless-creativity-with-dex-3-and-soundcloud-go-combo-over-200m-tracks-at-your-fingertips/"><u>Unleash Limitless Creativity with DEX 3 & SoundCloud GO Combo – Over 200M Tracks at Your Fingertips</u></a></li>
+<li><a href="https://common-error.techidaily.com/valorant-gaming-optimization-comprehensive-guide-to-correct-screen-distortion-problems/"><u>Valorant Gaming Optimization: Comprehensive Guide to Correct Screen Distortion Problems</u></a></li>
 </ul></div>
 
