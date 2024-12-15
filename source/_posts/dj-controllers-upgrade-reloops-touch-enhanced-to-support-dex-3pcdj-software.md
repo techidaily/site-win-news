@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2024-12-02T03:14:37.894Z
-updated: 2024-12-09T01:18:57.644Z
+date: 2024-12-10T16:22:12.453Z
+updated: 2024-12-14T21:22:03.435Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,18 +107,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ransforming-spaces-with-channels-top-10-online-tools-revealed-for-2024/"><u>[New] Transforming Spaces with Channels Top 10 Online Tools Revealed for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-engaging-audiences-how-tos-for-effective-youtube-logo-creation/"><u>[Updated] 2024 Approved Engaging Audiences How-To's for Effective YouTube Logo Creation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-mastering-windows-identifying-top-5-cutting-tools-for-2024/"><u>[Updated] Mastering Windows Identifying Top 5 Cutting Tools for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-top-techniques-for-stunning-android-time-lapse-captures/"><u>[Updated] Top Techniques for Stunning Android Time-Lapse Captures</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-the-comprehensive-guide-to-using-luts-in-video-editing/"><u>2024 Approved The Comprehensive Guide to Using LUTs in Video Editing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-mystery-scriptwriting-for-documentaries/"><u>2024 Approved Unveiling the Mystery Scriptwriting for Documentaries</u></a></li>
-<li><a href="https://win-news.techidaily.com/halloween-desktop-artwork-screensavers-wallpapers-and-the-brand-name-yl-computing/"><u>Halloween, Desktop Artwork, Screensavers, Wallpapers, and the Brand Name YL Computing.</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How and Where to Find a Shiny Stone Pokémon For Vivo V30 Lite 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-troubleshoot-a-frozen-or-crashed-pc-expert-advice-from-yl-computings-software-solutions/"><u>How to Troubleshoot a Frozen or Crashed PC: Expert Advice From YL Computing's Software Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/iron-man-series-ultimate-hd-wallpapers-and-backgrounds-4k-visuals-photo-collections-by-yl-software/"><u>Iron Man Series Ultimate HD Wallpapers and Backgrounds – 4K Visuals, Photo Collections by YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-your-pcs-ram-problems-a-step-by-step-guide-techwise-tips-from-yl-computing/"><u>Solving Your PC's RAM Problems: A Step-by-Step Guide - TechWise Tips From YL Computing</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-unlock-live-photos-from-videos-top-converter-apps-and-tips-for-2024/"><u>Updated Unlock Live Photos From Videos Top Converter Apps and Tips for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/yl-software-reveals-secrets-effective-strategies-for-boosting-hard-drive-speed/"><u>YL Software Reveals Secrets: Effective Strategies for Boosting Hard Drive Speed!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[New] 2024 Approved From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-screen-changes-made-simple/"><u>[New] Effortless Screen Changes Made Simple</u></a></li>
+<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
+<li><a href="https://win-news.techidaily.com/handling-incorrect-alerts-in-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>Handling Incorrect Alerts in Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora/"><u>HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-free-up-disk-space-by-removing-obsolete-files-and-enhance-your-pcs-performance-tips-from-yl-software/"><u>How to Free Up Disk Space by Removing Obsolete Files and Enhance Your PC's Performance - Tips From YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-transform-fb-video-files-into-mp4-directly/"><u>In 2024, Transform FB Video Files Into MP4 Directly</u></a></li>
+<li><a href="https://article-tips.techidaily.com/tips-for-a-smooth-transition-into-vr-worlds-for-2024/"><u>Tips for a Smooth Transition Into VR Worlds for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/transferring-data-efficiently-on-windows-master-the-art-of-dual-computer-file-sharing/"><u>Transferring Data Efficiently on Windows: Master the Art of Dual Computer File Sharing</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-flashing-or-flickering-solved/"><u>Windows 10 Screen Flashing Or Flickering [SOLVED]</u></a></li>
 </ul></div>
 

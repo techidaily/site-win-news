@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2024-12-05T03:16:21.934Z
-updated: 2024-12-09T04:59:12.487Z
+date: 2024-12-10T16:14:43.340Z
+updated: 2024-12-14T22:29:19.675Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,15 +74,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-best-methods-for-documenting-live-youtube-broadcasts/"><u>[Updated] In 2024, Best Methods for Documenting Live YouTube Broadcasts</u></a></li>
-<li><a href="https://win-news.techidaily.com/connect-and-configure-dual-or-more-displays-for-your-computer-tips-from-yl-software-experts/"><u>Connect and Configure Dual or More Displays for Your Computer - Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/halloween-desktop-artwork-screensavers-wallpapers-and-the-brand-name-yl-computing/"><u>Halloween, Desktop Artwork, Screensavers, Wallpapers, and the Brand Name YL Computing.</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-repair-and-overcome-hardware-challenges-in-oculus-headsets/"><u>How To Repair & Overcome Hardware Challenges in Oculus Headsets</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-your-systems-gpu-a-step-by-step-guide-by-yl-computing/"><u>Identifying Your System's GPU: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/maximizing-storage-on-your-iphone-a-step-by-step-guide-to-free-up-gigabytes-techtips/"><u>Maximizing Storage on Your iPhone: A Step-by-Step Guide to Free Up Gigabytes | TechTips</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/navigating-the-world-of-gopro-streaming-and-social-media-networks/"><u>Navigating the World of Gopro Streaming and Social Media Networks</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/optimize-your-workflows-10-essential-chatgpt-integrations-in-vs-code/"><u>Optimize Your Workflows: 10 Essential ChatGPT Integrations in VS Code</u></a></li>
-<li><a href="https://facebook.techidaily.com/pioneers-pushing-boundaries-triggering-discord/"><u>Pioneers Pushing Boundaries, Triggering Discord</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-your-pcs-ram-problems-a-step-by-step-guide-techwise-tips-from-yl-computing/"><u>Solving Your PC's RAM Problems: A Step-by-Step Guide - TechWise Tips From YL Computing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-discovering-new-ways-to-use-bandicam-a-deep-dive/"><u>[New] In 2024, Discovering New Ways to Use Bandicam – A Deep Dive</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-quick-tips-to-resurrect-windows-photo-viewer-on-windows-11-for-2024/"><u>[New] Quick Tips to Resurrect Windows Photo Viewer on Windows 11 for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[New] Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-new-horizons-in-photography-lg-360-camera-update/"><u>[Updated] New Horizons in Photography - LG 360 Camera Update</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-power-of-live-videos-on-facebook/"><u>2024 Approved Unlock the Power of Live Videos on Facebook</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/a-comprehensive-list-of-germanys-most-common-thank-you-sayings/"><u>A Comprehensive List of Germany’s Most Common 'Thank You' Sayings</u></a></li>
+<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/collection-of-stunning-empire-vessel-graphics-for-your-screen-saverbackground-officially-licensed-by-yl-computing-yl-software/"><u>Collection of Stunning Empire Vessel Graphics for Your Screen Saver/Background: Officially Licensed By YL Computing | YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
+<li><a href="https://win-news.techidaily.com/handling-incorrect-alerts-in-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>Handling Incorrect Alerts in Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/state-guidance-on-ai-innovation-through-four-mechanisms/"><u>State Guidance on AI Innovation Through Four Mechanisms</u></a></li>
+<li><a href="https://win-news.techidaily.com/transferring-data-efficiently-on-windows-master-the-art-of-dual-computer-file-sharing/"><u>Transferring Data Efficiently on Windows: Master the Art of Dual Computer File Sharing</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial/"><u>Video - Customer Testimonial</u></a></li>
 </ul></div>
 

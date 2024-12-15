@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2024-12-08T02:38:19.934Z
-updated: 2024-12-09T02:55:19.289Z
+date: 2024-12-08T06:40:38.998Z
+updated: 2024-12-15T03:38:43.236Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-unleash-the-power-of-windows-11-with-auto-hdr-feature-activation-for-2024/"><u>[New] Unleash the Power of Windows 11 with Auto HDR Feature Activation for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-reclaiming-windows-photo-viewer-in-windows-10-methods-demystified-for-2024/"><u>[Updated] Reclaiming Windows Photo Viewer in Windows 10 - Methods Demystified for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-easy-guide-retrieving-system-details-with-yl-computings-comprehensive-tool/"><u>1. Easy Guide: Retrieving System Details with YL Computing's Comprehensive Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/correcting-h264-file-defects/"><u>Correcting H.264 File Defects</u></a></li>
-<li><a href="https://win-news.techidaily.com/effective-methods-for-diagnosing-network-adapter-functionality-tips-from-yl-computings-expertise/"><u>Effective Methods for Diagnosing Network Adapter Functionality - Tips From YL Computing's Expertise</u></a></li>
-<li><a href="https://win-news.techidaily.com/freshest-tracks-alert-for-karaoke-enthusiasts-experience-the-latest-additions-to-karaoke-cloud-pro-version-42020-with-our-subscription-service/"><u>Freshest Tracks Alert for Karaoke Enthusiasts! Experience the Latest Additions to Karaoke Cloud Pro (Version 4.20.20) with Our Subscription Service.</u></a></li>
-<li><a href="https://win-news.techidaily.com/high-res-spider-man-no-way-home-visual-graphics-backgrounds-and-posters-your-latest-web-design-solution-from-yl-computing/"><u>High-Res Spider-Man No Way Home Visual Graphics, Backgrounds & Posters - Your Latest Web Design Solution From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-can-i-retrieve-deleted-information-with-specialized-software-solutions-insights-from-yl-computing/"><u>How Can I Retrieve Deleted Information with Specialized Software Solutions? - Insights From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-can-you-quickly-identify-and-repair-a-defective-sound-card-tips-from-yl-computing-experts/"><u>How Can You Quickly Identify and Repair a Defective Sound Card - Tips From YL Computing Experts</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-poco-c50-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Poco C50 Phone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Realme GT Neo 5 | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-election-excitement-5-best-voting-simulators/"><u>In 2024, Election Excitement 5 Best Voting Simulators</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-camon-30-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Camon 30 Pro 5G Phone Password Without Factory Reset?</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-key-principles-of-metaverse-commercial-strategy/"><u>In 2024, Key Principles of Metaverse Commercial Strategy</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/quick-and-easy-download-canons-official-windows-scanning-software-today-free/"><u>Quick and Easy: Download Canon's Official Windows Scanning Software Today, FREE!</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-extracting-zip-files-on-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Extracting ZIP Files on Windows - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/unleash-limitless-creativity-with-dex-3-and-soundcloud-go-combo-over-200m-tracks-at-your-fingertips/"><u>Unleash Limitless Creativity with DEX 3 & SoundCloud GO Combo – Over 200M Tracks at Your Fingertips</u></a></li>
-<li><a href="https://common-error.techidaily.com/valorant-gaming-optimization-comprehensive-guide-to-correct-screen-distortion-problems/"><u>Valorant Gaming Optimization: Comprehensive Guide to Correct Screen Distortion Problems</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-revealed-top-5-ingenious-whatsapp-shortcuts-for-2024/"><u>[New] Revealed Top 5 Ingenious WhatsApp Shortcuts for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eliminating-virtual-distractions-with-these-8-strategic-chatgpt-instructions/"><u>Eliminating Virtual Distractions with These 8 Strategic ChatGPT Instructions</u></a></li>
+<li><a href="https://win-news.techidaily.com/essential-guide-to-freeing-up-space-the-best-tools-for-your-hard-drive-according-to-yl-software/"><u>Essential Guide to Freeing Up Space: The Best Tools for Your Hard Drive, According to YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-most-out-of-your-logitech-m31ebeam-mouse-driver-update-tutorial/"><u>Get the Most Out of Your Logitech M31ebeam Mouse: Driver Update Tutorial</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>In 2024, Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
+<li><a href="https://win-news.techidaily.com/integrating-windows-defender-with-third-party-protection-software-a-guide-by-yl-software/"><u>Integrating Windows Defender With Third-Party Protection Software: A Guide by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/is-your-system-secure-with-just-windows-defender-against-malware-threats-understanding-the-limits-and-extra-measures-needed-cyber-safety-guide-yl-computing-62/"><u>Is Your System Secure with Just Windows Defender Against Malware Threats? Understanding the Limits & Extra Measures Needed - Cyber Safety Guide | YL Computing Software Solutions</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/resolving-slow-performance-in-image-scanners-a-guide-from-yl-software-solutions/"><u>Resolving Slow Performance in Image Scanners: A Guide From YL Software Solutions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-aac-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality AAC Format</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-guide-diagnosing-and-fixing-faulty-hardware-issues-insights-by-yl-computing/"><u>Troubleshooting Guide: Diagnosing and Fixing Faulty Hardware Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-text-to-audio-conversion-from-words-to-mp3-across-all-devices/"><u>Updated Text-to-Audio Conversion From Words to MP3 Across All Devices</u></a></li>
 </ul></div>
 
