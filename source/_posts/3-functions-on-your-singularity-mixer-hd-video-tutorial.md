@@ -1,7 +1,7 @@
 ---
 title: 3 Functions on Your Singularity Mixer | HD Video Tutorial
-date: 2024-12-14T09:00:03.839Z
-updated: 2024-12-14T19:31:20.993Z
+date: 2024-12-18T08:16:05.952Z
+updated: 2024-12-24T09:30:49.312Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,17 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/updated-11-pros-of-perfect-color-balancing-mastery/"><u>[Updated] 11 Pros of Perfect Color Balancing Mastery</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-capturing-the-extreme-the-gopro-hero5-black-vs-hero4-silver-duel/"><u>2024 Approved Capturing the Extreme The GoPro Hero5 Black Vs Hero4 Silver Duel</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/boost-your-traffic-with-cookiebot-the-ultimate-personalization-tool/"><u>Boost Your Traffic with Cookiebot: The Ultimate Personalization Tool</u></a></li>
-<li><a href="https://win-news.techidaily.com/determining-required-hardware-specifications-for-specific-software-applications-the-expert-guide-by-yl-computing/"><u>Determining Required Hardware Specifications for Specific Software Applications - The Expert Guide by YL Computing</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/direct-line-to-assistance-how-to-contact-snapchat-customer-service-efficiently/"><u>Direct Line to Assistance: How to Contact Snapchat Customer Service Efficiently</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-artistry-behind-the-google-pixel-3-a-deep-android-experience-analysis/"><u>Discover the Artistry Behind the Google Pixel 3: A Deep Android Experience Analysis</u></a></li>
-<li><a href="https://win-news.techidaily.com/ex-ripples-leading-tech-guru-loses-244-million-in-btc-to-daring-heist-insights-from-recovery-company-a-deep-dive-by-yl-computing-and-yl-software/"><u>Ex-RIPPLE's Leading Tech Guru Loses $244 Million in BTC to Daring Heist: Insights From Recovery Company - A Deep Dive by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-typical-issues-in-microsofts-registry-system-insights-from-yl-software/"><u>Exploring Typical Issues in Microsoft's Registry System - Insights From YL Software</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-how-to-capture-and-share-your-games-online/"><u>In 2024, How to Capture and Share Your Games Online</u></a></li>
-<li><a href="https://win-news.techidaily.com/inspired-by-happy-a-campaign-for-the-children-of-syria-transforming-pharrell-williams-hit-into-positive-change-amid-crisis/"><u>Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-phone-and-laptop-connectivity-a-guide-to-setting-up-wi-fi-calling/"><u>Mastering Phone and Laptop Connectivity: A Guide to Setting Up Wi-Fi Calling</u></a></li>
-<li><a href="https://win-news.techidaily.com/preserving-your-systems-lifespan-expert-tips-on-hardware-care-from-yl-software/"><u>Preserving Your System's Lifespan: Expert Tips on Hardware Care From YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/resolving-slow-performance-in-image-scanners-a-guide-from-yl-software-solutions/"><u>Resolving Slow Performance in Image Scanners: A Guide From YL Software Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/skyrocketing-system-speeds-proven-strategies-to-enhance-your-windows-experience-with-yl-software-insights/"><u>Skyrocketing System Speeds: Proven Strategies to Enhance Your Windows Experience with YL Software Insights</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-strategies-for-effective-windows-system-error-diagnosis-by-yl-computing/"><u>Top Strategies for Effective Windows System Error Diagnosis by YL Computing</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-guide-making-your-hidden-wi-fi-network-visible-again/"><u>Troubleshooting Guide: Making Your Hidden Wi-Fi Network Visible Again</u></a></li>
-<li><a href="https://win-news.techidaily.com/yl-software-solution-for-determining-hard-drive-compatibility-with-your-computer-systems/"><u>YL Software Solution for Determining Hard Drive Compatibility With Your Computer Systems</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/youtube-channel-art-make-banners-icons-and-thumbnails/"><u>YouTube Channel Art - Make Banners, Icons, and Thumbnails</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-childs-play-top-5-fun-flying-toys-reviewed/"><u>[New] Child's Play Top 5 Fun Flying Toys Reviewed</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-creative-potential-garageband-editing-guide/"><u>[New] In 2024, Unlocking Creative Potential GarageBand Editing Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-instant-impression-audiovisual-capture-for-2024/"><u>[New] Instant Impression Audiovisual Capture for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chucklechief-your-1-tool-for-tweeting-gifs/"><u>[Updated] In 2024, ChuckleChief Your #1 Tool for Tweeting Gifs</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/addressing-gaming-glitches-with-newly-minted-asus-firmware-a-solution-for-intels-latest-raptor-lake-and-refresh-processors/"><u>Addressing Gaming Glitches with Newly Minted Asus Firmware: A Solution for Intel's Latest Raptor Lake and Refresh Processors</u></a></li>
+<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/high-res-spider-man-no-way-home-visual-graphics-backgrounds-and-posters-your-latest-web-design-solution-from-yl-computing/"><u>High-Res Spider-Man No Way Home Visual Graphics, Backgrounds & Posters - Your Latest Web Design Solution From YL Computing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-visual-ventures-free-themes-to-elevate-your-channel/"><u>In 2024, Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-extracting-zip-files-on-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Extracting ZIP Files on Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/streamline-device-functions-with-mf4770n-on-w11win8w7/"><u>Streamline Device Functions with MF4770n on W11/Win8/W7</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-physical-computer-problems-with-tips-from-yl-software/"><u>Troubleshooting Physical Computer Problems with Tips From YL Software</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-your-minecraft-load-screen-wont-proceed/"><u>Troubleshooting Tips When Your Minecraft Load Screen Won't Proceed</u></a></li>
 </ul></div>
 

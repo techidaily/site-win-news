@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2024-12-10T16:14:43.340Z
-updated: 2024-12-14T22:29:19.675Z
+date: 2024-12-17T06:15:55.508Z
+updated: 2024-12-23T17:12:50.103Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,19 +74,22 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-discovering-new-ways-to-use-bandicam-a-deep-dive/"><u>[New] In 2024, Discovering New Ways to Use Bandicam – A Deep Dive</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-quick-tips-to-resurrect-windows-photo-viewer-on-windows-11-for-2024/"><u>[New] Quick Tips to Resurrect Windows Photo Viewer on Windows 11 for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-sonys-masterpiece-in-motion-graphics-xperia-xz-premium-unboxed/"><u>[New] Sony's Masterpiece in Motion Graphics Xperia XZ Premium Unboxed</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-new-horizons-in-photography-lg-360-camera-update/"><u>[Updated] New Horizons in Photography - LG 360 Camera Update</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unlock-the-power-of-live-videos-on-facebook/"><u>2024 Approved Unlock the Power of Live Videos on Facebook</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/a-comprehensive-list-of-germanys-most-common-thank-you-sayings/"><u>A Comprehensive List of Germany’s Most Common 'Thank You' Sayings</u></a></li>
-<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/collection-of-stunning-empire-vessel-graphics-for-your-screen-saverbackground-officially-licensed-by-yl-computing-yl-software/"><u>Collection of Stunning Empire Vessel Graphics for Your Screen Saver/Background: Officially Licensed By YL Computing | YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
-<li><a href="https://win-news.techidaily.com/handling-incorrect-alerts-in-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>Handling Incorrect Alerts in Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/state-guidance-on-ai-innovation-through-four-mechanisms/"><u>State Guidance on AI Innovation Through Four Mechanisms</u></a></li>
-<li><a href="https://win-news.techidaily.com/transferring-data-efficiently-on-windows-master-the-art-of-dual-computer-file-sharing/"><u>Transferring Data Efficiently on Windows: Master the Art of Dual Computer File Sharing</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/video-customer-testimonial/"><u>Video - Customer Testimonial</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-choices-best-vr-for-drones/"><u>[New] Expert Choices Best VR for Drones</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-in-2024-innovating-action-filming-yi-4ks-impact-on-cinema/"><u>[New] In 2024, Innovating Action Filming Yi 4K's Impact on Cinema</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-methods-for-reducing-jello-like-video-stabilization-effects/"><u>[Updated] In 2024, Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-overcoming-the-fortnite-ls-0013-error-during-launch/"><u>Comprehensive Guide: Overcoming the Fortnite LS-0013 Error During Launch</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-timeline-discover-when-the-opium-wars-unfolded-insights-from-yl-computing/"><u>Exploring the Timeline: Discover When the Opium Wars Unfolded - Insights From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-turning-microsoft-powerpoint-presentations-into-pdf-documents-using-yl-software-techniques/"><u>Guide: Turning Microsoft PowerPoint Presentations Into PDF Documents Using YL Software Techniques</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-fix-a-frozen-computer-monitor-tips-from-yl-computings-expert-guides/"><u>How to Fix a Frozen Computer Monitor: Tips From YL Computing's Expert Guides</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ls-pros-and-cons-firmware-versus-devices/"><u>In 2024, LS Pros & Cons Firmware Versus Devices</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Plus Making It Possible</u></a></li>
+<li><a href="https://article-files.techidaily.com/navigating-the-past-accelerated-access-to-archived-content/"><u>Navigating the Past Accelerated Access to Archived Content</u></a></li>
+<li><a href="https://win-news.techidaily.com/safeguarding-your-bitcoin-and-altcoins-expert-tips-to-thwart-hackers-by-yl-software-specialists/"><u>Safeguarding Your Bitcoin and Altcoins: Expert Tips to Thwart Hackers by YL Software Specialists</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-restart-scanning-functions-what-to-do-when-your-device-wont-turn-on-expert-advice-from-yl-software/"><u>Step-by-Step Guide to Restart Scanning Functions: What To Do When Your Device Won't Turn On? – Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-fresh-start-with-your-pc-mastering-the-clean-os-reinstall-process-tips-from-yl-computing/"><u>Step-by-Step Guide: Fresh Start with Your PC - Mastering the Clean OS Reinstall Process | Tips From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-mastering-file-duplication-techniques-on-windows-insights-from-yl-computing/"><u>Step-by-Step Guide: Mastering File Duplication Techniques on Windows - Insights From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nubia-red-magic-9-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nubia Red Magic 9 Pro.</u></a></li>
+<li><a href="https://win-news.techidaily.com/understanding-cryptocurrency-mining-a-comprehensive-guide-yl-computing/"><u>Understanding Cryptocurrency Mining: A Comprehensive Guide - YL Computing</u></a></li>
 </ul></div>
 

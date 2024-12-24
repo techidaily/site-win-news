@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2024-12-10T16:22:12.453Z
-updated: 2024-12-14T21:22:03.435Z
+date: 2024-12-18T17:23:52.512Z
+updated: 2024-12-24T02:33:46.083Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,18 +107,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-bland-to-brilliant-transform-your-youtube-channels-image/"><u>[New] 2024 Approved From Bland to Brilliant Transform Your YouTube Channels' Image</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-effortless-screen-changes-made-simple/"><u>[New] Effortless Screen Changes Made Simple</u></a></li>
-<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
-<li><a href="https://win-news.techidaily.com/handling-incorrect-alerts-in-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>Handling Incorrect Alerts in Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/hdr-standards-meeting-or-surpassing-with-aurora/"><u>HDR Standards Meeting or Surpassing with Aurora?</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-free-up-disk-space-by-removing-obsolete-files-and-enhance-your-pcs-performance-tips-from-yl-software/"><u>How to Free Up Disk Space by Removing Obsolete Files and Enhance Your PC's Performance - Tips From YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Xiaomi Redmi 13C? | Dr.fone</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-transform-fb-video-files-into-mp4-directly/"><u>In 2024, Transform FB Video Files Into MP4 Directly</u></a></li>
-<li><a href="https://article-tips.techidaily.com/tips-for-a-smooth-transition-into-vr-worlds-for-2024/"><u>Tips for a Smooth Transition Into VR Worlds for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/transferring-data-efficiently-on-windows-master-the-art-of-dual-computer-file-sharing/"><u>Transferring Data Efficiently on Windows: Master the Art of Dual Computer File Sharing</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/windows-10-screen-flashing-or-flickering-solved/"><u>Windows 10 Screen Flashing Or Flickering [SOLVED]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlocking-the-art-of-film-preservation-in-tech-era/"><u>[Updated] Unlocking the Art of Film Preservation in Tech Era</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-twice-the-joy-twice-the-fun-televised-repetition-made-easy/"><u>2024 Approved Twice the Joy, Twice the Fun Televised Repetition Made Easy</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/captivating-alfa-romeo-hd-visuals-for-desktop-backgrounds-and-photo-galleries-powered-by-yl-software-solutions/"><u>Captivating Alfa Romeo HD Visuals for Desktop Backgrounds and Photo Galleries – Powered by YL Software Solutions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparison-google-nest-audio-vs-nest-mini-which-is-better/"><u>Comparison: Google Nest Audio Vs. Nest Mini - Which Is Better?</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/o-start-a-successful-youtube-gaming-channel/"><u>How to Start a Successful YouTube Gaming Channel</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-troubleshoot-a-frozen-or-crashed-pc-expert-advice-from-yl-computings-software-solutions/"><u>How to Troubleshoot a Frozen or Crashed PC: Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/iron-man-series-ultimate-hd-wallpapers-and-backgrounds-4k-visuals-photo-collections-by-yl-software/"><u>Iron Man Series Ultimate HD Wallpapers and Backgrounds – 4K Visuals, Photo Collections by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/japanese-otaku-themed-desktop-graphics-backgrounds-and-visuals-by-yl-computing/"><u>Japanese Otaku-Themed Desktop Graphics, Backgrounds & Visuals by YL Computing</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/les-secrets-du-succes-avec-movavi-guide-complet-du-programme-daffiliation-exploite-par-les-pros/"><u>Les Secrets Du Succès Avec Movavi: Guide Complet Du Programme D'Affiliation Exploité Par Les Pros</u></a></li>
+<li><a href="https://win-news.techidaily.com/master-the-art-of-power-supply-maintenance-essential-solutions-by-yl-computing-professionals/"><u>Master the Art of Power Supply Maintenance: Essential Solutions by YL Computing Professionals</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/mastering-blockchain-applications-a-comprehensive-guide-by-yl-computing/"><u>Mastering Blockchain Applications: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-repairing-windows-registry-issues-and-errors-with-yls-solutions/"><u>Step-by-Step Guide to Repairing Windows Registry Issues & Errors with YL's Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-creating-a-new-folder-in-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Creating a New Folder in Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-solution-overcoming-windows-bsod-challenges-effectively/"><u>Step-by-Step Solution: Overcoming Windows BSOD Challenges Effectively</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-recurring-graphics-card-driver-failures-expert-advice-from-yl-computing/"><u>Troubleshooting Recurring Graphics Card Driver Failures: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-infinix-smart-8-hd-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Infinix Smart 8 HD? Here is How | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-reveals-secrets-effective-strategies-for-boosting-hard-drive-speed/"><u>YL Software Reveals Secrets: Effective Strategies for Boosting Hard Drive Speed!</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-solutions-for-enhanced-computer-performance-optimization/"><u>YL Software Solutions for Enhanced Computer Performance Optimization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Erstellen Sie Ihren Desktop-Ordner in Windows 10 Und 11 Wieder - Einfache Lösungen Zum Wiederauffinden!
-date: 2024-12-08T07:22:27.252Z
-updated: 2024-12-14T20:48:34.183Z
+date: 2024-12-17T23:12:23.292Z
+updated: 2024-12-24T06:46:00.996Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196ef5949783c79461a680de11c.jpg
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196e
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
@@ -40,7 +40,7 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
@@ -51,11 +51,11 @@ NAS Buffalo est la solution idéale pour la protection des données et peut faci
 
 [![buffalo](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/others/image/nas-buffalo.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Ne vous inquiétez pas trop. Vous pouvez envisager d'utiliser un logiciel de sauvegarde NAS tiers pour vous aider. [AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/) est un excellent choix en raison de sa grande compatibilité (prise en charge de Windows 7/8/10/11/XP/Vista), de sa gratuité, de sa facilité d'utilisation, de sa flexibilité et de ses fonctionnalités riches.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard
 
@@ -73,10 +73,6 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
@@ -89,6 +85,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -96,6 +96,10 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -109,16 +113,12 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 
 [![destination](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/choix-chemin-destinations.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Étape 4.** Pour rendre la sauvegarde simple et efficace, définissez une planification de sauvegarde quotidienne, hebdomadaire ou mensuelle dans l'endroit inférieur et cliquez sur **Démarrer** pour sauvegarder le NAS Buffalo. Si vous cochez la case Réveiller l'ordinateur pour exécuter les tâches planifiées, le logiciel s'ouvrira et exécutera automatiquement cette tâche.
 
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -145,13 +145,13 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
 Éditrice senior d'AOMEI Technology qui rédige principalement des articles sur la sauvegarde, la synchronisation, le clonage et la restauration de l'ordinateur, tout dans le but de proposer des solutions simples aux utilisateurs pour protéger les données de leur ordinateur. Grâce à ses expertises informatiques, elle propose souvent des astuces très utiles.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Autres articles connexes
 
@@ -198,15 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-fond-memories-old-phone-xxs-photography/"><u>[New] Fond Memories Old Phone Xx's Photography</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-superior-ai-for-dynamic-imagery-creation/"><u>[Updated] In 2024, Superior AI for Dynamic Imagery Creation</u></a></li>
-<li><a href="https://win-news.techidaily.com/data-restoration-techniques-for-damaged-hard-drives-advice-from-yl-software-experts/"><u>Data Restoration Techniques for Damaged Hard Drives - Advice From YL Software Experts</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-smart-8-plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Smart 8 Plus Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-keyboard-shortcuts-setting-up-window-volume-control-hotkeys-on-windows-7-8-and-10-yl-computing/"><u>Mastering Keyboard Shortcuts: Setting Up Window Volume Control Hotkeys on Windows (7, 8 & 10) - YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/resolving-image-aberrations-in-scanning-professional-tips-by-yl-computing-and-software/"><u>Resolving Image Aberrations in Scanning: Professional Tips by YL Computing & Software</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/splendid-screenplay-strategies-for-spectaculous-lights-for-2024/"><u>Splendid Screenplay Strategies for Spectaculous Lights for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-online-seminar-title-crafter-for-2024/"><u>Ultimate Online Seminar Title Crafter for 2024</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-efficacy-of-western-digitals-data-lifeguard-tool-in-depth-insights-and-reviews/"><u>Unveiling the Efficacy of Western Digital's Data LifeGuard Tool - In-Depth Insights and Reviews</u></a></li>
-<li><a href="https://win-news.techidaily.com/what-causes-a-pc-to-become-unresponsive-solutions-from-yl-computing/"><u>What Causes a PC to Become Unresponsive? - Solutions From YL Computing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-navigating-the-launch-of-tiktok-videos-from-pc-for-2024/"><u>[New] Navigating the Launch of TikTok Videos From PC for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-easy-replay-on-iphone-set-videos-cycling-for-2024/"><u>[Updated] Easy Replay on iPhone Set Videos Cycling for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-ultimate-playbook-to-create-compelling-youtube-educational-videos/"><u>[Updated] In 2024, The Ultimate Playbook to Create Compelling YouTube Educational Videos</u></a></li>
+<li><a href="https://win-premium.techidaily.com/comment-installer-et-utiliser-des-points-de-sauvegarde-sur-windows-pressoir/"><u>Comment Installer Et Utiliser Des Points De Sauvegarde Sur Windows Pressoir?</u></a></li>
+<li><a href="https://common-error.techidaily.com/gearheads-guide-to-restoring-audio-on-your-forza-horizon-4-tracks/"><u>Gearhead's Guide to Restoring Audio on Your Forza Horizon 4 Tracks</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-troubleshoot-a-frozen-or-crashed-pc-expert-advice-from-yl-computings-software-solutions/"><u>How to Troubleshoot a Frozen or Crashed PC: Expert Advice From YL Computing's Software Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-extensive-review-the-gecata-gamersoft-toolkit/"><u>In 2024, Extensive Review The Gecata Gamersoft Toolkit</u></a></li>
+<li><a href="https://win-news.techidaily.com/iron-man-series-ultimate-hd-wallpapers-and-backgrounds-4k-visuals-photo-collections-by-yl-software/"><u>Iron Man Series Ultimate HD Wallpapers and Backgrounds – 4K Visuals, Photo Collections by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/japanese-otaku-themed-desktop-graphics-backgrounds-and-visuals-by-yl-computing/"><u>Japanese Otaku-Themed Desktop Graphics, Backgrounds & Visuals by YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-artificial-intelligence-in-literature-best-book-suggestion-apps/"><u>Leveraging Artificial Intelligence in Literature: Best Book Suggestion Apps</u></a></li>
+<li><a href="https://win-news.techidaily.com/master-the-art-of-power-supply-maintenance-essential-solutions-by-yl-computing-professionals/"><u>Master the Art of Power Supply Maintenance: Essential Solutions by YL Computing Professionals</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-common-heart-of-iron-4-stability-problems-a-comprehensive-guide/"><u>Overcoming Common Heart of Iron 4 Stability Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://games-able.techidaily.com/revolution-x-pro-gamepad-by-nacon-comprehensive-review-insights-and-ratings/"><u>Revolution X Pro Gamepad by Nacon: Comprehensive Review - Insights & Ratings</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-repairing-windows-registry-issues-and-errors-with-yls-solutions/"><u>Step-by-Step Guide to Repairing Windows Registry Issues & Errors with YL's Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-creating-a-new-folder-in-windows-tips-by-yl-computing/"><u>Step-by-Step Guide: Creating a New Folder in Windows - Tips by YL Computing</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-redesigned-marshall-for-anc-chic-and-melodic-symphony/"><u>The Redesigned Marshall for ANC: Chic & Melodic Symphony</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-recurring-graphics-card-driver-failures-expert-advice-from-yl-computing/"><u>Troubleshooting Recurring Graphics Card Driver Failures: Expert Advice From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-reveals-secrets-effective-strategies-for-boosting-hard-drive-speed/"><u>YL Software Reveals Secrets: Effective Strategies for Boosting Hard Drive Speed!</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-solutions-for-enhanced-computer-performance-optimization/"><u>YL Software Solutions for Enhanced Computer Performance Optimization</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2024-12-08T06:40:38.998Z
-updated: 2024-12-15T03:38:43.236Z
+date: 2024-12-22T08:45:49.888Z
+updated: 2024-12-24T00:26:04.166Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,20 +55,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/new-parrots-in-flight-a-deep-dive-into-bebops-essence/"><u>[New] Parrots in Flight A Deep Dive Into Bebop's Essence</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-revealed-top-5-ingenious-whatsapp-shortcuts-for-2024/"><u>[New] Revealed Top 5 Ingenious WhatsApp Shortcuts for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23plus-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy S23+ | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/eliminating-virtual-distractions-with-these-8-strategic-chatgpt-instructions/"><u>Eliminating Virtual Distractions with These 8 Strategic ChatGPT Instructions</u></a></li>
-<li><a href="https://win-news.techidaily.com/essential-guide-to-freeing-up-space-the-best-tools-for-your-hard-drive-according-to-yl-software/"><u>Essential Guide to Freeing Up Space: The Best Tools for Your Hard Drive, According to YL Software</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-the-most-out-of-your-logitech-m31ebeam-mouse-driver-update-tutorial/"><u>Get the Most Out of Your Logitech M31ebeam Mouse: Driver Update Tutorial</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-top-gaming-spaces-for-solo-play-in-apex-legends/"><u>In 2024, Top Gaming Spaces for Solo Play in Apex Legends</u></a></li>
-<li><a href="https://win-news.techidaily.com/integrating-windows-defender-with-third-party-protection-software-a-guide-by-yl-software/"><u>Integrating Windows Defender With Third-Party Protection Software: A Guide by YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/is-your-system-secure-with-just-windows-defender-against-malware-threats-understanding-the-limits-and-extra-measures-needed-cyber-safety-guide-yl-computing-62/"><u>Is Your System Secure with Just Windows Defender Against Malware Threats? Understanding the Limits & Extra Measures Needed - Cyber Safety Guide | YL Computing Software Solutions</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/navigating-the-path-of-adobe-presenter-video-creation-for-2024/"><u>Navigating the Path of Adobe Presenter Video Creation for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/resolving-slow-performance-in-image-scanners-a-guide-from-yl-software-solutions/"><u>Resolving Slow Performance in Image Scanners: A Guide From YL Software Solutions</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-transforming-mp3-files-into-high-quality-aac-format/"><u>Step-by-Step Guide: Transforming MP3 Files Into High-Quality AAC Format</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-guide-diagnosing-and-fixing-faulty-hardware-issues-insights-by-yl-computing/"><u>Troubleshooting Guide: Diagnosing and Fixing Faulty Hardware Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-text-to-audio-conversion-from-words-to-mp3-across-all-devices/"><u>Updated Text-to-Audio Conversion From Words to MP3 Across All Devices</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bright-ideas-maximizing-iphone-camera-exposure/"><u>[New] Bright Ideas Maximizing iPhone Camera Exposure</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-essential-guidelines-to-create-impactful-youtube-banners/"><u>[Updated] 2024 Approved Essential Guidelines to Create Impactful YouTube Banners</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-easy-guide-retrieving-system-details-with-yl-computings-comprehensive-tool/"><u>1. Easy Guide: Retrieving System Details with YL Computing's Comprehensive Tool</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/5-topi-windows-pemulihan-gadget-mobile-iphones-rekomendasi-dan-kritik/"><u>5 Topi Windows Pemulihan Gadget Mobile iPhones - Rekomendasi Dan Kritik!</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-methods-for-diagnosing-network-adapter-functionality-tips-from-yl-computings-expertise/"><u>Effective Methods for Diagnosing Network Adapter Functionality - Tips From YL Computing's Expertise</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-devices-to-desktops-proven-file-transfer-ways/"><u>From Devices to Desktops Proven File Transfer Ways</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-can-i-retrieve-deleted-information-with-specialized-software-solutions-insights-from-yl-computing/"><u>How Can I Retrieve Deleted Information with Specialized Software Solutions? - Insights From YL Computing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/price-friendly-nimbus-space-wide-file-vault-for-2024/"><u>Price-Friendly Nimbus Space Wide File Vault for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/reviving-lost-memories-a-comprehensive-tutorial-on-retrieving-deleted-instagram-images-and-captions/"><u>Reviving Lost Memories: A Comprehensive Tutorial on Retrieving Deleted Instagram Images and Captions</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-ram-problems-in-windows-diagnostic-steps-and-solutions-with-yl-software/"><u>Troubleshooting RAM Problems in Windows: Diagnostic Steps and Solutions with YL Software</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/ultimate-charging-station-and-cooling-hub-for-apple-gadgets-with-magsafe-technology-reviews-by-techexpert/"><u>Ultimate Charging Station & Cooling Hub for Apple Gadgets with MagSafe Technology - Reviews by TechExpert</u></a></li>
 </ul></div>
 

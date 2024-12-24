@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's DX3 Unveiled by Digital 1 Audio: Essential Upgrades for Pro DJs"
-date: 2024-12-08T01:52:27.927Z
-updated: 2024-12-15T02:04:09.380Z
+date: 2024-12-20T06:19:28.400Z
+updated: 2024-12-24T08:19:21.873Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,16 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-efficient-vimeo-video-extraction-software/"><u>[New] Efficient Vimeo Video Extraction Software</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 14 Pro</u></a></li>
-<li><a href="https://win11.techidaily.com/comparing-local-data-exchange-protocols-google-and-windows-showdown/"><u>Comparing Local Data Exchange Protocols: Google & Windows Showdown</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-f5-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted F5 5G Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-master-your-mix-essential-audio-devices-for-podcast-success/"><u>In 2024, Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-privacy-configuration-a-step-by-step-guide-to-windows-control-panel-settings-tips-from-yl-computing/"><u>Mastering Privacy Configuration: A Step-by-Step Guide to Windows Control Panel Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/scanner-issues-master-these-tips-from-yl-computing-on-resolving-common-scanning-problems/"><u>Scanner Issues? Master These Tips From YL Computing on Resolving Common Scanning Problems</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-hard-drive-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Hard Drive Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/forming-your-footage-into-shareable-youtube-stories/"><u>Transforming Your Footage Into Shareable YouTube Stories</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/unbeatable-deals-on-yeedi-m12-proplus-top-performing-robot-vacuum-takes-industry-by-storm/"><u>Unbeatable Deals on Yeedi M12 Pro+: Top-Performing Robot Vacuum Takes Industry by Storm</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-the-distinctions-windows-defender-vs-windows-firewall-insights-by-yl-computing/"><u>Unraveling the Distinctions: Windows Defender Vs. Windows Firewall - Insights by YL Computing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-camera-enthusiasts-top-list-ultimate-6-4k-dslr-cameras/"><u>[New] Camera Enthusiasts' Top List Ultimate 6 4K DSLR Cameras</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-fast-and-reliable-download-your-favorite-youtube-content-for-2024/"><u>[New] Free, Fast and Reliable Download Your Favorite YouTube Content for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-ultimate-phone-for-4k-enthusiasts-sony-xperia-xz/"><u>[Updated] 2024 Approved The Ultimate Phone for 4K Enthusiasts - Sony Xperia XZ</u></a></li>
+<li><a href="https://win-news.techidaily.com/3d-animated-egyptian-pyramid-visuals-motion-graphics-and-movie-b-roll-by-yl-computings-premium-assets/"><u>3D Animated Egyptian Pyramid Visuals: Motion Graphics & Movie B-Roll by YL Computing's Premium Assets</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/fb-video-sizes-and-proportions-for-2024/"><u>FB Video Sizes and Proportions for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/high-definition-alfa-romeo-sauber-c37-imagery-and-wallpaper-downloads-yl-computing/"><u>High-Definition Alfa Romeo Sauber C37 Imagery & Wallpaper Downloads - YL Computing</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-accurate-is-chatgpt-in-delivering-health-related-guidance/"><u>How Accurate Is ChatGPT in Delivering Health-Related Guidance?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-efficient-techniques-to-preserve-webcam-dialogues/"><u>In 2024, Efficient Techniques to Preserve Webcam Dialogues</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximize-your-mixes-top-3-strategies-for-integrating-dex-with-soundcloud/"><u>Maximize Your Mixes: Top 3 Strategies for Integrating DEX with SoundCloud</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premium-data-recorder-compatible-with-sony-a7s-for-2024/"><u>Premium Data Recorder Compatible with Sony A7S for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/slow-computer-woes-unraveling-key-hardware-issues-for-faster-solutions-with-yl-software/"><u>Slow Computer Woes: Unraveling Key Hardware Issues for Faster Solutions with YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/stunning-halloween-themes-full-screen-walls-backgrounds-and-decorative-graphics-by-yl-computing/"><u>Stunning Halloween Themes: Full-Screen Walls, Backgrounds & Decorative Graphics by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/understanding-blockchain-transaction-cycles-how-often-do-crypto-accounts-sync-a-deep-dive-by-yl-software-experts/"><u>Understanding Blockchain Transaction Cycles: How Often Do Crypto Accounts Sync? - A Deep Dive by YL Software Experts</u></a></li>
 </ul></div>
 
