@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2024-12-17T06:15:55.508Z
-updated: 2024-12-23T17:12:50.103Z
+date: 2024-12-26T16:09:20.471Z
+updated: 2024-12-29T23:31:23.859Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,22 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-choices-best-vr-for-drones/"><u>[New] Expert Choices Best VR for Drones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-in-2024-innovating-action-filming-yi-4ks-impact-on-cinema/"><u>[New] In 2024, Innovating Action Filming Yi 4K's Impact on Cinema</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-methods-for-reducing-jello-like-video-stabilization-effects/"><u>[Updated] In 2024, Methods for Reducing Jello-Like Video Stabilization Effects</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-overcoming-the-fortnite-ls-0013-error-during-launch/"><u>Comprehensive Guide: Overcoming the Fortnite LS-0013 Error During Launch</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-timeline-discover-when-the-opium-wars-unfolded-insights-from-yl-computing/"><u>Exploring the Timeline: Discover When the Opium Wars Unfolded - Insights From YL Computing</u></a></li>
-<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Motorola Edge 2023 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/guide-turning-microsoft-powerpoint-presentations-into-pdf-documents-using-yl-software-techniques/"><u>Guide: Turning Microsoft PowerPoint Presentations Into PDF Documents Using YL Software Techniques</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-fix-a-frozen-computer-monitor-tips-from-yl-computings-expert-guides/"><u>How to Fix a Frozen Computer Monitor: Tips From YL Computing's Expert Guides</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-ls-pros-and-cons-firmware-versus-devices/"><u>In 2024, LS Pros & Cons Firmware Versus Devices</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-plus-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Plus Making It Possible</u></a></li>
-<li><a href="https://article-files.techidaily.com/navigating-the-past-accelerated-access-to-archived-content/"><u>Navigating the Past Accelerated Access to Archived Content</u></a></li>
-<li><a href="https://win-news.techidaily.com/safeguarding-your-bitcoin-and-altcoins-expert-tips-to-thwart-hackers-by-yl-software-specialists/"><u>Safeguarding Your Bitcoin and Altcoins: Expert Tips to Thwart Hackers by YL Software Specialists</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-restart-scanning-functions-what-to-do-when-your-device-wont-turn-on-expert-advice-from-yl-software/"><u>Step-by-Step Guide to Restart Scanning Functions: What To Do When Your Device Won't Turn On? – Expert Advice From YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-fresh-start-with-your-pc-mastering-the-clean-os-reinstall-process-tips-from-yl-computing/"><u>Step-by-Step Guide: Fresh Start with Your PC - Mastering the Clean OS Reinstall Process | Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-mastering-file-duplication-techniques-on-windows-insights-from-yl-computing/"><u>Step-by-Step Guide: Mastering File Duplication Techniques on Windows - Insights From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/this-is-how-you-can-recover-deleted-pictures-from-nubia-red-magic-9-pro-by-fonelab-android-recover-pictures/"><u>This is how you can recover deleted pictures from Nubia Red Magic 9 Pro.</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-cryptocurrency-mining-a-comprehensive-guide-yl-computing/"><u>Understanding Cryptocurrency Mining: A Comprehensive Guide - YL Computing</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>[New] Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-techno-titans-earnings-forecast-on-gaming-channels/"><u>[Updated] 2024 Approved Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-camera-selection-for-young-shooters-top-picks-24/"><u>[Updated] Camera Selection For Young Shooters - Top Picks '24</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-earners-on-youtube/"><u>[Updated] Top Earners on YouTube</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-troubleshooting-incorrect-prints-solutions-for-your-scanner-woes-insights-from-yl-computing/"><u>1. Troubleshooting Incorrect Prints: Solutions for Your Scanner Woes - Insights From YL Computing</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
+<li><a href="https://win-news.techidaily.com/complete-guide-backup-and-restore-windows-registry-tips-from-yl-computing/"><u>Complete Guide: Backup & Restore Windows Registry - Tips From YL Computing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/connect-and-stream-the-ultimate-guide-to-watching-hulu-on-lg-smart-tvs/"><u>Connect and Stream: The Ultimate Guide to Watching Hulu on LG Smart TVs</u></a></li>
+<li><a href="https://win-news.techidaily.com/easy-steps-to-modify-personal-privacy-settings-in-the-latest-yl-software-update/"><u>Easy Steps to Modify Personal Privacy Settings in the Latest YL Software Update</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-smart-8-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Smart 8 Plus Devices</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-reduce-heavy-processor-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Reduce Heavy Processor Load From WUDFHost.exe on Your Windows 10 PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a78-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A78 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-unexpected-memory-losses-in-computers-expert-analysis-from-yl-software-solutions/"><u>Identifying Unexpected Memory Losses in Computers: Expert Analysis From YL Software Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/part-1-of-professional-photobooth-insights-mastering-techniques-with-photographer-brian-s-redd/"><u>Part 1 of Professional Photobooth Insights - Mastering Techniques with Photographer Brian S. Redd</u></a></li>
+<li><a href="https://win-news.techidaily.com/pcdj-compatibility-added-to-numark-mixtrack-platinum-and-dex-3-features-for-proliferating-dj-controllers/"><u>PCDJ Compatibility Added to Numark Mixtrack Platinum & Dex 3 Features for Proliferating DJ Controllers</u></a></li>
+<li><a href="https://win-news.techidaily.com/pcdj-updates-get-your-hands-on-the-newly-released-dex-version-31-for-free/"><u>PCDJ Updates: Get Your Hands on the Newly Released DEX Version 3.1 for Free!</u></a></li>
 </ul></div>
 

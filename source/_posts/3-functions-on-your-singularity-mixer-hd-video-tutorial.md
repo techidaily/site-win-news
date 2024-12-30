@@ -1,7 +1,7 @@
 ---
 title: 3 Functions on Your Singularity Mixer | HD Video Tutorial
-date: 2024-12-18T08:16:05.952Z
-updated: 2024-12-24T09:30:49.312Z
+date: 2024-12-25T21:13:59.575Z
+updated: 2024-12-29T21:06:19.383Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,17 +44,24 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-blue.techidaily.com/new-childs-play-top-5-fun-flying-toys-reviewed/"><u>[New] Child's Play Top 5 Fun Flying Toys Reviewed</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-unlocking-creative-potential-garageband-editing-guide/"><u>[New] In 2024, Unlocking Creative Potential GarageBand Editing Guide</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-instant-impression-audiovisual-capture-for-2024/"><u>[New] Instant Impression Audiovisual Capture for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-chucklechief-your-1-tool-for-tweeting-gifs/"><u>[Updated] In 2024, ChuckleChief Your #1 Tool for Tweeting Gifs</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/addressing-gaming-glitches-with-newly-minted-asus-firmware-a-solution-for-intels-latest-raptor-lake-and-refresh-processors/"><u>Addressing Gaming Glitches with Newly Minted Asus Firmware: A Solution for Intel's Latest Raptor Lake and Refresh Processors</u></a></li>
-<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/high-res-spider-man-no-way-home-visual-graphics-backgrounds-and-posters-your-latest-web-design-solution-from-yl-computing/"><u>High-Res Spider-Man No Way Home Visual Graphics, Backgrounds & Posters - Your Latest Web Design Solution From YL Computing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/in-2024-visual-ventures-free-themes-to-elevate-your-channel/"><u>In 2024, Visual Ventures FREE Themes to Elevate Your Channel</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-extracting-zip-files-on-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Extracting ZIP Files on Windows - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/streamline-device-functions-with-mf4770n-on-w11win8w7/"><u>Streamline Device Functions with MF4770n on W11/Win8/W7</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-physical-computer-problems-with-tips-from-yl-software/"><u>Troubleshooting Physical Computer Problems with Tips From YL Software</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-tips-when-your-minecraft-load-screen-wont-proceed/"><u>Troubleshooting Tips When Your Minecraft Load Screen Won't Proceed</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-aiming-for-the-stars-select-7-top-shooter-experiences-for-2024/"><u>[New] Aiming for the Stars Select 7 Top Shooter Experiences for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-channel-titling-101-the-quest-for-an-original-label/"><u>[Updated] Channel Titling 101 The Quest for an Original Label</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] Gratuitous Access to Top Digital Editing Suites</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-leading-5-display-choices-for-ps5-gamers/"><u>[Updated] Leading 5 Display Choices for PS5 Gamers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-setting-up-your-phone-as-a-home-based-webcam-for-2024/"><u>[Updated] Setting Up Your Phone as a Home-Based Webcam for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>2024 Approved Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-25-social-stars-essential-instagram-icons/"><u>2024 Approved Top 25 Social Stars Essential Instagram Icons</u></a></li>
+<li><a href="https://fox-within.techidaily.com/demand-for-repatriation-british-museum-challenged-over-stolen-chinese-relics-calls-from-chinese-press-for-full-restitution-insights-by-yl-computing-and-soft63/"><u>Demand for Repatriation: British Museum Challenged Over Stolen Chinese Relics; Calls From Chinese Press for Full Restitution - Insights by YL Computing & Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/determining-required-hardware-specifications-for-specific-software-applications-the-expert-guide-by-yl-computing/"><u>Determining Required Hardware Specifications for Specific Software Applications - The Expert Guide by YL Computing</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722900228888-enhance-your-ui-personalize-the-color-of-your-windows-10-taskbar-heres-how/"><u>Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How</u></a></li>
+<li><a href="https://win-news.techidaily.com/essential-guide-to-freeing-up-space-the-best-tools-for-your-hard-drive-according-to-yl-software/"><u>Essential Guide to Freeing Up Space: The Best Tools for Your Hard Drive, According to YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/ex-ripples-leading-tech-guru-loses-244-million-in-btc-to-daring-heist-insights-from-recovery-company-a-deep-dive-by-yl-computing-and-yl-software/"><u>Ex-RIPPLE's Leading Tech Guru Loses $244 Million in BTC to Daring Heist: Insights From Recovery Company - A Deep Dive by YL Computing and YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-typical-issues-in-microsofts-registry-system-insights-from-yl-software/"><u>Exploring Typical Issues in Microsoft's Registry System - Insights From YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-extract-and-convert-fb-videos-to-mp3-files-efficiently/"><u>In 2024, Extract and Convert FB Videos to MP3 Files Efficiently</u></a></li>
+<li><a href="https://win-news.techidaily.com/integrating-windows-defender-with-third-party-protection-software-a-guide-by-yl-software/"><u>Integrating Windows Defender With Third-Party Protection Software: A Guide by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/is-your-system-secure-with-just-windows-defender-against-malware-threats-understanding-the-limits-and-extra-measures-needed-cyber-safety-guide-yl-computing-62/"><u>Is Your System Secure with Just Windows Defender Against Malware Threats? Understanding the Limits & Extra Measures Needed - Cyber Safety Guide | YL Computing Software Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/skyrocketing-system-speeds-proven-strategies-to-enhance-your-windows-experience-with-yl-software-insights/"><u>Skyrocketing System Speeds: Proven Strategies to Enhance Your Windows Experience with YL Software Insights</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-guide-diagnosing-and-fixing-faulty-hardware-issues-insights-by-yl-computing/"><u>Troubleshooting Guide: Diagnosing and Fixing Faulty Hardware Issues - Insights by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
 </ul></div>
 

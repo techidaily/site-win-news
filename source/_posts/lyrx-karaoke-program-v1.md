@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Program V1.
-date: 2024-12-20T01:01:18.667Z
-updated: 2024-12-23T21:06:15.267Z
+date: 2024-12-25T21:41:12.184Z
+updated: 2024-12-29T23:30:39.761Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,20 +69,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-explore-the-top-free-screen-recorders-ranked-list/"><u>[New] 2024 Approved Explore the Top Free Screen Recorders Ranked List</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-unrivaled-recording-experience-from-leading-apps/"><u>[New] 2024 Approved Unrivaled Recording Experience From Leading Apps</u></a></li>
-<li><a href="https://win-news.techidaily.com/essential-guide-to-freeing-up-space-the-best-tools-for-your-hard-drive-according-to-yl-software/"><u>Essential Guide to Freeing Up Space: The Best Tools for Your Hard Drive, According to YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/fixing-the-unfixable-restoring-lost-data-due-to-memory-errors-on-windows-with-tips-from-yl-software-experts/"><u>Fixing the Unfixable: Restoring Lost Data Due to Memory Errors on Windows with Tips From YL Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/guide-efficiently-deleting-programs-through-the-control-panel-with-yl-software-insights/"><u>Guide: Efficiently Deleting Programs Through the Control Panel with YL Software Insights</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Oppo A59 5G | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-visionaries-of-video-workshop/"><u>In 2024, The Visionaries of Video Workshop</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Yuva 3 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/movavis-no-cost-online-tool-for-moc-to-wma-format-transformation-start-now/"><u>Movavi's No-Cost Online Tool for MOC to WMA Format Transformation - Start Now!</u></a></li>
-<li><a href="https://driver-error.techidaily.com/step-by-step-fixes-for-windows-10s-asus-drivers/"><u>Step-By Step Fixes For Windows 10'S Asus Drivers</u></a></li>
-<li><a href="https://win-news.techidaily.com/steps-to-safely-edit-your-windows-registry-tips-from-yl-computing/"><u>Steps to Safely Edit Your Windows Registry - Tips From YL Computing</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/steps-to-success-capturing-your-google-meet-sessions-for-2024/"><u>Steps to Success Capturing Your Google Meet Sessions for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-auditory-gateways-ensuring-proper-performance-of-audio-output-ports-on-pc-sound-cards-tech-tips-by-yl-computing/"><u>Troubleshooting Auditory Gateways: Ensuring Proper Performance of Audio Output Ports on PC Sound Cards - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-guide-diagnosing-and-fixing-faulty-hardware-issues-insights-by-yl-computing/"><u>Troubleshooting Guide: Diagnosing and Fixing Faulty Hardware Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-your-step-by-step-kinemaster-meme-creation-for-2024/"><u>[New] Your Step-by-Step KineMaster Meme Creation for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-simulating-quantum-leaps-in-film/"><u>[Updated] The Art of Simulating Quantum Leaps in Film</u></a></li>
+<li><a href="https://fox-access.techidaily.com/frame-your-moment-iphone-apps-for-efficient-photo-cropping-for-2024/"><u>Frame Your Moment IPhone Apps for Efficient Photo Cropping for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories/"><u>From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/immersive-audio-with-sony-bravia-theater-unit-an-unexpected-delight-for-home-cinema-lovers/"><u>Immersive Audio with Sony Bravia Theater Unit – An Unexpected Delight for Home Cinema Lovers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro Max?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/install-new-printer-on-pc-using-windows-control-panel-expert-advice-by-yl-software/"><u>Install New Printer on PC Using Windows Control Panel - Expert Advice by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximizing-pc-efficiency-expert-tips-from-yl-computings-guide-on-system-optimization/"><u>Maximizing PC Efficiency: Expert Tips From YL Computing's Guide on System Optimization</u></a></li>
+<li><a href="https://win-news.techidaily.com/scanner-malfunction-solutions-expert-advice-for-getting-your-device-back-online-with-yl-software-support/"><u>Scanner Malfunction Solutions: Expert Advice for Getting Your Device Back Online with YL Software Support</u></a></li>
+<li><a href="https://win-news.techidaily.com/tailor-your-windows-10-start-menu-for-enhanced-usability-with-tips-from-yl-software-experts/"><u>Tailor Your Windows 10 Start Menu for Enhanced Usability with Tips From YL Software Experts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/translating-trust-the-importance-of-client-endorsements-for-2024/"><u>Translating Trust The Importance of Client Endorsements for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/updating-your-scanner-drivers-made-easy-a-step-by-step-guide-with-yl-computing/"><u>Updating Your Scanner Drivers Made Easy: A Step-by-Step Guide with YL Computing</u></a></li>
 </ul></div>
 
