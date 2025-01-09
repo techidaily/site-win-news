@@ -1,7 +1,7 @@
 ---
 title: 3 Functions on Your Singularity Mixer | HD Video Tutorial
-date: 2024-12-25T21:13:59.575Z
-updated: 2024-12-29T21:06:19.383Z
+date: 2025-01-08T07:46:52.575Z
+updated: 2025-01-08T18:26:07.294Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,24 +44,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-aiming-for-the-stars-select-7-top-shooter-experiences-for-2024/"><u>[New] Aiming for the Stars Select 7 Top Shooter Experiences for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-channel-titling-101-the-quest-for-an-original-label/"><u>[Updated] Channel Titling 101 The Quest for an Original Label</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-gratuitous-access-to-top-digital-editing-suites/"><u>[Updated] Gratuitous Access to Top Digital Editing Suites</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-leading-5-display-choices-for-ps5-gamers/"><u>[Updated] Leading 5 Display Choices for PS5 Gamers</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-setting-up-your-phone-as-a-home-based-webcam-for-2024/"><u>[Updated] Setting Up Your Phone as a Home-Based Webcam for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-toolwiz-photosapp-decoded-in-depth-analysis-of-2023-features/"><u>2024 Approved Toolwiz PhotosApp Decoded - In-Depth Analysis of 2023 Features</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-top-25-social-stars-essential-instagram-icons/"><u>2024 Approved Top 25 Social Stars Essential Instagram Icons</u></a></li>
-<li><a href="https://fox-within.techidaily.com/demand-for-repatriation-british-museum-challenged-over-stolen-chinese-relics-calls-from-chinese-press-for-full-restitution-insights-by-yl-computing-and-soft63/"><u>Demand for Repatriation: British Museum Challenged Over Stolen Chinese Relics; Calls From Chinese Press for Full Restitution - Insights by YL Computing & Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/determining-required-hardware-specifications-for-specific-software-applications-the-expert-guide-by-yl-computing/"><u>Determining Required Hardware Specifications for Specific Software Applications - The Expert Guide by YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/1722900228888-enhance-your-ui-personalize-the-color-of-your-windows-10-taskbar-heres-how/"><u>Enhance Your UI: Personalize the Color of Your Windows 10 Taskbar Here's How</u></a></li>
-<li><a href="https://win-news.techidaily.com/essential-guide-to-freeing-up-space-the-best-tools-for-your-hard-drive-according-to-yl-software/"><u>Essential Guide to Freeing Up Space: The Best Tools for Your Hard Drive, According to YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/ex-ripples-leading-tech-guru-loses-244-million-in-btc-to-daring-heist-insights-from-recovery-company-a-deep-dive-by-yl-computing-and-yl-software/"><u>Ex-RIPPLE's Leading Tech Guru Loses $244 Million in BTC to Daring Heist: Insights From Recovery Company - A Deep Dive by YL Computing and YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-typical-issues-in-microsofts-registry-system-insights-from-yl-software/"><u>Exploring Typical Issues in Microsoft's Registry System - Insights From YL Software</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-extract-and-convert-fb-videos-to-mp3-files-efficiently/"><u>In 2024, Extract and Convert FB Videos to MP3 Files Efficiently</u></a></li>
-<li><a href="https://win-news.techidaily.com/integrating-windows-defender-with-third-party-protection-software-a-guide-by-yl-software/"><u>Integrating Windows Defender With Third-Party Protection Software: A Guide by YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/is-your-system-secure-with-just-windows-defender-against-malware-threats-understanding-the-limits-and-extra-measures-needed-cyber-safety-guide-yl-computing-62/"><u>Is Your System Secure with Just Windows Defender Against Malware Threats? Understanding the Limits & Extra Measures Needed - Cyber Safety Guide | YL Computing Software Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/skyrocketing-system-speeds-proven-strategies-to-enhance-your-windows-experience-with-yl-software-insights/"><u>Skyrocketing System Speeds: Proven Strategies to Enhance Your Windows Experience with YL Software Insights</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-guide-diagnosing-and-fixing-faulty-hardware-issues-insights-by-yl-computing/"><u>Troubleshooting Guide: Diagnosing and Fixing Faulty Hardware Issues - Insights by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-typical-windows-hardware-problems-a-comprehensive-guide-by-yl-computing/"><u>Unraveling Typical Windows Hardware Problems: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unraveling-lightrooms-potential-on-android-devices/"><u>[New] In 2024, Unraveling Lightroom's Potential on Android Devices</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-step-by-step-guide-to-creating-breathtaking-tile-art-for-2024/"><u>[New] Step-by-Step Guide to Creating Breathtaking Tile Art for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-active-screen-capture-pro-does-it-reign-supreme/"><u>[Updated] Active Screen Capture Pro Does It Reign Supreme?</u></a></li>
+<li><a href="https://win-news.techidaily.com/addressing-your-pcs-black-screen-issue-with-expert-tips-by-yl-software-team/"><u>Addressing Your PC's Black Screen Issue with Expert Tips by YL Software Team</u></a></li>
+<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/collection-of-stunning-empire-vessel-graphics-for-your-screen-saverbackground-officially-licensed-by-yl-computing-yl-software/"><u>Collection of Stunning Empire Vessel Graphics for Your Screen Saver/Background: Officially Licensed By YL Computing | YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/green-thumbs-up-the-best-farming-titles-for-group-playtime-for-2024/"><u>Green Thumbs Up The Best Farming Titles for Group Playtime for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
+<li><a href="https://article-helps.techidaily.com/laughs-in-a-click-building-hilarious-memes/"><u>Laughs in a Click Building Hilarious Memes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-the-frustration-now-simple-steps-to-stop-titanfall-2-from-crashing-down/"><u>Stop the Frustration Now! Simple Steps to Stop Titanfall 2 From Crashing Down</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-itel-s23plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Itel S23+ to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://win-community.techidaily.com/aasana-sa-apana-harada-daraivaga-bcata-ja-valyama-ka-tharabhagayavatha-taraka-sa-hata-thaya-gaya-tha/"><u>आसानी से अपना हार्ड-ड्राइविंग बचत जो वाल्यूम को दुर्भाग्यवादी तरीकों से हटा दिया गया था।</u></a></li>
 </ul></div>
 

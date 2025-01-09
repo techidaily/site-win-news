@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2024-12-26T16:09:20.471Z
-updated: 2024-12-29T23:31:23.859Z
+date: 2025-01-04T04:01:54.188Z
+updated: 2025-01-08T20:46:21.339Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,21 +74,17 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-unravel-the-complexity-of-background-removal-with-affinity-photo/"><u>[New] Unravel the Complexity of Background Removal with Affinity Photo</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-techno-titans-earnings-forecast-on-gaming-channels/"><u>[Updated] 2024 Approved Techno Titans Earnings Forecast on Gaming Channels</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-camera-selection-for-young-shooters-top-picks-24/"><u>[Updated] Camera Selection For Young Shooters - Top Picks '24</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-earners-on-youtube/"><u>[Updated] Top Earners on YouTube</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-troubleshooting-incorrect-prints-solutions-for-your-scanner-woes-insights-from-yl-computing/"><u>1. Troubleshooting Incorrect Prints: Solutions for Your Scanner Woes - Insights From YL Computing</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-xiaomi-redmi-note-13-pro-5g-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Xiaomi Redmi Note 13 Pro 5G</u></a></li>
-<li><a href="https://win-news.techidaily.com/complete-guide-backup-and-restore-windows-registry-tips-from-yl-computing/"><u>Complete Guide: Backup & Restore Windows Registry - Tips From YL Computing</u></a></li>
-<li><a href="https://techtrends.techidaily.com/connect-and-stream-the-ultimate-guide-to-watching-hulu-on-lg-smart-tvs/"><u>Connect and Stream: The Ultimate Guide to Watching Hulu on LG Smart TVs</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-steps-to-modify-personal-privacy-settings-in-the-latest-yl-software-update/"><u>Easy Steps to Modify Personal Privacy Settings in the Latest YL Software Update</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-infinix-smart-8-plus-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Infinix Smart 8 Plus Devices</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-reduce-heavy-processor-load-from-wudfhostexe-on-your-windows-10-pc/"><u>How to Reduce Heavy Processor Load From WUDFHost.exe on Your Windows 10 PC</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-a78-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo A78 5G Data? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-unexpected-memory-losses-in-computers-expert-analysis-from-yl-software-solutions/"><u>Identifying Unexpected Memory Losses in Computers: Expert Analysis From YL Software Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/part-1-of-professional-photobooth-insights-mastering-techniques-with-photographer-brian-s-redd/"><u>Part 1 of Professional Photobooth Insights - Mastering Techniques with Photographer Brian S. Redd</u></a></li>
-<li><a href="https://win-news.techidaily.com/pcdj-compatibility-added-to-numark-mixtrack-platinum-and-dex-3-features-for-proliferating-dj-controllers/"><u>PCDJ Compatibility Added to Numark Mixtrack Platinum & Dex 3 Features for Proliferating DJ Controllers</u></a></li>
-<li><a href="https://win-news.techidaily.com/pcdj-updates-get-your-hands-on-the-newly-released-dex-version-31-for-free/"><u>PCDJ Updates: Get Your Hands on the Newly Released DEX Version 3.1 for Free!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-studio-techniques-decoded-xvideostudio-edition/"><u>[New] In 2024, Studio Techniques Decoded XVideoStudio Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-discovering-open-source-masterpieces-and-resources/"><u>[Updated] 2024 Approved Discovering Open-Source Masterpieces & Resources</u></a></li>
+<li><a href="https://win-online.techidaily.com/windows-server-202/"><u>瞬间详解：Windows Server 202#重构写给你的数据安全 - 效率与可靠并存</u></a></li>
+<li><a href="https://win-news.techidaily.com/empowering-your-vocalists-enhance-authenticity-and-beauty-with-the-new-cloud-pro-karaoke-update/"><u>Empowering Your Vocalists: Enhance Authenticity and Beauty with the New Cloud Pro Karaoke Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-instagram-image-addition-playbook/"><u>In 2024, The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://win-news.techidaily.com/is-your-hard-drive-at-risk-identifying-failure-early-with-yl-computings-guide/"><u>Is Your Hard Drive at Risk? Identifying Failure Early with YL Computing's Guide</u></a></li>
+<li><a href="https://techidaily.com/mastering-tech-choices-in-depth-guidance-from-toms-hardware-expertise/"><u>Mastering Tech Choices: In-Depth Guidance From Tom's Hardware Expertise</u></a></li>
+<li><a href="https://win-news.techidaily.com/optimizing-your-scanner-configurations-for-enhanced-image-clarity-with-yl-software/"><u>Optimizing Your Scanner Configurations for Enhanced Image Clarity with YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/optimizing-your-sound-card-a-step-by-step-guide-to-peak-audio-performance-with-yl-software/"><u>Optimizing Your Sound Card: A Step-by-Step Guide to Peak Audio Performance with YL Software</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-walkthrough-for-installing-the-latest-drivers-on-acer-nitro-5-laptops/"><u>Ultimate Walkthrough for Installing the Latest Drivers on Acer Nitro 5 Laptops</u></a></li>
+<li><a href="https://win-news.techidaily.com/understanding-tax-implications-for-cryptocurrency-trades-insights-by-yl-computing/"><u>Understanding Tax Implications for Cryptocurrency Trades - Insights by YL Computing</u></a></li>
 </ul></div>
 

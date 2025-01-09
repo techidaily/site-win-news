@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Program V1.
-date: 2024-12-25T21:41:12.184Z
-updated: 2024-12-29T23:30:39.761Z
+date: 2025-01-04T00:59:08.012Z
+updated: 2025-01-09T04:49:52.707Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,18 +69,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-your-step-by-step-kinemaster-meme-creation-for-2024/"><u>[New] Your Step-by-Step KineMaster Meme Creation for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-simulating-quantum-leaps-in-film/"><u>[Updated] The Art of Simulating Quantum Leaps in Film</u></a></li>
-<li><a href="https://fox-access.techidaily.com/frame-your-moment-iphone-apps-for-efficient-photo-cropping-for-2024/"><u>Frame Your Moment IPhone Apps for Efficient Photo Cropping for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/from-analog-to-digital-safeguarding-older-photographic-memories/"><u>From Analog to Digital Safeguarding Older Photographic Memories</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/immersive-audio-with-sony-bravia-theater-unit-an-unexpected-delight-for-home-cinema-lovers/"><u>Immersive Audio with Sony Bravia Theater Unit – An Unexpected Delight for Home Cinema Lovers</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-apple-id-activation-lock-from-apple-iphone-14-pro-max-by-drfone-ios/"><u>In 2024, How to Unlock Apple ID Activation Lock From Apple iPhone 14 Pro Max?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Oppo Find N3 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/install-new-printer-on-pc-using-windows-control-panel-expert-advice-by-yl-software/"><u>Install New Printer on PC Using Windows Control Panel - Expert Advice by YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/maximizing-pc-efficiency-expert-tips-from-yl-computings-guide-on-system-optimization/"><u>Maximizing PC Efficiency: Expert Tips From YL Computing's Guide on System Optimization</u></a></li>
-<li><a href="https://win-news.techidaily.com/scanner-malfunction-solutions-expert-advice-for-getting-your-device-back-online-with-yl-software-support/"><u>Scanner Malfunction Solutions: Expert Advice for Getting Your Device Back Online with YL Software Support</u></a></li>
-<li><a href="https://win-news.techidaily.com/tailor-your-windows-10-start-menu-for-enhanced-usability-with-tips-from-yl-software-experts/"><u>Tailor Your Windows 10 Start Menu for Enhanced Usability with Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-skills.techidaily.com/translating-trust-the-importance-of-client-endorsements-for-2024/"><u>Translating Trust The Importance of Client Endorsements for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/updating-your-scanner-drivers-made-easy-a-step-by-step-guide-with-yl-computing/"><u>Updating Your Scanner Drivers Made Easy: A Step-by-Step Guide with YL Computing</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-in-depth-analyzing-lgs-4k-wuhd-hdr-performance/"><u>[New] In Depth Analyzing LG's 4K WUHD HDR Performance</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-depth-survey-the-apex-of-screen-recording-technology/"><u>[New] In-Depth Survey The Apex of Screen Recording Technology</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-jarring-cuts-to-elegant-edits-unlocking-inshots-transition-secrets/"><u>[Updated] From Jarring Cuts to Elegant Edits Unlocking Inshot's Transition Secrets</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-youtube-presence-with-audio/"><u>2024 Approved Elevate Your Youtube Presence with Audio</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/clear-out-all-information-from-your-iphone-with-these-easy-steps-tech-savvy-solutions/"><u>Clear Out All Information From Your iPhone with These Easy Steps | Tech Savvy Solutions</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fixing-a-sluggish-steam-stream-a-comprehensive-guide/"><u>Fixing a Sluggish Steam Stream - A Comprehensive Guide</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/from-zero-to-hero-downloading-and-setting-up-obs-for-macos/"><u>From Zero to Hero Downloading and Setting up OBS for macOS</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-x5-by-fonelab-android-recover-video/"><u>How to recover old videos from your X5</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-14-data-transfer-time-whats-the-average-waiting-period/"><u>IPhone 14 Data Transfer Time - What's the Average Waiting Period?</u></a></li>
+<li><a href="https://win-news.techidaily.com/passo-passo-senza-problemi-al-cloning-di-windows-11/"><u>Passo-Passo Senza Problemi Al Cloning Di Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/schritt-fur-schritt-guide-zum-kopieren-von-windows-7-auf-eine-neue-datentrager/"><u>Schritt-Für-Schritt-Guide Zum Kopieren Von Windows 7 Auf Eine Neue Datenträger</u></a></li>
+<li><a href="https://win-news.techidaily.com/schritt-fur-schritt-leitfaden-zum-zurucksetzen-von-lizenzschlusseln-fur-office-365/"><u>Schritt-Für-Schritt-Leitfaden Zum Zurücksetzen Von Lizenzschlüsseln Für Office 365</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-setting-up-single-sign-on-sso-domains-within-your-vsphere-environment/"><u>Step-by-Step Guide: Setting up Single Sign-On (SSO) Domains Within Your vSphere Environment</u></a></li>
+<li><a href="https://windows11.techidaily.com/the-experts-guide-to-navigating-with-windows-narrator/"><u>The Expert's Guide to Navigating with Windows Narrator</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728486997472-url/"><u>URLにアクセスした時に表示される「ページが見つからない」エラーを理解する</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728486506633-win-11/"><u>Win 11 インストール失敗後の対策方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's DX3 Unveiled by Digital 1 Audio: Essential Upgrades for Pro DJs"
-date: 2024-12-23T00:13:37.981Z
-updated: 2024-12-29T20:39:52.605Z
+date: 2025-01-02T07:41:52.575Z
+updated: 2025-01-09T08:08:16.883Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,24 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/arn-more-maximizing-income-through-youtube-mobile-advertising-for-2024/"><u>[New] Earn More Maximizing Income Through YouTube Mobile Advertising for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-instagram-accelerator-unveiling-the-fastest-path-to-follower-fortune-and-fanfare/"><u>[Updated] In 2024, The Ultimate Instagram Accelerator Unveiling the Fastest Path to Follower Fortune & Fanfare</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-youtubers-advanced-toolkit-studio-selection-over-beta/"><u>[Updated] In 2024, YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
-<li><a href="https://discover-bytes.techidaily.com/1728502376745-windowsonedrive/"><u>「オフィスアプリケーションで簡単にWindowsサーバーをOneDriveにバックアップする方法」</u></a></li>
-<li><a href="https://win-news.techidaily.com/crackles-and-noise-bugs-in-your-system-understanding-sound-card-issues-explained-by-yl-computing/"><u>Crackles & Noise Bugs in Your System - Understanding Sound Card Issues Explained by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-does-blockchain-mining-pay-off-exploring-the-financial-gains-in-digital-digging-via-yl-software/"><u>How Does Blockchain Mining Pay Off? Exploring the Financial Gains in Digital Digging via YL Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-infinix-hot-40-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Infinix Hot 40 Pro to Outlook | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-oppo-a78-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Oppo A78 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/masterclass-in-crafting-captivating-educational-content-a-guide-to-producing-impactful-school-project-videos-for-youtube/"><u>Masterclass in Crafting Captivating Educational Content: A Guide to Producing Impactful School Project Videos for YouTube</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-privacy-configuration-a-step-by-step-guide-to-windows-control-panel-settings-tips-from-yl-computing/"><u>Mastering Privacy Configuration: A Step-by-Step Guide to Windows Control Panel Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/overcoming-obstacles-in-hardware-interaction-diagnosing-access-errors-with-expertise-from-yls-computing-and-software-experts/"><u>Overcoming Obstacles in Hardware Interaction: Diagnosing Access Errors with Expertise From YL's Computing and Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/scanner-issues-master-these-tips-from-yl-computing-on-resolving-common-scanning-problems/"><u>Scanner Issues? Master These Tips From YL Computing on Resolving Common Scanning Problems</u></a></li>
-<li><a href="https://win-news.techidaily.com/setting-up-a-safe-and-secured-home-wireless-internet-connection-a-step-by-step-guide-by-yl-computing/"><u>Setting Up a Safe and Secured Home Wireless Internet Connection: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/silencing-your-pc-effective-techniques-to-eliminate-unusual-hardware-sounds/"><u>Silencing Your PC: Effective Techniques to Eliminate Unusual Hardware Sounds</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-hard-drive-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Hard Drive Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-computer-components-insights-from-toms-hardware/"><u>The Ultimate Guide to Computer Components - Insights From Tom's Hardware</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-potential-with-auto-gpt-and-ubuntu/"><u>Unlocking Potential with Auto-GPT & Ubuntu</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-the-distinctions-windows-defender-vs-windows-firewall-insights-by-yl-computing/"><u>Unraveling the Distinctions: Windows Defender Vs. Windows Firewall - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-discovering-the-hidden-gems-in-asmr-creation/"><u>[Updated] 2024 Approved Discovering the Hidden Gems in ASMR Creation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-deciding-on-itop-recorder-an-indispensable-tool-in-2024/"><u>[Updated] Deciding on ITop Recorder - An Indispensable Tool, In 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-expand-your-knowledge-elite-15-sci-yt-channels-list/"><u>[Updated] Expand Your Knowledge Elite 15 Sci-YT Channels List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-lost-opportunities-instant-creative-ban/"><u>2024 Approved Lost Opportunities Instant Creative Ban</u></a></li>
+<li><a href="https://win-news.techidaily.com/5tb-daiza-kapajata-ka-le-sharashha-garadada-bkaapa-kamada-yaha/"><u>5TB डाइज़ो कंपोजिट के लिए शीर्ष-ग्रेडेड बैकअप कमांड यहाँ</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-radeon-r9-drivers-in-windows-11/"><u>Addressing Radeon R9 Drivers in Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/guide-complet-pour-le-mieux-choix-du-transfert-de-donnees-sur-disque-analyse-exhaustive/"><u>Guide Complet Pour Le Mieux Choix Du Transfert De Données Sur Disque - Analyse Exhaustive</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-the-leader-of-chinas-1949-revolutionary-movement-insights-from-yl-computing-and-yl-software-solutions/"><u>Identifying the Leader of China's 1949 Revolutionary Movement - Insights From YL Computing & YL Software Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/recover-lost-data-from-a-deleted-disk-partition-in-windows-systems/"><u>Recover Lost Data From a Deleted Disk Partition in Windows Systems</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-graphics-card-issues-under-windows-lken-a-comprehensive-guide-by-yl-software/"><u>Solving Graphics Card Issues Under Windows ˈlɪkən: A Comprehensive Guide by YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-free-tools-revive-your-photos-quick-fixes-for-the-picture-library-on-windows-11/"><u>Top Free Tools] Revive Your Photos: Quick Fixes for the Picture Library on Windows 11</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-crown-jewel-of-doorbells-a-detailed-review-of-ring-video-doorbell-2/"><u>Unveiling the Crown Jewel of Doorbells - A Detailed Review of Ring Video Doorbell 지2.</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-best-tools-to-edit-mp4-tags-on-windows-and-mac/"><u>Updated In 2024, Best Tools to Edit MP4 Tags on Windows and Mac</u></a></li>
 </ul></div>
 

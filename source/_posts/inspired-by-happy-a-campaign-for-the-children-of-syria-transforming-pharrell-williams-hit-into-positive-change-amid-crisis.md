@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2024-12-24T21:43:49.144Z
-updated: 2024-12-29T20:39:33.632Z
+date: 2025-01-01T22:59:57.543Z
+updated: 2025-01-08T23:42:15.049Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-optidrive-specialists-judgment-for-2024/"><u>[New] OptiDrive Specialists Judgment for 2024</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-picture-power-infusing-textual-elements-on-windows-and-mac-photo-canvas/"><u>[New] Picture Power Infusing Textual Elements on Windows & Mac Photo Canvas</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-precision-narrative-craftsmanship-how-to-write-impressive-docu-scripts/"><u>[New] Precision Narrative Craftsmanship How to Write Impressive Docu-Scripts</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-step-by-step-process-for-iptv-stream-imaging/"><u>[Updated] 2024 Approved Step-by-Step Process for IPTV Stream Imaging</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-incorporating-picture-in-picture-in-browsing-with-edge/"><u>[Updated] Incorporating Picture-In-Picture in Browsing with Edge</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-3d-lut-application-in-photoshop-mastery/"><u>[Updated] Step-by-Step 3D LUT Application in Photoshop Mastery</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-font-size-adjustments-on-your-windows-11-pc-learn-with-yl-computings-expert-solutions/"><u>Effortless Font Size Adjustments on Your Windows 11 PC – Learn with YL Computing's Expert Solutions!</u></a></li>
-<li><a href="https://win-news.techidaily.com/empowering-your-vocalists-enhance-authenticity-and-beauty-with-the-new-cloud-pro-karaoke-update/"><u>Empowering Your Vocalists: Enhance Authenticity and Beauty with the New Cloud Pro Karaoke Update</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/how-developers-feel-ai-will-impact-their-workflow/"><u>How Developers Feel AI Will Impact Their Workflow</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-top-6-eco-friendly-affordable-4k-home-theaters/"><u>In 2024, Top 6 Eco-Friendly, Affordable 4K Home Theaters</u></a></li>
-<li><a href="https://win-news.techidaily.com/is-your-hard-drive-at-risk-identifying-failure-early-with-yl-computings-guide/"><u>Is Your Hard Drive at Risk? Identifying Failure Early with YL Computing's Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/optimizing-your-sound-card-a-step-by-step-guide-to-peak-audio-performance-with-yl-software/"><u>Optimizing Your Sound Card: A Step-by-Step Guide to Peak Audio Performance with YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/preserving-your-systems-lifespan-expert-tips-on-hardware-care-from-yl-software/"><u>Preserving Your System's Lifespan: Expert Tips on Hardware Care From YL Software</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/social-media-streamlining-connect-instagram-plus-facebook-for-2024/"><u>Social Media Streamlining Connect Instagram + Facebook for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-your-laptops-internet-connection-issues-expert-insights-from-yl-computing/"><u>Troubleshooting Your Laptop's Internet Connection Issues: Expert Insights From YL Computing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-oppo-find-x6-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Oppo Find X6 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-tax-implications-for-cryptocurrency-trades-insights-by-yl-computing/"><u>Understanding Tax Implications for Cryptocurrency Trades - Insights by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-11-privacy-configuration-tips-adjust-settings-easily-with-our-expert-guidance-from-yl-computing/"><u>Windows 11 Privacy Configuration Tips: Adjust Settings Easily with Our Expert Guidance From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/yl-software-solution-for-determining-hard-drive-compatibility-with-your-computer-systems/"><u>YL Software Solution for Determining Hard Drive Compatibility With Your Computer Systems</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-artisans-guide-to-personal-branding-via-youtube/"><u>[New] The Artisan's Guide to Personal Branding via YouTube</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-proven-strategies-for-powerful-customer-success-stories-on-screen/"><u>[Updated] 2024 Approved Proven Strategies for Powerful Customer Success Stories on Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-top-8-hubs-for-3d-graffiti-typefaces/"><u>[Updated] 2024 Approved Top 8 Hubs for 3D Graffiti Typefaces</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-upgrading-simplified-navigating-macos-11-big-surs-changes/"><u>[Updated] Upgrading Simplified Navigating macOS 11 Big Sur's Changes</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-secure-your-email-data-the-ultimate-guide-to-syncing-outlook-365-with-onedrive/"><u>1. Secure Your Email Data: The Ultimate Guide to Syncing Outlook 365 with OneDrive</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-2-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze 2 Pro</u></a></li>
+<li><a href="https://win-news.techidaily.com/behebe-das-falsche-laufwerk-wahrend-des-windows-10-bootvorgangs-erfolgreicher-workaround-mit-5-schritten/"><u>Behebe Das Falsche Laufwerk Während Des Windows 10 Bootvorgangs: Erfolgreicher Workaround Mit 5 Schritten</u></a></li>
+<li><a href="https://win-news.techidaily.com/deciding-on-your-next-tablet-a-detailed-analysis-of-ipad-pro-2021-versus-ipad-pro-2022/"><u>Deciding on Your Next Tablet: A Detailed Analysis of iPad Pro 2021 Versus iPad Pro 2022</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-safely-transfer-data-from-a-128gb-ssd-to-a-amoled-256gb-ssd-using-safe-mode/"><u>How to Safely Transfer Data From a 128GB SSD to a Amoled 256GB SSD Using Safe Mode</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728500913402-mac3/"><u>Macユーザーが必見！最高の3つのコピーツール: フォルダ一括移動機能</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/1713965281049-new-through-speed-ramping-create-a-smooth-transition-in-slow-motion-videos-follow-this-guide-and-learn-about-premiere-pro-slow-motion-and-a-better-alternati/"><u>New Through Speed Ramping, Create a Smooth Transition in Slow-Motion Videos. Follow This Guide and Learn About Premiere Pro Slow Motion and a Better Alternative for 2024</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/starting-your-journey-into-cryptocurrency-investments-with-expert-advice-from-yl-software/"><u>Starting Your Journey Into Cryptocurrency Investments with Expert Advice From YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-complete-vmware-esxi-hypervisor-offline-backup-techniques/"><u>Step-by-Step Guide: Complete VMware ESXi Hypervisor Offline Backup Techniques</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-vitality-of-chatgpt-code-interpreter-unveiling-the-importance/"><u>The Vitality of ChatGPT Code Interpreter - Unveiling the Importance</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-tools-zur-effizienten-datentransferierung-zwischen-ssd-und-hdd/"><u>Top Tools Zur Effizienten Datentransferierung Zwischen SSD Und HDD</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/upgrading-your-apple-studio-display-step-by-step-guide-to-the-latest-firmware-enhancements-techradar/"><u>Upgrading Your Apple Studio Display: Step-by-Step Guide to the Latest Firmware Enhancements - TechRadar</u></a></li>
+<li><a href="https://win-news.techidaily.com/44k344k544og44og5b6p5ywd5b6m44gu5ymk6zmk44ov44kh44kk44or5zue5b6p5oml6acg44gr44gk44ge44gm5a2m44g2/"><u>システム復元後の削除ファイル回復手順について学ぶ</u></a></li>
 </ul></div>
 

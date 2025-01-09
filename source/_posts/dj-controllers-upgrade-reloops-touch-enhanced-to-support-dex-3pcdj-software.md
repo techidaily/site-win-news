@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2024-12-26T17:43:10.747Z
-updated: 2024-12-29T22:15:17.023Z
+date: 2025-01-03T20:47:34.578Z
+updated: 2025-01-08T21:38:07.410Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,21 +107,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-rev-voice-recorder-review/"><u>[New] 2024 Approved Rev Voice Recorder Review</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-digital-workshop-archives-for-2024/"><u>[Updated] Digital Workshop Archives for 2024</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/10-standout-educational-websites-for-self-paced-learning/"><u>10 Standout Educational Websites for Self-Paced Learning</u></a></li>
-<li><a href="https://win-news.techidaily.com/adjust-and-optimize-network-configurations-in-windows-detailed-tutorial-from-yl-computing-expertise/"><u>Adjust and Optimize Network Configurations in Windows: Detailed Tutorial From YL Computing Expertise</u></a></li>
-<li><a href="https://win-news.techidaily.com/adjust-your-profile-settings-on-windows-with-ease-expert-tips-from-yl-softwares-user-account-management-feature/"><u>Adjust Your Profile Settings on Windows with Ease - Expert Tips From YL Software's User Account Management Feature</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhancing-your-hard-drive-efficiency-top-strategies-insights-from-yl-computing/"><u>Enhancing Your Hard Drive Efficiency: Top Strategies - Insights From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensuring-your-pcs-audio-hardware-works-on-windows-a-guide-by-yl-computing/"><u>Ensuring Your PC's Audio Hardware Works on Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-the-impact-of-windows-defender-on-computer-performance-with-yl-software-expertise/"><u>Exploring the Impact of Windows Defender on Computer Performance with YL Software Expertise</u></a></li>
-<li><a href="https://win-superb.techidaily.com/how-to-identify-and-fix-major-errors-that-cause-your-pc-to-sluggishly-perform-insights-from-yl-software/"><u>How to Identify and Fix Major Errors That Cause Your PC to Sluggishly Perform: Insights From YL Software</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-animating-elegance-self-designed-tricks-and-effects/"><u>In 2024, Animating Elegance Self-Designed Tricks & Effects</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy S23 Ultra? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-uninstalling-and-reinstalling-your-scanner-drivers-tips-from-yl-computing/"><u>Step-by-Step Guide: Uninstalling & Reinstalling Your Scanner Drivers - Tips From YL Computing</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-guide-installing-device-drivers-on-windows-7-solved/"><u>Troubleshooting Guide: Installing Device Drivers on Windows 7 [Solved]</u></a></li>
-<li><a href="https://common-error.techidaily.com/troubleshooting-steps-when-your-windows-computer-ignores-the-bluetooth-mouse-connection/"><u>Troubleshooting Steps When Your Windows Computer Ignores the Bluetooth Mouse Connection</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-xiaomi-civi-3-disney-100th-anniversary-edition-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Xiaomi Civi 3 Disney 100th Anniversary Edition? Here is How | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-instagram-videographers-manual-enhancing-quality-and-creativity/"><u>[New] 2024 Approved The Instagram Videographer's Manual Enhancing Quality and Creativity</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ngaging-audiences-on-multiple-digital-landscapes-for-2024/"><u>[New] Engaging Audiences on Multiple Digital Landscapes for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-supreme-conversion-software-top-4k-downloads-for-youtubers-for-2024/"><u>[Updated] Supreme Conversion Software Top 4K Downloads for YouTubers for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-unlock-ultimate-clarity-choosing-the-perfect-4k-screen/"><u>[Updated] Unlock Ultimate Clarity Choosing the Perfect 4K Screen</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-samsung-galaxy-m14-4g-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Samsung Galaxy M14 4G Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/alle-fotos-op-mijn-computer-vinden-in-windows-10/"><u>Alle Foto's Op Mijn Computer Vinden in Windows 10</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-3-mobile-photo-sharing-tools-iphone-to-computer-conversion/"><u>Best 3 Mobile Photo Sharing Tools: IPhone to Computer Conversion</u></a></li>
+<li><a href="https://solve-outstanding.techidaily.com/bypassing-itunes-a-complete-guide-to-linking-your-iphone-and-mac-together/"><u>Bypassing iTunes: A Complete Guide to Linking Your iPhone and Mac Together</u></a></li>
+<li><a href="https://win-news.techidaily.com/como-restaurar-la-configuracion-de-fabrica-en-otra-pc-con-windows-11-10-8-o/"><u>Cómo Restaurar La Configuración De Fábrica en Otra PC Con Windows 11, 10, 8 O</u></a></li>
+<li><a href="https://win-news.techidaily.com/datenschutz-gewahrleistend-lernen-sie-die-drei-effektivsten-methoden-um-windows-1011-neu-zu-installieren-ohne-datenverlust/"><u>Datenschutz Gewährleistend: Lernen Sie Die Drei Effektivsten Methoden, Um Windows 10/11 Neu Zu Installieren Ohne Datenverlust.</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-soundtracking-whatsapp-statues/"><u>In 2024, Soundtracking WhatsApp Statues</u></a></li>
+<li><a href="https://win-news.techidaily.com/navigating-the-road-ahead-what-you-need-to-know-before-windows-11-eol-hits/"><u>Navigating the Road Ahead: What You Need to Know Before Windows 11 EOL Hits</u></a></li>
+<li><a href="https://win-answers.techidaily.com/overcome-hitman-3-pc-freezes-and-crashes-with-proven-tips-for-a-smooth-gaming-experience/"><u>Overcome Hitman 3 PC Freezes and Crashes with Proven Tips for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-windows-server-2-task-scheduler-malfunctions-in-server-2019-top-5-methods-for-a-quick-fix/"><u>Troubleshooting Windows Server 2# Task Scheduler Malfunctions in Server 2019 - Top 5 Methods for a Quick Fix</u></a></li>
 </ul></div>
 
