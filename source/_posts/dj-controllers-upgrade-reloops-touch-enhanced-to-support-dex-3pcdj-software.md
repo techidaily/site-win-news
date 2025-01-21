@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2025-01-07T20:37:58.288Z
-updated: 2025-01-14T21:19:28.100Z
+date: 2025-01-14T19:40:22.777Z
+updated: 2025-01-20T23:47:38.374Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,21 +107,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-unveiling-top-8-no-cost-3d-videos-players-pcmac/"><u>[New] 2024 Approved Unveiling Top 8 No-Cost 3D Videos Players PC/Mac</u></a></li>
-<li><a href="https://win-news.techidaily.com/customization-guide-for-windows-10-taskbar-tweaks-and-adjustments-insights-from-yl-software-pros/"><u>Customization Guide for Windows 10 Taskbar Tweaks and Adjustments - Insights From YL Software Pros</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/descubre-el-tratodo-sobre-la-conversion-de-archivos-video-wmv-usando-ram-en-linea-gratis-la-solucion-de-movavi/"><u>Descubre El Tratodo Sobre La Conversión De Archivos Vídeo WMV Usando RAM en Línea Gratis: La Solución De Movavi</u></a></li>
-<li><a href="https://win-news.techidaily.com/dex-38-always-in-sync-demo-advanced-dj-mixing-with-pcdj/"><u>DEX 3.8 Always-In-Sync Demo - Advanced DJ Mixing with PCDJ</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/editsuite-explorer-full-evaluation-for-2024/"><u>EditSuite Explorer – Full Evaluation for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/effective-strategies-for-conducting-cryptocurrency-research-insights-from-yl-computing/"><u>Effective Strategies for Conducting Cryptocurrency Research - Insights From YL Computing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-g910-set-up-on-windows-comprehensive-downloads-and-steps/"><u>Get Your Logitech G910 Set Up on Windows: Comprehensive Downloads & Steps</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-reduce-cpu-consumption-for-an-optimized-cyberpunk-2077-gaming-experience/"><u>How to Reduce CPU Consumption for an Optimized Cyberpunk #2077 Gaming Experience</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-refresh-or-replace-your-present-graphic-processor-tips-from-yl-software-experts/"><u>How to Refresh or Replace Your Present Graphic Processor - Tips From YL Software Experts</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-streamlined-social-integration-linktree-and-tiktok-profiles-united/"><u>In 2024, Streamlined Social Integration Linktree and TikTok Profiles United</u></a></li>
-<li><a href="https://howto.techidaily.com/lava-blaze-2-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Blaze 2 Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/reconsidering-ties-unfriending-someone-from-fb/"><u>Reconsidering Ties: Unfriending Someone From FB</u></a></li>
-<li><a href="https://fox-zero.techidaily.com/solutions-for-unrecognized-external-drives-on-windows-expert-tips-from-yl-softwares-team/"><u>Solutions for Unrecognized External Drives on Windows - Expert Tips From YL Software's Team</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-the-no-signal-dilemma-expert-advice-and-troubleshooting-tips-by-yl-software/"><u>Solving the 'No Signal' Dilemma: Expert Advice and Troubleshooting Tips by YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-a-non-functional-usb-port-expert-advice-from-yl-computing/"><u>Troubleshooting a Non-Functional USB Port: Expert Advice From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-decreased-audio-clarity-post-sound-card-upgrade-insights-by-yl-computing/"><u>Understanding Decreased Audio Clarity Post-Sound Card Upgrade - Insights by YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-blueprinting-engaging-content-layouts-on-youtube/"><u>[New] 2024 Approved Blueprinting Engaging Content Layouts on YouTube</u></a></li>
+<li><a href="https://win-news.techidaily.com/expert-guide-how-to-fix-an-unexpected-external-drive-issue-securely-and-effectively/"><u>Expert Guide: How to Fix an Unexpected External Drive Issue Securely and Effectively</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gemini-or-chatgpt-plus-which-ai-suits-your-needs-best/"><u>Gemini or ChatGPT Plus: Which AI Suits Your Needs Best?</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-download-tunes-for-offline-listening-on-ios-devices/"><u>How to Download Tunes for Offline Listening on iOS Devices</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-masterfully-hook-up-your-samsung-soundbar-to-your-television-set/"><u>How To: Masterfully Hook Up Your Samsung Soundbar to Your Television Set</u></a></li>
+<li><a href="https://win-news.techidaily.com/icloudwhatsapp/"><u>ICloudで保管されているWhatsAppのメッセージを閲覧方法：徹底ガイド</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-insta-cover-chronicles-top-tier-tech-edition/"><u>In 2024, Insta Cover Chronicles Top-Tier Tech Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/nba-2k21-color-error-resolved-how-to-correct-the-iconic-green-glitch/"><u>NBA 2K21 Color Error Resolved - How to Correct the Iconic 'Green Glitch'</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamline-your-sound-top-free-windows-editing-tools/"><u>Streamline Your Sound: Top FREE Windows Editing Tools</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-ultimate-resource-for-tech-savvy-individuals-toms-computer-components-overview/"><u>The Ultimate Resource for Tech Savvy Individuals – Tom’s Computer Components Overview</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-free-solutions-for-transferring-files-safely-onto-network-attached-storage-nas/"><u>Top Free Solutions for Transferring Files Safely Onto Network-Attached Storage (NAS)</u></a></li>
+<li><a href="https://fox-links.techidaily.com/ultimate-display-selection-top-tier-4k-panels-for-videographers-for-2024/"><u>Ultimate Display Selection Top-Tier 4K Panels for Videographers for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/warum-die-funktion-airdrop-nur-fur-kontakte-bei-iphone-nicht-funktionieren-konnte/"><u>Warum Die Funktion 'AirDrop Nur Für Kontakte' Bei iPhone Nicht Funktionieren Könnte</u></a></li>
 </ul></div>
 

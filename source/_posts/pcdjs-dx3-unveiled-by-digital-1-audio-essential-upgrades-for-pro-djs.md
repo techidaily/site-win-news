@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's DX3 Unveiled by Digital 1 Audio: Essential Upgrades for Pro DJs"
-date: 2025-01-09T16:32:28.820Z
-updated: 2025-01-15T02:57:49.826Z
+date: 2025-01-19T18:21:57.418Z
+updated: 2025-01-21T01:16:40.498Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,24 +91,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-most-reliable-voice-recorders-suited-for-macos-users/"><u>[New] In 2024, The Most Reliable Voice Recorders Suited for MacOS Users</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-direct-ipad-to-iphone-media-sync-tutorial/"><u>[Updated] 2024 Approved Direct iPad-to-iPhone Media Sync Tutorial</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-filmora-for-youtube-video-promotions/"><u>[Updated] 2024 Approved Harnessing the Power of Filmora for YouTube Video Promotions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-embedded-recorder-usage-in-huaweis-mate-series-and-the-p-lineup-for-2024/"><u>[Updated] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-precision-practices-for-perfecting-figmas-background-removal-for-2024/"><u>[Updated] Precision Practices for Perfecting Figma's Background Removal for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-top-10plus-best-online-screen-capture-platforms-for-2024/"><u>[Updated] Top 10+ Best Online Screen Capture Platforms for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-ultimate-guide-setting-up-your-pcs-wakeup-time-on-windows-11/"><u>1. Ultimate Guide: Setting Up Your PC's Wakeup Time on Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-windows-server-2022-advanced-smb-compression-techniques-for-efficient-file-handling/"><u>1. Windows Server 2022: Advanced SMB Compression Techniques for Efficient File Handling</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-the-most-recent-nvidia-geforce-drivers-tailored-for-windows-users/"><u>Download and Install the Most Recent NVIDIA GeForce Drivers Tailored for Windows Users</u></a></li>
-<li><a href="https://win-news.techidaily.com/etape-par-etape-comment-redemarrer-votre-pc-avec-un-systeme-de-restauration-windows-11-en-mode-de-securite/"><u>Etape Par Étape : Comment Redémarrer Votre PC Avec Un Système De Restauration Windows 11 en Mode De Sécurité</u></a></li>
-<li><a href="https://win-news.techidaily.com/free-rollback-rx-substitutes-compatible-with-windows-11-10-8-and-7/"><u>Free Rollback RX Substitutes Compatible with Windows 11, 10, 8 & 7</u></a></li>
-<li><a href="https://win-news.techidaily.com/guida-per-gli-utenti-avanzati-ripristinamento-completo-del-sistema-windows-n-via-prompt-dei-comandi/"><u>Guida per Gli Utenti Avanzati: Ripristinamento Completo Del Sistema Windows N via Prompt Dei Comandi</u></a></li>
-<li><a href="https://win-news.techidaily.com/improving-your-text-editor-experience-enhancements-with-the-autocomplete-feature-in-emeditor/"><u>Improving Your Text Editor Experience: Enhancements with the AutoComplete Feature in EmEditor</u></a></li>
-<li><a href="https://article-files.techidaily.com/in-2024-seeing-the-shades-uncovering-disguised-viewer-interactions/"><u>In 2024, Seeing the Shades Uncovering Disguised Viewer Interactions</u></a></li>
-<li><a href="https://win-news.techidaily.com/samsung-ssds-duplikation-auf-eine-neue-solid-state-festplatte-mit-windows-eine-anleitung-zu-zwei-verschiedenen-ansatzen/"><u>Samsung SSDs Duplikation Auf Eine Neue Solid-State-Festplatte Mit Windows – Eine Anleitung Zu Zwei Verschiedenen Ansätzen</u></a></li>
-<li><a href="https://win-news.techidaily.com/sincronizza-rapidamente-i-tuoi-file-e-le-cartelle-tra-due-computer-con-windows-utilizzando-tre-metodi-secure/"><u>Sincronizza Rapidamente I Tuoi File E Le Cartelle Tra Due Computer Con Windows Utilizzando Tre Metodi SECURE</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/step-into-vlogging-fundamental-gear-and-applications/"><u>Step Into Vlogging Fundamental Gear and Applications</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/un-avis-expert-decouvrez-les-etapes-faciles-pour-acceder-a-votre-carte-sd-avec-macos/"><u>Un Avis Expert: Découvrez Les Étapes Faciles Pour Accéder À Votre Carte SD Avec macOS</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-hero-5-black-showdown-against-keymission-170-for-2024/"><u>[New] Hero 5 Black Showdown Against Keymission 170 for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-in-2024-strategic-brand-alliances-for-video-influencers/"><u>[New] In 2024, Strategic Brand Alliances for Video Influencers</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/constructive-learning-over-quick-responses-from-gpt/"><u>Constructive Learning Over Quick Responses From GPT</u></a></li>
+<li><a href="https://win-news.techidaily.com/determining-the-version-of-windows-control-panel-installed-on-your-pc-with-help-from-yl-software-experts/"><u>Determining the Version of Windows Control Panel Installed on Your PC with Help From YL Software Experts</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-reasons-for-low-bandwidth-insights-from-yl-software-professionals/"><u>Exploring Reasons for Low Bandwidth: Insights From YL Software Professionals</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-kraken-microphone-issue-troubleshooting-steps/"><u>Fixing Your Razer Kraken Microphone Issue: Troubleshooting Steps</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-perform-a-diagnostic-test-on-your-windows-pc-identifying-issues-and-solutions-yl-computing/"><u>How to Perform a Diagnostic Test on Your Windows PC: Identifying Issues & Solutions - YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/identifying-windows-os-versions-that-feature-built-in-windows-defender-security-expertise-from-yl-software/"><u>Identifying Windows OS Versions that Feature Built-In Windows Defender Security - Expertise From YL Software</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/making-voice-overhaul-easy-the-ultimate-tiktok-guide/"><u>Making Voice Overhaul Easy The Ultimate TikTok Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/revitalize-your-tracks-advanced-techniques-for-editing-media-tags-via-media-monkey-perfected-by-a-dj/"><u>Revitalize Your Tracks: Advanced Techniques for Editing Media Tags via Media Monkey, Perfected by a DJ</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue-for-2024/"><u>Unleashing Your Content's Potential Journey Towards Gaining Sponsorship Revenue for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/words-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
 </ul></div>
 

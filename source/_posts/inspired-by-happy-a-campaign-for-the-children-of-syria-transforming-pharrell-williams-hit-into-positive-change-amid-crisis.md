@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2025-01-09T03:09:35.471Z
-updated: 2025-01-14T19:21:36.027Z
+date: 2025-01-16T22:07:49.246Z
+updated: 2025-01-20T17:24:26.663Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,17 +55,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-revolutionizing-image-quality-with-advanced-exposure-controls/"><u>[Updated] Revolutionizing Image Quality with Advanced Exposure Controls</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-youtube-name-genius-mastering-branding-with-generators-for-2024/"><u>[Updated] YouTube Name Genius Mastering Branding with Generators for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/cost-effective-filmmaking-5-top-free-video-tools-for-2024/"><u>Cost-Effective Filmmaking 5 Top Free Video Tools for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/essential-guide-to-selecting-the-perfect-usb-wi-fi-receiver/"><u>Essential Guide to Selecting the Perfect USB Wi-Fi Receiver</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-pokemon-go-joystick-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Honor Magic Vs 2? | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-privacy-configuration-a-step-by-step-guide-to-windows-control-panel-settings-tips-from-yl-computing/"><u>Mastering Privacy Configuration: A Step-by-Step Guide to Windows Control Panel Settings - Tips From YL Computing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/mobile-marvels-the-leading-arvr-app-picks/"><u>Mobile Marvels The Leading AR/VR App Picks</u></a></li>
-<li><a href="https://win-news.techidaily.com/overcoming-obstacles-in-hardware-interaction-diagnosing-access-errors-with-expertise-from-yls-computing-and-software-experts/"><u>Overcoming Obstacles in Hardware Interaction: Diagnosing Access Errors with Expertise From YL's Computing and Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-hard-drive-issues-a-comprehensive-guide-by-yl-computing/"><u>Solving Hard Drive Issues: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/unraveling-the-distinctions-windows-defender-vs-windows-firewall-insights-by-yl-computing/"><u>Unraveling the Distinctions: Windows Defender Vs. Windows Firewall - Insights by YL Computing</u></a></li>
-<li><a href="https://some-skills.techidaily.com/upcoming-vr-masterpieces-top-5-new-titles-for-playstation-vr-enthusiasts-for-2024/"><u>Upcoming VR Masterpieces Top 5 New Titles for PlayStation VR Enthusiasts for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/virtual-vanguard-the-top-11-pivotal-war-strategies/"><u>Virtual Vanguard: The Top 11 Pivotal War Strategies</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-darktable-pro-finding-the-best-paired-editor-for-2024/"><u>[New] Darktable Pro Finding the Best Paired Editor for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] Seamless Integration of Links Into TikTok Profiles</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/"><u>[Updated] In 2024, Get the Best Free PC Sound Logger – Download X-Recorder</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728501113736-pdf/"><u>高效PDF維修程式檢視報告：選擇最符合需求的改良工具</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comparative-study-of-vsdc-vs-best-video-recorders/"><u>Comparative Study of VSDC vs Best Video Recorders</u></a></li>
+<li><a href="https://win-news.techidaily.com/fonetool-komplettieren-sie-den-loschvorgang-synchronisierte-bilder-auf-dem-ipad-entfernen/"><u>FoneTool: Komplettieren Sie Den Löschvorgang - Synchronisierte Bilder Auf Dem iPad Entfernen</u></a></li>
+<li><a href="https://win-news.techidaily.com/jelas-dan-mudah-kumpulan-panduan-untuk-memperbaiki-folder-usaha-korban-di-windows-11-atau-versi-lainnya/"><u>Jelas Dan Mudah, Kumpulan Panduan Untuk Memperbaiki Folder Usaha Korban Di Windows 11 Atau Versi Lainnya</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easter-treat-for-creators-special-filmora-promo-code-offer/"><u>New In 2024, Easter Treat for Creators Special Filmora Promo Code Offer</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/permission-to-browse-friends-media-content-on-smschat-services-for-2024/"><u>Permission to Browse Friends' Media Content on SMS/Chat Services for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/sleeksky-saver-the-frugal-file-nest/"><u>SleekSky Saver - The Frugal File Nest</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728491815159-mp3-winpcandroid/"><u>プロ録音MP3を大切に - WinPC/Android上で失われたものが無料復元可能</u></a></li>
 </ul></div>
 

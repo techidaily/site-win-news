@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Program V1.
-date: 2025-01-08T01:57:17.428Z
-updated: 2025-01-15T02:55:19.218Z
+date: 2025-01-17T03:12:37.160Z
+updated: 2025-01-20T16:42:08.853Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,20 +69,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-cheapest-android-calls-top-free-apps-rated/"><u>[New] Cheapest Android Calls Top Free Apps Rated</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-delightful-no-cost-access-to-youtubes-nine-full-length-yule-celebrations/"><u>[New] Delightful, No-Cost Access to YouTube's Nine Full-Length Yule Celebrations</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-tamil-tunes-steps-for-ringtones-and-editing-songs-as-alerts/"><u>[Updated] Tamil Tunes Steps for Ringtones & Editing Songs as Alerts</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/complete-guide-to-repairing-broken-or-compromised-windows-documents-insights-from-yl-computing/"><u>Complete Guide to Repairing Broken or Compromised Windows Documents - Insights From YL Computing</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/comprehensive-guide-to-smartwatches-how-do-they-work/"><u>Comprehensive Guide to Smartwatches - How Do They Work?</u></a></li>
-<li><a href="https://win-news.techidaily.com/cut-costs-get-15-off-your-favorite-dj-and-karaoke-programs-at-dex-shop/"><u>Cut Costs: Get 15% Off Your Favorite DJ and Karaoke Programs at DEX Shop</u></a></li>
-<li><a href="https://win-news.techidaily.com/easy-steps-to-implement-parental-supervision-and-create-multiple-users-using-yls-advanced-system-tools/"><u>Easy Steps to Implement Parental Supervision and Create Multiple Users Using YL's Advanced System Tools</u></a></li>
-<li><a href="https://win-news.techidaily.com/get-your-free-video-jockey-clips-now-essential-download-for-enhancing-the-video-link-functionality-in-pioneer-deck-manager-v36-pdm/"><u>Get Your Free Video Jockey Clips Now! Essential Download for Enhancing the 'Video Link' Functionality in Pioneer Deck Manager v3.6 (PDM)</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-samsung-galaxy-s23-tactical-edition-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Samsung Galaxy S23 Tactical Edition Through Google Earth?</u></a></li>
-<li><a href="https://win-news.techidaily.com/pcdjs-dx3-unveiled-by-digital-1-audio-essential-upgrades-for-pro-djs/"><u>PCDJ's DX3 Unveiled by Digital 1 Audio: Essential Upgrades for Pro DJs</u></a></li>
-<li><a href="https://win-news.techidaily.com/scanner-issues-master-these-tips-from-yl-computing-on-resolving-common-scanning-problems/"><u>Scanner Issues? Master These Tips From YL Computing on Resolving Common Scanning Problems</u></a></li>
-<li><a href="https://win-news.techidaily.com/silencing-your-pc-effective-techniques-to-eliminate-unusual-hardware-sounds/"><u>Silencing Your PC: Effective Techniques to Eliminate Unusual Hardware Sounds</u></a></li>
-<li><a href="https://blog-min.techidaily.com/step-by-step-guide-to-building-and-duplicating-dvds-with-winx-dvd-creator/"><u>Step-by-Step Guide to Building & Duplicating DVDs with WinX DVD Creator</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/top-5-must-have-navigation-apps-for-your-ios-device/"><u>Top 5 Must-Have Navigation Apps for Your iOS Device</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-become-a-youtube-live-expert-strategies-and-insights/"><u>[New] 2024 Approved Become a YouTube Live Expert Strategies and Insights</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-iphone-photo-excellence-simple-tips-and-tricks/"><u>[New] 2024 Approved IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-idevice-screen-saving-tricks-for-2024/"><u>[New] Seamless iDevice Screen Saving Tricks for 2024</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/die-besten-kostengunstigen-losungen-zur-sichern-ihrer-fotos-professionelle-empfehlungen/"><u>Die Besten Kostengünstigen Lösungen Zur Sichern Ihrer Fotos – Professionelle Empfehlungen</u></a></li>
+<li><a href="https://win-news.techidaily.com/erfolgreiche-tipps-zur-effizienten-synchronisation-ihrer-dateien-verwenden-sie-ein-synology-nas-auf-dem-windows-system/"><u>Erfolgreiche Tipps Zur Effizienten Synchronisation Ihrer Dateien: Verwenden Sie Ein Synology NAS Auf Dem Windows System</u></a></li>
+<li><a href="https://techtrends.techidaily.com/harry-potter-film-collection-watching-schedule-for-full-experience/"><u>Harry Potter Film Collection Watching Schedule for Full Experience</u></a></li>
+<li><a href="https://win-news.techidaily.com/il-top-choice-per-il-backup-locale-di-windows-11-sostituisci-dell-datasafe/"><u>Il Top Choice Per Il Backup Locale Di Windows 11: Sostituisci Dell DataSafe</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>In 2024, Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-musik-schutzstrategien-entdecken-sie-4-effektive-losungen/"><u>IPhone-Musik Schutzstrategien: Entdecken Sie 4 Effektive Lösungen</u></a></li>
+<li><a href="https://win-news.techidaily.com/les-meilleurs-outils-pour-fabriquer-une-cle-usb-de-demarrage-avec-windows-11/"><u>Les Meilleurs Outils Pour Fabriquer Une Clé USB De Démarrage Avec Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-bi-directional-file-synchronization-on-windows-tips-and-techniques-from-vista-to-11/"><u>Mastering Bi-Directional File Synchronization on Windows: Tips and Techniques From Vista to 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/perfektes-kopieren-von-windows-10-auf-eine-kompaktere-solid-state-festplatte-die-beste-methode/"><u>Perfektes Kopieren Von Windows 10 Auf Eine Kompaktere Solid-State-Festplatte: Die Beste Methode</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/protecting-your-personal-data-on-iphone-hide-your-day-one-notes-from-unwanted-eyes-zdnet/"><u>Protecting Your Personal Data on iPhone: Hide Your Day One Notes From Unwanted Eyes | ZDNet</u></a></li>
+<li><a href="https://win-news.techidaily.com/recover-vanished-files-and-ink-incident/"><u>Recover, Vanished Files, and Ink Incident.</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transfer-data-from-your-ipad-mini-4-5-and-6-to-a-pc-or-icloud/"><u>Step-by-Step Guide: Transfer Data From Your iPad Mini (4, 5 & 6) to a PC or iCloud</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-v30-lite-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo V30 Lite 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/swiftly-swiveling-how-to-improve-video-viewability-in-vlc/"><u>Swiftly Swiveling How to Improve Video Viewability in VLC</u></a></li>
+<li><a href="https://win-news.techidaily.com/transferts-completes-de-fichiers-avec-xcopy-sur-systemes-windows-7-a-11-methode-resolue/"><u>Transferts Complètes De Fichiers Avec XCopy Sur Systèmes Windows 7 À 11 - Méthode Résolue</u></a></li>
 </ul></div>
 
