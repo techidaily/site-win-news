@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Program V1.
-date: 2025-01-17T03:12:37.160Z
-updated: 2025-01-20T16:42:08.853Z
+date: 2025-01-21T06:37:51.585Z
+updated: 2025-01-26T22:44:22.185Z
 tags:
   - product
 categories:
@@ -29,7 +29,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### New, Changed, and Fixed in LYRX v1.6.1
@@ -47,7 +47,7 @@ As always, this is a free update for existing LYRX owners. Just download/install
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -69,24 +69,19 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-become-a-youtube-live-expert-strategies-and-insights/"><u>[New] 2024 Approved Become a YouTube Live Expert Strategies and Insights</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-2024-approved-iphone-photo-excellence-simple-tips-and-tricks/"><u>[New] 2024 Approved IPhone Photo Excellence Simple Tips & Tricks</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-seamless-idevice-screen-saving-tricks-for-2024/"><u>[New] Seamless iDevice Screen Saving Tricks for 2024</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/die-besten-kostengunstigen-losungen-zur-sichern-ihrer-fotos-professionelle-empfehlungen/"><u>Die Besten Kostengünstigen Lösungen Zur Sichern Ihrer Fotos – Professionelle Empfehlungen</u></a></li>
-<li><a href="https://win-news.techidaily.com/erfolgreiche-tipps-zur-effizienten-synchronisation-ihrer-dateien-verwenden-sie-ein-synology-nas-auf-dem-windows-system/"><u>Erfolgreiche Tipps Zur Effizienten Synchronisation Ihrer Dateien: Verwenden Sie Ein Synology NAS Auf Dem Windows System</u></a></li>
-<li><a href="https://techtrends.techidaily.com/harry-potter-film-collection-watching-schedule-for-full-experience/"><u>Harry Potter Film Collection Watching Schedule for Full Experience</u></a></li>
-<li><a href="https://win-news.techidaily.com/il-top-choice-per-il-backup-locale-di-windows-11-sostituisci-dell-datasafe/"><u>Il Top Choice Per Il Backup Locale Di Windows 11: Sostituisci Dell DataSafe</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-bridging-the-gap-between-facebook-videos-and-apple-tv-compatibility/"><u>In 2024, Bridging the Gap Between Facebook Videos and Apple TV Compatibility</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-methods-to-change-gps-location-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Methods to Change GPS Location On Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-musik-schutzstrategien-entdecken-sie-4-effektive-losungen/"><u>IPhone-Musik Schutzstrategien: Entdecken Sie 4 Effektive Lösungen</u></a></li>
-<li><a href="https://win-news.techidaily.com/les-meilleurs-outils-pour-fabriquer-une-cle-usb-de-demarrage-avec-windows-11/"><u>Les Meilleurs Outils Pour Fabriquer Une Clé USB De Démarrage Avec Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-bi-directional-file-synchronization-on-windows-tips-and-techniques-from-vista-to-11/"><u>Mastering Bi-Directional File Synchronization on Windows: Tips and Techniques From Vista to 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/perfektes-kopieren-von-windows-10-auf-eine-kompaktere-solid-state-festplatte-die-beste-methode/"><u>Perfektes Kopieren Von Windows 10 Auf Eine Kompaktere Solid-State-Festplatte: Die Beste Methode</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/protecting-your-personal-data-on-iphone-hide-your-day-one-notes-from-unwanted-eyes-zdnet/"><u>Protecting Your Personal Data on iPhone: Hide Your Day One Notes From Unwanted Eyes | ZDNet</u></a></li>
-<li><a href="https://win-news.techidaily.com/recover-vanished-files-and-ink-incident/"><u>Recover, Vanished Files, and Ink Incident.</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transfer-data-from-your-ipad-mini-4-5-and-6-to-a-pc-or-icloud/"><u>Step-by-Step Guide: Transfer Data From Your iPad Mini (4, 5 & 6) to a PC or iCloud</u></a></li>
-<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-v30-lite-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo V30 Lite 5G Unresponsive Screen | Dr.fone</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/swiftly-swiveling-how-to-improve-video-viewability-in-vlc/"><u>Swiftly Swiveling How to Improve Video Viewability in VLC</u></a></li>
-<li><a href="https://win-news.techidaily.com/transferts-completes-de-fichiers-avec-xcopy-sur-systemes-windows-7-a-11-methode-resolue/"><u>Transferts Complètes De Fichiers Avec XCopy Sur Systèmes Windows 7 À 11 - Méthode Résolue</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-qp-value-enhancing-gradual-movement-vids-for-2024/"><u>[New] Top QP Value Enhancing Gradual Movement Vids for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-best-alternatives-for-premium-cam-screen-recording-tech/"><u>[Updated] 2024 Approved Best Alternatives for Premium Cam Screen Recording Tech</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exploring-peak-performance-best-oculus-rift-players-for-2024/"><u>[Updated] Exploring Peak Performance Best Oculus Rift Players for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/come-imparare-a-eseguire-il-backup-dei-tuoi-dati-con-aomei-fonebackup-una-guida-completa/"><u>Come Imparare a Eseguire Il Backup Dei Tuoi Dati Con AOMEI FoneBackup: Una Guida Completa</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-image-packs-selecting-the-best-for-macbook-screens/"><u>Ideal Image Packs Selecting the Best for MacBook Screens</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-realme-narzo-n55-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Realme Narzo N55 Devices</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-time-honored-techniques-incorinastrating-classic-vhs-into-modern-cinematics/"><u>In 2024, Time-Honored Techniques Incorinastrating Classic VHS Into Modern Cinematics</u></a></li>
+<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
+<li><a href="https://win-news.techidaily.com/practical-strategies-for-downloading-tracks-from-beatport/"><u>Practical Strategies for Downloading Tracks From Beatport</u></a></li>
+<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/solution-steps-for-when-your-logitech-g433-headset-mic-stops-responding/"><u>Solution Steps for When Your Logitech G433 Headset Mic Stops Responding</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-tutorials-for-disabling-and-uninstalling-vpn-apps-from-ios-devices/"><u>Step-by-Step Tutorials for Disabling and Uninstalling VPN Apps From iOS Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-pathway-for-high-quality-video-production-in-adobe-connect/"><u>The Ultimate Pathway for High-Quality Video Production in Adobe Connect</u></a></li>
 </ul></div>
 

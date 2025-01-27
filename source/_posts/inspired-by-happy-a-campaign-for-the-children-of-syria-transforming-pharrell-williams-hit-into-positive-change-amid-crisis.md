@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2025-01-16T22:07:49.246Z
-updated: 2025-01-20T17:24:26.663Z
+date: 2025-01-21T21:22:16.744Z
+updated: 2025-01-27T06:16:09.430Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,16 +55,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-darktable-pro-finding-the-best-paired-editor-for-2024/"><u>[New] Darktable Pro Finding the Best Paired Editor for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-seamless-integration-of-links-into-tiktok-profiles/"><u>[New] Seamless Integration of Links Into TikTok Profiles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-get-the-best-free-pc-sound-logger-download-x-recorder/"><u>[Updated] In 2024, Get the Best Free PC Sound Logger – Download X-Recorder</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728501113736-pdf/"><u>高效PDF維修程式檢視報告：選擇最符合需求的改良工具</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/comparative-study-of-vsdc-vs-best-video-recorders/"><u>Comparative Study of VSDC vs Best Video Recorders</u></a></li>
-<li><a href="https://win-news.techidaily.com/fonetool-komplettieren-sie-den-loschvorgang-synchronisierte-bilder-auf-dem-ipad-entfernen/"><u>FoneTool: Komplettieren Sie Den Löschvorgang - Synchronisierte Bilder Auf Dem iPad Entfernen</u></a></li>
-<li><a href="https://win-news.techidaily.com/jelas-dan-mudah-kumpulan-panduan-untuk-memperbaiki-folder-usaha-korban-di-windows-11-atau-versi-lainnya/"><u>Jelas Dan Mudah, Kumpulan Panduan Untuk Memperbaiki Folder Usaha Korban Di Windows 11 Atau Versi Lainnya</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-easter-treat-for-creators-special-filmora-promo-code-offer/"><u>New In 2024, Easter Treat for Creators Special Filmora Promo Code Offer</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/permission-to-browse-friends-media-content-on-smschat-services-for-2024/"><u>Permission to Browse Friends' Media Content on SMS/Chat Services for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/sleeksky-saver-the-frugal-file-nest/"><u>SleekSky Saver - The Frugal File Nest</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728491815159-mp3-winpcandroid/"><u>プロ録音MP3を大切に - WinPC/Android上で失われたものが無料復元可能</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[New] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-magix-photo-manager-review/"><u>[New] MAGIX Photo Manager Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-video-file-management-movs-on-windows-10/"><u>[Updated] Mastering Video File Management MOVs on Windows 10</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-successful-iphone-data-restoration-tips-and-tricks-for-models-7-plus-x-and-xr/"><u>1. Successful iPhone Data Restoration: Tips and Tricks for Models 7 Plus, X & XR</u></a></li>
+<li><a href="https://win-news.techidaily.com/1728495855023-iphoneandroid/"><u>發現已下載但未見於何處的檔案：針對電腦、iPhone及Android手機的解決方法</u></a></li>
+<li><a href="https://win-news.techidaily.com/comment-resoudre-lerreur-processus-critique-mourut-en-windows-7-plus/"><u>Comment Résoudre L'erreur Processus Critique Mourut en Windows 지판 [7 메서드 + 기술]</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-a-movie-on-pc-mac-and-smartphones-in-2024/"><u>How to Record a Movie on PC, Mac, and Smartphones, In 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/icloud-and-macos-integration-woes-master-the-art-of-fixing-missing-file-sync-problems-with-this-guide/"><u>ICloud and macOS Integration Woes? Master the Art of Fixing Missing File Sync Problems with This Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-stream-to-success-obs-youtube-broadcast-basics/"><u>In 2024, Stream to Success OBS Youtube Broadcast Basics</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/preserve-your-ai-chats-in-depth-instructions-for-keeping-track-of-your-chatgpt-sessions/"><u>Preserve Your AI Chats: In-Depth Instructions for Keeping Track of Your ChatGPT Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pova-6-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pova 6 Pro 5G Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/top-empfohlene-apps-zur-synchronisation-von-ihrem-iphone-mit-windows/"><u>Top Empfohlene Apps Zur Synchronisation Von Ihrem iPhone Mit Windows</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-seven-secrets-to-boosting-your-laptops-performance-instantly/"><u>Top Seven Secrets to Boosting Your Laptop's Performance Instantly</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2025-01-09T02:39:11.791Z
-updated: 2025-01-14T21:01:30.534Z
+date: 2025-01-20T16:32:09.047Z
+updated: 2025-01-27T06:49:15.534Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,18 +74,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-essential-audio-techniques-capturing-clear-sound/"><u>[New] Essential Audio Techniques Capturing Clear Sound</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-how-to-solve-facebook-videos-are-partially-muted-in-2024/"><u>[New] How to Solve Facebook Videos Are Partially Muted, In 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/advanced-techniques-for-superior-image-scanning-results-with-yl-software/"><u>Advanced Techniques for Superior Image Scanning Results with YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/collection-of-stunning-empire-vessel-graphics-for-your-screen-saverbackground-officially-licensed-by-yl-computing-yl-software/"><u>Collection of Stunning Empire Vessel Graphics for Your Screen Saver/Background: Officially Licensed By YL Computing | YL Software</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/cross-era-compatibility-using-windows-7-product-key-in-11/"><u>Cross-Era Compatibility: Using Windows 7 Product Key in 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhancing-performance-key-advantages-of-upgrading-your-personal-computers-hardware-yl-technologies/"><u>Enhancing Performance: Key Advantages of Upgrading Your Personal Computer's Hardware - YL Technologies</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/expert-tips-eliminating-errors-and-crashes-in-final-fantasy-xv-on-your-desktop-game-system/"><u>Expert Tips: Eliminating Errors and Crashes in Final Fantasy XV on Your Desktop Game System</u></a></li>
-<li><a href="https://win-news.techidaily.com/handling-incorrect-alerts-in-windows-defender-a-comprehensive-guide-by-yl-computing/"><u>Handling Incorrect Alerts in Windows Defender: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-the-reasons-behind-graphics-card-failures-insights-from-yl-computing/"><u>Identifying the Reasons Behind Graphics Card Failures: Insights From YL Computing</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mending-windows-system-fix-unheard-link-app-notifications/"><u>Mending Windows System: Fix Unheard Link App Notifications</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-layer-on-sony-s3700-blu-ray-play-for-2024/"><u>New Layer on Sony S3700 Blu-Ray PLAY for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/step-by-step-guide-removing-amazons-kindle-drm-from-ebooks-in-windows-8/"><u>Step-by-Step Guide: Removing Amazon's Kindle DRM From Ebooks in Windows 8</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/youtube-video-magic-best-tools-for-effortless-webm-conversion-for-2024/"><u>YouTube Video Magic Best Tools for Effortless WebM Conversion for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024s-superior-camera-gear-roundup/"><u>[New] 2024'S Superior Camera Gear Roundup</u></a></li>
+<li><a href="https://win-news.techidaily.com/disney-inspired-iphone-13-themes-and-wallpaper-packs-create-your-own-magic-with-yl-computings-designs/"><u>Disney-Inspired iPhone 13 Themes & Wallpaper Packs - Create Your Own Magic with YL Computing's Designs</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhance-pc-performance-with-these-simple-methods-from-yl-software-experts/"><u>Enhance PC Performance with These Simple Methods From YL Software Experts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>In 2024, Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpts-language-skills-for-non-english-conversations/"><u>Leveraging ChatGPT's Language Skills for Non-English Conversations</u></a></li>
+<li><a href="https://win-news.techidaily.com/prevent-constant-shutdowns-why-your-pc-may-be-failing-and-solutions-from-yl-software/"><u>Prevent Constant Shutdowns: Why Your PC May Be Failing & Solutions From YL Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/understanding-the-consequences-of-early-sino-japanese-wars-insights-from-yl-software-experts/"><u>Understanding the Consequences of Early Sino-Japanese Wars – Insights From YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721467435745-why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/windows-files-reviewed-in-a-flash/"><u>Windows Files Reviewed in a Flash</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/winxdvddigiarty/"><u>あなたのWinXDVD・Digiartyソフト質問への回答 - 連絡先情報公開</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PCDJ's DX3 Unveiled by Digital 1 Audio: Essential Upgrades for Pro DJs"
-date: 2025-01-19T18:21:57.418Z
-updated: 2025-01-21T01:16:40.498Z
+date: 2025-01-24T17:20:40.032Z
+updated: 2025-01-26T18:44:30.474Z
 tags:
   - product
 categories:
@@ -19,7 +19,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### [![d1audio](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio-180x180.jpg?resize=84%2C84&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/d1audio.jpg?ssl=1)Digital 1 Audio launches PCDJ DEX 3 for MAC and Windows, a core upgrade of the popular flagship DJ software that includes a new video mixing engine, graphics engine and totally redesigned media file browser.
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/50cbd8d07e0873a4343caac1afaca4ba3bdd492ab
 [Digital 1 Audio, Inc.](http://www.prweb.net/Redirect.aspx?id=aHR0cDovL3d3dy5wY2RqLmNvbQ==), a leading creator of [DJ mixing software](https://tools.techidaily.com/pcdj/products/) for professional DJs, launched a much anticipated[PCDJ DEX 3](https://tools.techidaily.com/pcdj/products/) platform upgrade. The new upgrade for existing PCDJ DEX 2 DJ software users introduces an all-[![PCDJ DEX 3 DJ Software](https://i0.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1-300x214.jpg?resize=300%2C214&ssl=1)](https://i2.wp.com/www.pcdj.com/wp-content/uploads/2014/08/dex3pageimage1.jpg?ssl=1)new robust core platform, the foundation for the next few years of new feature development.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 > _“DEX 3 will be PCDJ’s most complete solution to date for Pro DJs mixing all media types; music, videos and karaoke,” says Digital 1 Audio’s General Manager Ryan Sherr. “The new version 3 DJ software platform is a core foundational upgrade. The video mixing engine, graphics engine and the file browser, which is now a true and very snappy database, have been redesigned from the ground up to ensure we can continue to build on features for the next five to ten years. In addition, we’ve added support for a few new DJ controllers, with support for over 70 controllers total. We invite anyone that has tried PCDJ DEX 2 before to download the DEX 3 demo; I think DJs will find the DEX 3 a major upgrade to previous version and excellent all-in-one mixing software platform. Our current DEX 2 customers are going to love it.”_
@@ -69,7 +69,7 @@ DirectX/ASIO compatible multichannel soundcard (Mac: multichannel Core Audio sou
 **_Since 1999, Digital 1 Audio/PCDJ has been recognized as a leading developer and manufacturer of DJ and Karaoke live performance software. Professional DJs all around the world now spin with their computer using one of the company’s entertainment products._**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -91,18 +91,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/08/d1releaseddex3-coverimage.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-hero-5-black-showdown-against-keymission-170-for-2024/"><u>[New] Hero 5 Black Showdown Against Keymission 170 for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-strategic-brand-alliances-for-video-influencers/"><u>[New] In 2024, Strategic Brand Alliances for Video Influencers</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-screensavers-supreme-mastering-the-art-of-twitvid-archiving/"><u>[Updated] ScreenSavers Supreme Mastering the Art of TwitVid Archiving</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/constructive-learning-over-quick-responses-from-gpt/"><u>Constructive Learning Over Quick Responses From GPT</u></a></li>
-<li><a href="https://win-news.techidaily.com/determining-the-version-of-windows-control-panel-installed-on-your-pc-with-help-from-yl-software-experts/"><u>Determining the Version of Windows Control Panel Installed on Your PC with Help From YL Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/exploring-reasons-for-low-bandwidth-insights-from-yl-software-professionals/"><u>Exploring Reasons for Low Bandwidth: Insights From YL Software Professionals</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/fixing-your-razer-kraken-microphone-issue-troubleshooting-steps/"><u>Fixing Your Razer Kraken Microphone Issue: Troubleshooting Steps</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-perform-a-diagnostic-test-on-your-windows-pc-identifying-issues-and-solutions-yl-computing/"><u>How to Perform a Diagnostic Test on Your Windows PC: Identifying Issues & Solutions - YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/identifying-windows-os-versions-that-feature-built-in-windows-defender-security-expertise-from-yl-software/"><u>Identifying Windows OS Versions that Feature Built-In Windows Defender Security - Expertise From YL Software</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/making-voice-overhaul-easy-the-ultimate-tiktok-guide/"><u>Making Voice Overhaul Easy The Ultimate TikTok Guide</u></a></li>
-<li><a href="https://win-news.techidaily.com/revitalize-your-tracks-advanced-techniques-for-editing-media-tags-via-media-monkey-perfected-by-a-dj/"><u>Revitalize Your Tracks: Advanced Techniques for Editing Media Tags via Media Monkey, Perfected by a DJ</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/unleashing-your-contents-potential-journey-towards-gaining-sponsorship-revenue-for-2024/"><u>Unleashing Your Content's Potential Journey Towards Gaining Sponsorship Revenue for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/words-in-motion-a-guide-to-lively-animation-methods-for-2024/"><u>Words in Motion A Guide to Lively Animation Methods for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-bring-your-youtube-vision-to-life-with-free-banner-resources/"><u>[Updated] Bring Your YouTube Vision to Life with FREE Banner Resources</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-offline-viewing-of-full-hd-fb-content/"><u>[Updated] In 2024, Offline Viewing of Full-HD FB Content</u></a></li>
+<li><a href="https://win-news.techidaily.com/can-windows-backup-system-restore-deleted-data-a-comprehensive-guide-by-yl-computing/"><u>Can Windows Backup System Restore Deleted Data? A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://win-hot.techidaily.com/erfassen-sie-ihre-verlorenen-desktop-dateien-mit-diesen-drei-schlusselstrategien-fur-die-wiederherstellung/"><u>Erfassen Sie Ihre Verlorenen Desktop-Dateien Mit Diesen Drei Schlüsselstrategien Für Die Wiederherstellung.</u></a></li>
+<li><a href="https://win-news.techidaily.com/fixing-scanner-computer-connectivity-problems-expert-advice-by-yl-software-solutions/"><u>Fixing Scanner-Computer Connectivity Problems: Expert Advice by YL Software Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/high-definition-floral-designs-premium-wallpaper-and-image-collections-by-yl-computing/"><u>High-Definition Floral Designs: Premium Wallpaper & Image Collections by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/high-res-spider-man-no-way-home-visual-graphics-backgrounds-and-posters-your-latest-web-design-solution-from-yl-computing/"><u>High-Res Spider-Man No Way Home Visual Graphics, Backgrounds & Posters - Your Latest Web Design Solution From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-can-you-repair-a-malfunctioning-sound-card-in-windows-tips-and-solutions-by-yl-computing/"><u>How Can You Repair a Malfunctioning Sound Card in Windows - Tips & Solutions by YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-adjust-your-mouse-preferences-through-windows-settings-a-guide-by-yl-computing/"><u>How to Adjust Your Mouse Preferences Through Windows Settings - A Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-nokia-150-2023-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Nokia 150 (2023) to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-itel-a70-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Itel A70 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-password-cracking-tools-for-oppo-a38-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Oppo A38</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-to-extracting-zip-files-on-windows-tech-tips-by-yl-computing/"><u>Step-by-Step Guide to Extracting ZIP Files on Windows - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-inside-scoop-on-cutting-edge-pc-components-by-tomngeartech/"><u>The Inside Scoop on Cutting-Edge PC Components by Tom'nGearTech</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-ultimate-guide-to-podcast-outros-and-examples/"><u>The Ultimate Guide to Podcast Outros & Examples</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/transferring-macbook-data-in-a-flash-discover-simple-methods-with-tips-experts/"><u>Transferring MacBook Data in a Flash? Discover Simple Methods with Tips Experts</u></a></li>
+<li><a href="https://win-news.techidaily.com/troubleshooting-physical-computer-problems-with-tips-from-yl-software/"><u>Troubleshooting Physical Computer Problems with Tips From YL Software</u></a></li>
 </ul></div>
 
