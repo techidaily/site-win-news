@@ -1,7 +1,7 @@
 ---
 title: "DJ Controllers Upgrade: Reloop's TOUCH Enhanced to Support DEX 3/PCDJ Software!"
-date: 2025-01-20T00:22:02.045Z
-updated: 2025-01-26T19:14:48.874Z
+date: 2025-02-08T02:47:52.677Z
+updated: 2025-02-09T00:16:06.005Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Key Features of the Reloop Touch
@@ -56,7 +56,7 @@ The **Reloop TOUCH** is a feature-rich solution for DEX 3 DJs whether Djing Wedd
 _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCUMENTS -> PCDJ-DEX3 (OR PCDJ-RED3) -> CONTROLLERS with DEX 3/DEX 3 RE closed. (YOU DO NOT NEED TO INSTALL THIS MAP IF YOU ARE RUNNING DEX v3.13 OR NEWER)**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Technical Specifications:
@@ -85,7 +85,7 @@ _**RELOOP TOUCH INSTALL INSTRUCTIONS:** Unzip the Map (js file only!) To: **DOCU
 _Have questions about the **Reloop TOUCH** **DJ Controller** and how it works with DEX 3 or DEX 3 RE **DJ Software**? Please leave them in the comments section below!_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -107,19 +107,16 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2019/04/reloop-touch-banner.jpg?fi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-effective-group-meetings-googles-top-solutions-4/"><u>[New] In 2024, Effective Group Meetings Google's Top Solutions (#4)</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-replication-expertise-achieving-flawless-robocopy-mirrors-for-superior-data-alignment/"><u>Effortless Replication Expertise: Achieving Flawless Robocopy Mirrors for Superior Data Alignment</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/guide-configuring-sticky-notifications-and-reliable-alert-systems-in-android-os/"><u>Guide: Configuring Sticky Notifications & Reliable Alert Systems in Android OS</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Motorola Moto G84 5G | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-tecno-pop-8-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Tecno Pop 8 without Anyone Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-tecno-pova-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Tecno Pova 5 Pro | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/in-2024-ultimate-index-downloading-your-preferred-chime-files/"><u>In 2024, Ultimate Index Downloading Your Preferred Chime Files</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/mov-en-gif-eenvoudig-versterken-met-de-moovavi-gratis-filmconverteur/"><u>MOV en GIF - Eenvoudig Versterken Met De Moovavi Gratis Filmconverteur</u></a></li>
-<li><a href="https://win-news.techidaily.com/possible-data-loss-when-changing-text-editor-source-and-destination-using-emeditor/"><u>Possible Data Loss When Changing Text Editor Source & Destination - Using EmEditor</u></a></li>
-<li><a href="https://win-news.techidaily.com/quick-tips-restore-your-deleted-eps-documents-without-hitches/"><u>Quick Tips: Restore Your Deleted EPS Documents Without Hitches</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/updated-top-rated-free-imovie-alternatives-for-video-editing/"><u>Updated Top-Rated Free iMovie Alternatives for Video Editing</u></a></li>
-<li><a href="https://win-news.techidaily.com/vollstandiges-backup-und-transfer-aller-personlichen-daten-4-schritte-fur-deinen-neustart-mit-einem-neuen-pc/"><u>Vollständiges Backup Und Transfer Aller Persönlichen Daten – 4 Schritte Für Deinen Neustart Mit Einem Neuen PC</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-vs/"><u>Windowsの自動保存ツール: 過去データ復元 vs 新規バックアップ</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728474069133-usb/"><u>エレコムUSBメモリで失われたデータを迅速に回復する手順</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-transforming-static-text-into-dynamic-elements-on-a-budget/"><u>[New] 2024 Approved Transforming Static Text Into Dynamic Elements on a Budget</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-expert-reviews-top-5-high-performance-video-devices-for-2024/"><u>[Updated] Expert Reviews Top 5 High-Performance Video Devices for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-gratuitamente-passo-a-passo-para-reconstruir-seu-hd-corrompido-sem-esforco/"><u>1. Gratuitamente: Passo-a-Passo Para Reconstruir Seu HD Corrompido Sem Esforço!</u></a></li>
+<li><a href="https://win-news.techidaily.com/5pyj5pwi55qe56ob5y2a5ykz5lu95oqa5benic0g5q2l6amf5yplusk5bcp57eo5oplusq56s6/"><u>有效的磁區備份技巧 - 步驟及小編提示</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/champion-for-photo-data-rescue/"><u>Champion for Photo Data Rescue</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-most-compelling-best-buy-discounts-in-june-2024-insider-tips/"><u>Discover the Most Compelling Best Buy Discounts in June 2024 - Insider Tips</u></a></li>
+<li><a href="https://win-news.techidaily.com/free-and-efficient-leading-sandisk-ssd-cloning-apps-for-windows-operating-systems-win11-win10-win8-win7/"><u>Free and Efficient: Leading SanDisk SSD Cloning Apps for Windows Operating Systems (Win11, Win10, Win8, Win7)</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-move-your-files-from-hdd-to-ssd-efficiently-in-windows-10-or-11-with-dual-techniques/"><u>How to Move Your Files From HDD to SSD Efficiently in Windows 10 or 11 with Dual Techniques</u></a></li>
+<li><a href="https://win-news.techidaily.com/netflix4/"><u>Netflixプロフィールが消えた後、4方法で復元するコツ</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-complete-guide-to-wonder-workshop-dash-a-revolutionary-to-go-robot-ready-for-adventure/"><u>The Complete Guide to Wonder Workshop Dash - A Revolutionary To-Go Robot Ready for Adventure</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-5-trusted-secure-email-providers-enhancing-your-online-safety/"><u>Top 5 Trusted Secure Email Providers: Enhancing Your Online Safety</u></a></li>
 </ul></div>
 

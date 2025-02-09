@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2025-01-21T21:22:16.744Z
-updated: 2025-01-27T06:16:09.430Z
+date: 2025-02-04T17:19:23.177Z
+updated: 2025-02-09T01:19:14.226Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,18 +55,24 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-how-to-brighten-a-video-on-android-step-by-step-explained/"><u>[New] How To Brighten A Video On Android – Step By Step Explained</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-magix-photo-manager-review/"><u>[New] MAGIX Photo Manager Review</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-video-file-management-movs-on-windows-10/"><u>[Updated] Mastering Video File Management MOVs on Windows 10</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-successful-iphone-data-restoration-tips-and-tricks-for-models-7-plus-x-and-xr/"><u>1. Successful iPhone Data Restoration: Tips and Tricks for Models 7 Plus, X & XR</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728495855023-iphoneandroid/"><u>發現已下載但未見於何處的檔案：針對電腦、iPhone及Android手機的解決方法</u></a></li>
-<li><a href="https://win-news.techidaily.com/comment-resoudre-lerreur-processus-critique-mourut-en-windows-7-plus/"><u>Comment Résoudre L'erreur Processus Critique Mourut en Windows 지판 [7 메서드 + 기술]</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/how-to-record-a-movie-on-pc-mac-and-smartphones-in-2024/"><u>How to Record a Movie on PC, Mac, and Smartphones, In 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/icloud-and-macos-integration-woes-master-the-art-of-fixing-missing-file-sync-problems-with-this-guide/"><u>ICloud and macOS Integration Woes? Master the Art of Fixing Missing File Sync Problems with This Guide</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-stream-to-success-obs-youtube-broadcast-basics/"><u>In 2024, Stream to Success OBS Youtube Broadcast Basics</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/preserve-your-ai-chats-in-depth-instructions-for-keeping-track-of-your-chatgpt-sessions/"><u>Preserve Your AI Chats: In-Depth Instructions for Keeping Track of Your ChatGPT Sessions</u></a></li>
-<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pova-6-pro-5g-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pova 6 Pro 5G Bricked Devices | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/top-empfohlene-apps-zur-synchronisation-von-ihrem-iphone-mit-windows/"><u>Top Empfohlene Apps Zur Synchronisation Von Ihrem iPhone Mit Windows</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/top-seven-secrets-to-boosting-your-laptops-performance-instantly/"><u>Top Seven Secrets to Boosting Your Laptop's Performance Instantly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-silent-streaming-rankings-of-the-top-8-secret-downloaders-2023/"><u>[New] 2024 Approved Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-vlc-screen-recorder-review-and-using-guide-for-2024/"><u>[New] VLC Screen Recorder Review and Using Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-techniques-for-creating-full-sphere-photos/"><u>[Updated] 2024 Approved Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-periscope-presentation-outline-width-height-time/"><u>[Updated] Periscope Presentation Outline Width, Height, Time</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[Updated] Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
+<li><a href="https://win-news.techidaily.com/1-top-rated-software-for-effortlessly-inserting-stickers-into-images/"><u>1. Top Rated Software For Effortlessly Inserting Stickers Into Images</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-cameras-for-automotive-tracking-unveiled/"><u>2024 Approved Leading Cameras for Automotive Tracking Unveiled</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
+<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 13 Pro?</u></a></li>
+<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
+<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
+<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-saying-hello-in-spanish-with-top-10-methods/"><u>The Ultimate Guide To Saying 'Hello' In Spanish With Top 10 Methods</u></a></li>
+<li><a href="https://win-dash.techidaily.com/top-strategies-and-guides-for-maximizing-your-seagate-backup-plus-drive/"><u>Top Strategies & Guides for Maximizing Your Seagate Backup Plus Drive</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/tutorial-de-clonacion-profesional-usando-clonezilla-en-sistemas-operativos-windows/"><u>Tutorial De Clonación Profesional: Usando Clonezilla en Sistemas Operativos Windows</u></a></li>
 </ul></div>
 

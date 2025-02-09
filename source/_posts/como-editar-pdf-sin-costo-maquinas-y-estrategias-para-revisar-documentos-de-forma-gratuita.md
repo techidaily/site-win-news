@@ -1,7 +1,7 @@
 ---
 title: "Cómo Editar PDF Sin Costo: Máquinas Y Estrategias Para Revisar Documentos De Forma Gratuita"
-date: 2025-01-23T19:36:27.023Z
-updated: 2025-01-27T00:59:53.219Z
+date: 2025-02-07T17:43:01.475Z
+updated: 2025-02-08T17:02:26.145Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/b97dc23b10dda7eac6c715a762ae77f278d32f493c4e5cd67a61fd021139d1cd.jpg
@@ -25,12 +25,16 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
 
 Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Table des matières** 
 
@@ -65,13 +69,13 @@ Toutes les opérations s'effectuent dans une interface intuitive, ce qui permet 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-logo-ab-32.svg)AOMEI Backupper
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Meilleur logiciel de sauvegarde Windows gratuit pour usage personnel.
 
 [**Télécharger gratuiciel** Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers
 
@@ -81,6 +85,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -88,10 +96,6 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -118,11 +122,11 @@ De plus, vous pouvez activer la notification par e-mail une fois la tâche termi
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
@@ -166,7 +170,7 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Obtenez gratuitement AOMEI Backupper
@@ -176,10 +180,6 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 [**Télécharger gratuiciel**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -198,22 +198,22 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-audio-recording-made-easy-free-x-recorder-for-pc/"><u>[New] In 2024, Audio Recording Made Easy Free X-Recorder for PC</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-prime-movie-reel-revelations-pack/"><u>[Updated] 2024 Approved Prime Movie Reel Revelations Pack</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-a-professionals-primer-to-perfecting-picture-colors/"><u>[Updated] A Professional's Primer to Perfecting Picture Colors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-swiftvideo-pro-accelerate-your-android-content/"><u>[Updated] SwiftVideo Pro Accelerate Your Android Content</u></a></li>
-<li><a href="https://win-news.techidaily.com/come-imparare-a-eseguire-il-backup-dei-tuoi-dati-con-aomei-fonebackup-una-guida-completa/"><u>Come Imparare a Eseguire Il Backup Dei Tuoi Dati Con AOMEI FoneBackup: Una Guida Completa</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/download-and-update-the-latest-ch340g-usb-to-serial-drivers-for-windows-11/"><u>Download & Update the Latest CH340G USB-to-Serial Drivers for Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/erfolgreiches-navigieren-um-den-gerat-nicht-migriert-fehler-herum-schritte-fur-eine-reibungslose-datenmigration/"><u>Erfolgreiches Navigieren Um Den 'Gerät Nicht Migriert'-Fehler Herum – Schritte Für Eine Reibungslose Datenmigration</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-a-revolutionary-upgrade-on-your-apple-watch-explore-key-features-of-watchos-11-gadgetpulse/"><u>Experience a Revolutionary Upgrade on Your Apple Watch - Explore Key Features of WatchOS 11 | GadgetPulse</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-from-basic-to-brilliant-top-100plus-biographies-that-captivate-audiences/"><u>In 2024, From Basic to Brilliant Top 100+ Biographies that Captivate Audiences</u></a></li>
-<li><a href="https://win-news.techidaily.com/introducing-video-converter-pro-v3-new-release-brings-advanced-editing-capabilities/"><u>Introducing Video Converter Pro v3: New Release Brings Advanced Editing Capabilities</u></a></li>
-<li><a href="https://win-news.techidaily.com/schnell-wiederherstellen-sie-ihre-bilddatenbank-alle-fotos-auf-ihrem-pc-verschwunden/"><u>Schnell Wiederherstellen Sie Ihre Bilddatenbank: Alle Fotos Auf Ihrem PC Verschwunden</u></a></li>
-<li><a href="https://win-news.techidaily.com/seamlessly-transferring-your-windows-11-system-to-a-new-drive-a-step-by-step-guide-without-losing-any-files/"><u>Seamlessly Transferring Your Windows 11 System to a New Drive: A Step-by-Step Guide Without Losing Any Files</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/secure-and-swift-download-for-amd-ryzen-5-2600-graphics-card-drivers/"><u>Secure and Swift Download for AMD Ryzen 5 2600 Graphics Card Drivers</u></a></li>
-<li><a href="https://win-news.techidaily.com/set-a-timed-shutdown-schedule-in-windows/"><u>Set a Timed Shutdown Schedule in Windows</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-transferring-data-from-your-samsung-galaxy-note-ebyto-a-pc/"><u>Step-by-Step Guide: Transferring Data From Your Samsung Galaxy Note Ebyto a PC</u></a></li>
-<li><a href="https://games-able.techidaily.com/switch-to-an-alternate-linguistic-base-in-steam/"><u>Switch to an Alternate Linguistic Base in Steam</u></a></li>
-<li><a href="https://win-news.techidaily.com/waz-herstellen-modus-van-windows-7-11-ergaderen-latende-verwijderde-bestanden-met-de-winfr-easy-software/"><u>WAZ Herstellen Modus Van Windows 7-11, Ergaderen Latende Verwijderde Bestanden Met De Winfr Easy Software</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-ai-generated-podcast-titles-that-stick-with-you/"><u>[New] In 2024, AI-Generated Podcast Titles That Stick With You</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-streamlining-twitters-video-transfer-to-fb-network-for-2024/"><u>[New] Streamlining Twitters Video Transfer to FB Network for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/creating-custom-pdfs-with-images-plus-download-feature-insights-from-flipbuilder/"><u>Creating Custom PDFs with Images + Download Feature – Insights From FlipBuilder</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/cutting-edge-broadcasting-the-social-media-screen-share-for-2024/"><u>Cutting Edge Broadcasting The Social Media Screen Share for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/effective-strategies-for-incornporating-powerpoint-hyperlinks-into-your-flipbooks-using-flipbuilder-tools/"><u>Effective Strategies for Incornporating PowerPoint Hyperlinks Into Your Flipbooks Using FlipBuilder Tools</u></a></li>
+<li><a href="https://win-news.techidaily.com/effortless-book-browsing-create-and-read-ebooks-on-all-devices-using-the-flipbuilder-tool/"><u>Effortless Book Browsing - Create & Read eBooks on All Devices Using the FlipBuilder Tool</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensure-your-projects-live-on-preserve-with-the-flipproject-learn-how-at-flipbuildercom/"><u>Ensure Your Projects Live On: Preserve with the FlipProject - Learn How at FlipBuilder.com</u></a></li>
+<li><a href="https://win-news.techidaily.com/exploring-the-versatility-of-flipped-images-how-many-orientation-options-on-flipbuildercom/"><u>Exploring the Versatility of Flipped Images: How Many Orientation Options on FlipBuilder.com?</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-change-your-preferred-language-on-flipbuilder-understanding-the-menu-bar-settings/"><u>How to Change Your Preferred Language on FlipBuilder: Understanding the Menu Bar Settings</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-convert-rtf-documents-to-pdf-on-flipbuildercom-a-simple-guide/"><u>How to Convert RTF Documents to PDF on FlipBuilder.com: A Simple Guide</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-convert-word-files-into-engaging-digital-magazines-using-flipbook-creator-online/"><u>How to Convert Word Files Into Engaging Digital Magazines Using FlipBook Creator Online</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oneplus-nord-ce-3-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-how-to-setup-touch-typing-feature-on-your-windows-device/"><u>Learn How To Setup Touch Typing Feature on Your Windows Device</u></a></li>
+<li><a href="https://review-topics.techidaily.com/quickly-remove-google-frp-lock-on-oneplus-open-by-drfone-android-unlock-remove-google-frp/"><u>Quickly Remove Google FRP Lock on OnePlus Open</u></a></li>
+<li><a href="https://fox-that.techidaily.com/rotation-locked-learn-how-to-activate-landscape-on-your-ios-gadget/"><u>Rotation Locked? Learn How to Activate Landscape on Your iOS Gadget</u></a></li>
+<li><a href="https://techtrends.techidaily.com/sneak-peek-of-the-samsung-galaxy-z-fold-7-prospective-price-tag-release-date-and-specs-revealed-by-rumors/"><u>Sneak Peek of the Samsung Galaxy Z Fold 7: Prospective Price Tag, Release Date & Specs Revealed by Rumors</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/triple-column-widget-setup-in-windows-11-guide/"><u>Triple Column Widget Setup in Windows 11 Guide</u></a></li>
 </ul></div>
 

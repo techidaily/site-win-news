@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2025-01-20T16:32:09.047Z
-updated: 2025-01-27T06:49:15.534Z
+date: 2025-02-07T02:04:11.967Z
+updated: 2025-02-08T17:07:13.972Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,15 +74,24 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-2024s-superior-camera-gear-roundup/"><u>[New] 2024'S Superior Camera Gear Roundup</u></a></li>
-<li><a href="https://win-news.techidaily.com/disney-inspired-iphone-13-themes-and-wallpaper-packs-create-your-own-magic-with-yl-computings-designs/"><u>Disney-Inspired iPhone 13 Themes & Wallpaper Packs - Create Your Own Magic with YL Computing's Designs</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhance-pc-performance-with-these-simple-methods-from-yl-software-experts/"><u>Enhance PC Performance with These Simple Methods From YL Software Experts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-funimate-for-android-gamers-unlocking-the-apk-secret/"><u>In 2024, Funimate for Android Gamers - Unlocking the APK Secret</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/leveraging-chatgpts-language-skills-for-non-english-conversations/"><u>Leveraging ChatGPT's Language Skills for Non-English Conversations</u></a></li>
-<li><a href="https://win-news.techidaily.com/prevent-constant-shutdowns-why-your-pc-may-be-failing-and-solutions-from-yl-software/"><u>Prevent Constant Shutdowns: Why Your PC May Be Failing & Solutions From YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/understanding-the-consequences-of-early-sino-japanese-wars-insights-from-yl-software-experts/"><u>Understanding the Consequences of Early Sino-Japanese Wars – Insights From YL Software Experts</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721467435745-why-wont-my-iphone-back-up-to-icloud-here-are-9-fixes-that-work/"><u>Why Won’t My iPhone Back Up to iCloud? Here Are 9 Fixes That Work</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/windows-files-reviewed-in-a-flash/"><u>Windows Files Reviewed in a Flash</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/winxdvddigiarty/"><u>あなたのWinXDVD・Digiartyソフト質問への回答 - 連絡先情報公開</u></a></li>
+<li><a href="https://network-issues.techidaily.com/addressing-lack-of-brightness-on-lenovo-screens/"><u>Addressing Lack of Brightness on Lenovo Screens</u></a></li>
+<li><a href="https://win-news.techidaily.com/adjust-and-optimize-network-configurations-in-windows-detailed-tutorial-from-yl-computing-expertise/"><u>Adjust and Optimize Network Configurations in Windows: Detailed Tutorial From YL Computing Expertise</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/asmr-production-101-essential-strategies-for-cutting-edge-video-making-for-2024/"><u>ASMR Production 101 Essential Strategies for Cutting-Edge Video Making for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/crack-the-code-of-compression-master-opening-zip-files-on-your-pc-with-yl-computings-expert-advice/"><u>Crack the Code of Compression: Master Opening Zip Files on Your PC with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhancing-your-hard-drive-efficiency-top-strategies-insights-from-yl-computing/"><u>Enhancing Your Hard Drive Efficiency: Top Strategies - Insights From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensuring-your-pcs-audio-hardware-works-on-windows-a-guide-by-yl-computing/"><u>Ensuring Your PC's Audio Hardware Works on Windows - A Guide by YL Computing</u></a></li>
+<li><a href="https://blog-min.techidaily.com/gratuita-transcodificador-en-linea-para-convertir-mp3-a-formato-wma-movavi/"><u>Gratuita: Transcodificador en Línea Para Convertir MP3 a Formato WMA - Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-g54-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola G54 5G? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-expert-psd-text-framing/"><u>In 2024, Expert PSD Text Framing</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-note-30-vip-racing-edition-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Note 30 VIP Racing Edition Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-chromebook-capture-top-screen-recorder-choice/"><u>In 2024, Ultimate Chromebook Capture Top Screen Recorder Choice</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210364076-9781648410420-kitchen-witch/"><u>Kitchen Witch | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-home-entertainment-a-comprehhavisnce-buying-guide-to-the-ideal-televisions/"><u>Mastering Home Entertainment: A Comprehhavisnce Buying Guide to the Ideal Televisions</u></a></li>
+<li><a href="https://win-news.techidaily.com/reviving-lost-information-on-compromised-drives-with-yl-computing-solutions/"><u>Reviving Lost Information on Compromised Drives with YL Computing Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-persistent-freezing-issues-on-your-device-expert-advice-by-yl-software-experts/"><u>Solving Persistent Freezing Issues on Your Device: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-the-dilemma-expert-guide-on-repairing-your-pcs-boot-issues-tips-from-yl-computing/"><u>Solving the Dilemma: Expert Guide on Repairing Your PC's Boot Issues - Tips From YL Computing</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/unveiling-the-lasting-effects-of-chinas-tiananmen-crisis-in-1989-with-yl-software-insights/"><u>Unveiling the Lasting Effects of China's Tiananmen Crisis in 1989 with YL Software Insights</u></a></li>
 </ul></div>
 

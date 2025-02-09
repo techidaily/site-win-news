@@ -1,7 +1,7 @@
 ---
 title: "PCDJ Updates: Get Your Hands on the Newly Released DEX Version 3.1 for Free!"
-date: 2025-01-26T02:03:44.515Z
-updated: 2025-01-27T02:53:07.330Z
+date: 2025-02-08T00:17:36.818Z
+updated: 2025-02-08T23:28:25.351Z
 tags:
   - product
 categories:
@@ -46,7 +46,7 @@ On some AMD-powered graphics cards (AMD APU ones more specifically) the interfac
 ##### VIDEO DEMONSTRATION OF THE NEW “LIST MODE” INCLUDED IN THE DEX 3.1 UPDATE
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -68,20 +68,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/11/dex3-blogcoverimage-templa
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-locate-the-best-bargains-on-gopro-cameras/"><u>[New] In 2024, Locate the Best Bargains on GoPro Cameras</u></a></li>
-<li><a href="https://extra-information.techidaily.com/audiophiles-dilemma-podcast-or-youtube-dominance/"><u>Audiophile's Dilemma Podcast or YouTube Dominance</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/brainy-entertainment-roundup-selective-trivia-haven/"><u>Brainy Entertainment Roundup Selective Trivia Haven</u></a></li>
-<li><a href="https://win-news.techidaily.com/effortless-hard-drive-swap-without-losing-data-a-step-by-step-guide/"><u>Effortless Hard Drive Swap Without Losing Data - A Step-by-Step Guide</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-12-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 12 Pro Max Passcode not Working?</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-safely-and-quickly-retrieve-data-from-an-unavailable-micro-sd-card-sector/"><u>How to Safely and Quickly Retrieve Data From an Unavailable Micro SD Card Sector</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/in-2024-methods-to-transfer-from-apple-iphone-se-2020-to-android-drfone-by-drfone-transfer-from-ios/"><u>In 2024, Methods to Transfer from Apple iPhone SE (2020) to Android | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/les-3-meilleurs-sujets-dechec-pour-supprimer-totalement-votre-hdd-a-laide-de-dban/"><u>Les 3 Meilleurs Sujets D'Échec Pour Supprimer Totalement Votre HDD À L'Aide De DBAN</u></a></li>
-<li><a href="https://win-news.techidaily.com/migrating-your-data-step-by-step-guide-for-moving-from-hdd-to-ssd-in-windows-11-two-strategies/"><u>Migrating Your Data: Step-by-Step Guide for Moving From HDD to SSD in Windows 11 (Two Strategies)</u></a></li>
-<li><a href="https://win-news.techidaily.com/simple-solutions-resolving-error-0x89235003-quickly-and-efficiently/"><u>Simple Solutions: Resolving Error 0X89235003 Quickly and Efficiently</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210934994-9781782495215-the-little-pocket-book-of-meditation/"><u>The Little Pocket Book of Meditation | Free Book</u></a></li>
-<li><a href="https://win-web.techidaily.com/tutorial-reset-foton-terelakkan-pada-opsi-pulang-untuk-windows-11/"><u>Tutorial Reset Foton Terelakkan Pada Opsi Pulang Untuk Windows 11</u></a></li>
-<li><a href="https://win-news.techidaily.com/wd-my-passport-avec-les-meilleures-fonctionnalites-de-sauvegarde-aomei-backupper-enrichi/"><u>WD My Passport Avec Les Meilleures Fonctionnalités De Sauvegarde : AOMEI Backupper Enrichi</u></a></li>
-<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-nokia-130-music-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Nokia 130 Music Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-from-solo-streamer-to-global-content-powerhouse/"><u>[New] 2024 Approved From Solo Streamer to Global Content Powerhouse</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-vlog-glow-achieving-professional-video-setup/"><u>[Updated] 2024 Approved Vlog Glow Achieving Professional Video Setup</u></a></li>
+<li><a href="https://win-community.techidaily.com/exploring-cyber-threats-can-casual-internet-surfing-lead-to-malware-infection-from-deceptive-sites/"><u>Exploring Cyber Threats: Can Casual Internet Surfing Lead to Malware Infection From Deceptive Sites?</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-create-an-efi-system-partition-backup-on-windows-11-10-8-and-7/"><u>How to Create an EFI System Partition Backup on Windows 11, 10, 8 & 7</u></a></li>
+<li><a href="https://win-news.techidaily.com/how-to-fix-an-unallocated-or-hidden-partition-issue-in-windowsmac-os-x/"><u>How to Fix an Unallocated or Hidden Partition Issue in Windows/Mac OS X</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/immerse-in-world-heritage-through-vr/"><u>Immerse in World Heritage Through VR</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-data-protection-top-faqs-about-using-aomei-backupper-explained/"><u>Mastering Data Protection: Top FAQs About Using AOMEI Backupper Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/movavi-professionelle-kostenlose-konvertierung-von-mpe-in-avi-fuhren-sie-ihre-aufgaben-einfach-und-effizient-aus/"><u>Movavi: Professionelle Kostenlose Konvertierung Von MPE in Avi - Führen Sie Ihre Aufgaben Einfach Und Effizient Aus!</u></a></li>
+<li><a href="https://win-news.techidaily.com/professioneller-fachmann-fur-aomei-backup-technik-und-unendliche-speicherlosungen-von-aomei-im-cloud-store/"><u>Professioneller Fachmann Für AOMEI Backup-Technik Und Unendliche Speicherlösungen Von AOMEI Im Cloud Store</u></a></li>
+<li><a href="https://games-able.techidaily.com/re-establishing-consistent-xbox-s-signal/"><u>Re-Establishing Consistent Xbox S Signal</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/shifting-systems-expert-techniques-for-moving-your-os-to-a-new-drive/"><u>Shifting Systems: Expert Techniques for Moving Your OS to a New Drive</u></a></li>
+<li><a href="https://win-news.techidaily.com/tech-support-guide-restoring-access-to-your-outlook-emails-on-windows-10/"><u>Tech Support Guide: Restoring Access to Your Outlook Emails on Windows 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/top-9-camera-extras-for-professional-level-vlogging-on-smartphones-for-2024/"><u>Top 9 Camera Extras for Professional-Level Vlogging on Smartphones for 2024</u></a></li>
+<li><a href="https://win-news.techidaily.com/verfugbarkeit-von-wd-anywhere-backup-fur-nutzer-von-windows-11/"><u>Verfügbarkeit Von WD Anywhere Backup Für Nutzer Von Windows 11</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Functions on Your Singularity Mixer | HD Video Tutorial
-date: 2025-01-22T20:07:43.248Z
-updated: 2025-01-27T05:40:18.172Z
+date: 2025-02-04T19:13:22.455Z
+updated: 2025-02-08T16:50:45.745Z
 tags:
   - product
 categories:
@@ -22,7 +22,7 @@ We hope the addition of the “S” button and singer search helps make your kar
 [Click Here](https://www.youtube.com/playlist?list=PLYCb1%5Fl2bbb5tcLGCnrssLM9cf%5FRxGIQD) for a playlist of video tutorials all about using DEX 3 specifically for hosting karaoke events.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -44,22 +44,18 @@ https://i2.wp.com/pcdj.com/wp-content/uploads/2020/06/dexsinger.jpg?fit=1920%2C1
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-pro-tips-to-perfect-minecraft-pixelation/"><u>[Updated] 2024 Approved Pro Tips to Perfect Minecraft Pixelation</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streamline-sharing-process-youtube-to-facebook-tips/"><u>[Updated] 2024 Approved Streamline Sharing Process YouTube to Facebook Tips</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-exploring-top-rated-frame-rate-choices-for-cinema-slow-motion/"><u>[Updated] Exploring Top-Rated Frame Rate Choices for Cinema Slow-Motion</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-conquer-video-lengths-your-ultimate-guide-to-auto-resizing-on-mac/"><u>2024 Approved Conquer Video Lengths Your Ultimate Guide to Auto-Resizing on Mac</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-solutions-to-stop-blank-spots-in-obs-media/"><u>2024 Approved Solutions to Stop Blank Spots in OBS Media</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-the-ultimate-metaverse-gear-showdown-top-8-compared/"><u>2024 Approved The Ultimate Metaverse Gear Showdown Top 8 Compared</u></a></li>
-<li><a href="https://win-news.techidaily.com/adjust-audio-levels-using-control-panel-a-step-by-step-guide-from-yl-software-solutions/"><u>Adjust Audio Levels Using Control Panel: A Step-by-Step Guide From YL Software Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/data-restoration-techniques-for-damaged-hard-drives-advice-from-yl-software-experts/"><u>Data Restoration Techniques for Damaged Hard Drives - Advice From YL Software Experts</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/209857966-9781387222810-experience-gods-presence/"><u>Experience God's Presence | Free Book</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-samsung-galaxy-s24plus-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Samsung Galaxy S24+ Lock Screen Password?</u></a></li>
-<li><a href="https://win-news.techidaily.com/mastering-keyboard-shortcuts-setting-up-window-volume-control-hotkeys-on-windows-7-8-and-10-yl-computing/"><u>Mastering Keyboard Shortcuts: Setting Up Window Volume Control Hotkeys on Windows (7, 8 & 10) - YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/navigating-uncertainty-exploring-the-hazards-of-crypto-asset-investments-with-yl-software/"><u>Navigating Uncertainty: Exploring the Hazards of Crypto Asset Investments with YL Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/resolving-image-aberrations-in-scanning-professional-tips-by-yl-computing-and-software/"><u>Resolving Image Aberrations in Scanning: Professional Tips by YL Computing & Software</u></a></li>
-<li><a href="https://win-news.techidaily.com/troubleshooting-a-non-responsive-scanner-post-connection-a-guide-by-yl-computing/"><u>Troubleshooting a Non-Responsive Scanner Post-Connection: A Guide by YL Computing</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/vocalvoyage-listening-and-recording-expedition/"><u>VocalVoyage Listening & Recording Expedition</u></a></li>
-<li><a href="https://win-news.techidaily.com/what-causes-a-pc-to-become-unresponsive-solutions-from-yl-computing/"><u>What Causes a PC to Become Unresponsive? - Solutions From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/yl-software-unveils-strategies-to-accelerate-your-browsing-experience/"><u>YL Software Unveils Strategies to Accelerate Your Browsing Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-from-script-to-screen-the-compreeved-guide-to-youtube-video-edits/"><u>[New] In 2024, From Script to Screen The Compreeved Guide to YouTube Video Edits</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-unveiling-visuals-top-10-instagram-editing-applications-for-professionals/"><u>[Updated] 2024 Approved Unveiling Visuals Top 10 Instagram Editing Applications for Professionals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-channel-success-metrics-subscriber-and-play-buttons/"><u>[Updated] In 2024, Channel Success Metrics Subscriber & Play Buttons</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-low-light-iphone-luminary-techniques/"><u>[Updated] Low-Light iPhone Luminary Techniques</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-se-2022-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone SE (2022) Activity | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-step-up-your-language-game-top-15-tools-to-turn-videos-into-universal-text/"><u>2024 Approved Step Up Your Language Game Top 15 Tools to Turn Videos Into Universal Text</u></a></li>
+<li><a href="https://win-news.techidaily.com/crack-the-code-of-compression-master-opening-zip-files-on-your-pc-with-yl-computings-expert-advice/"><u>Crack the Code of Compression: Master Opening Zip Files on Your PC with YL Computing's Expert Advice</u></a></li>
+<li><a href="https://win-news.techidaily.com/enhancing-your-hard-drive-efficiency-top-strategies-insights-from-yl-computing/"><u>Enhancing Your Hard Drive Efficiency: Top Strategies - Insights From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
+<li><a href="https://win-news.techidaily.com/reviving-lost-information-on-compromised-drives-with-yl-computing-solutions/"><u>Reviving Lost Information on Compromised Drives with YL Computing Solutions</u></a></li>
+<li><a href="https://win-news.techidaily.com/solving-persistent-freezing-issues-on-your-device-expert-advice-by-yl-software-experts/"><u>Solving Persistent Freezing Issues on Your Device: Expert Advice by YL Software Experts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-apples-next-move-an-enhanced-security-os-for-cutting-edge-ai-data-centers-insights-and-progress-report/"><u>Unveiling Apple's Next Move: An Enhanced Security OS for Cutting-Edge AI Data Centers | Insights and Progress Report</u></a></li>
+<li><a href="https://win-news.techidaily.com/unveiling-the-lasting-effects-of-chinas-tiananmen-crisis-in-1989-with-yl-software-insights/"><u>Unveiling the Lasting Effects of China's Tiananmen Crisis in 1989 with YL Software Insights</u></a></li>
 </ul></div>
 
