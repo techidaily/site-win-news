@@ -1,7 +1,7 @@
 ---
 title: "Current Projects: Unveiling the New Features in DEX 3 | The Latest From Plugin Creative DJ"
-date: 2025-02-07T02:04:11.967Z
-updated: 2025-02-08T17:07:13.972Z
+date: 2025-02-12T04:56:50.958Z
+updated: 2025-02-19T00:06:18.264Z
 tags:
   - product
 categories:
@@ -27,7 +27,7 @@ We launched the [DEX 3.4 pre-release](https://tools.techidaily.com/pcdj/products
 >
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### DJ Mixing Software Preview | Coming Soon To DEX 3
@@ -52,7 +52,7 @@ Email \*
 <https://pcdj.infusionsoft.com/app/webTracking/getTrackingCode?trackingId=a3db44c835d7640a523ee92895bb307f>
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -74,24 +74,21 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/07/comingsoon-dex3-coverimage
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://network-issues.techidaily.com/addressing-lack-of-brightness-on-lenovo-screens/"><u>Addressing Lack of Brightness on Lenovo Screens</u></a></li>
-<li><a href="https://win-news.techidaily.com/adjust-and-optimize-network-configurations-in-windows-detailed-tutorial-from-yl-computing-expertise/"><u>Adjust and Optimize Network Configurations in Windows: Detailed Tutorial From YL Computing Expertise</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/asmr-production-101-essential-strategies-for-cutting-edge-video-making-for-2024/"><u>ASMR Production 101 Essential Strategies for Cutting-Edge Video Making for 2024</u></a></li>
-<li><a href="https://win-news.techidaily.com/crack-the-code-of-compression-master-opening-zip-files-on-your-pc-with-yl-computings-expert-advice/"><u>Crack the Code of Compression: Master Opening Zip Files on Your PC with YL Computing's Expert Advice</u></a></li>
-<li><a href="https://win-news.techidaily.com/enhancing-your-hard-drive-efficiency-top-strategies-insights-from-yl-computing/"><u>Enhancing Your Hard Drive Efficiency: Top Strategies - Insights From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensuring-perfect-harmony-verifying-your-printers-compatibility-with-pc-tips-from-yl-computing/"><u>Ensuring Perfect Harmony: Verifying Your Printer's Compatibility with PC - Tips From YL Computing</u></a></li>
-<li><a href="https://win-news.techidaily.com/ensuring-your-pcs-audio-hardware-works-on-windows-a-guide-by-yl-computing/"><u>Ensuring Your PC's Audio Hardware Works on Windows - A Guide by YL Computing</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratuita-transcodificador-en-linea-para-convertir-mp3-a-formato-wma-movavi/"><u>Gratuita: Transcodificador en Línea Para Convertir MP3 a Formato WMA - Movavi</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-g54-5g-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola G54 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-expert-psd-text-framing/"><u>In 2024, Expert PSD Text Framing</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-infinix-note-30-vip-racing-edition-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 Infinix Note 30 VIP Racing Edition Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-chromebook-capture-top-screen-recorder-choice/"><u>In 2024, Ultimate Chromebook Capture Top Screen Recorder Choice</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210364076-9781648410420-kitchen-witch/"><u>Kitchen Witch | Free Book</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/mastering-home-entertainment-a-comprehhavisnce-buying-guide-to-the-ideal-televisions/"><u>Mastering Home Entertainment: A Comprehhavisnce Buying Guide to the Ideal Televisions</u></a></li>
-<li><a href="https://win-news.techidaily.com/reviving-lost-information-on-compromised-drives-with-yl-computing-solutions/"><u>Reviving Lost Information on Compromised Drives with YL Computing Solutions</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-persistent-freezing-issues-on-your-device-expert-advice-by-yl-software-experts/"><u>Solving Persistent Freezing Issues on Your Device: Expert Advice by YL Software Experts</u></a></li>
-<li><a href="https://win-news.techidaily.com/solving-the-dilemma-expert-guide-on-repairing-your-pcs-boot-issues-tips-from-yl-computing/"><u>Solving the Dilemma: Expert Guide on Repairing Your PC's Boot Issues - Tips From YL Computing</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-samsung-galaxy-m14-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Samsung Galaxy M14 4G | Dr.fone</u></a></li>
-<li><a href="https://win-news.techidaily.com/unveiling-the-lasting-effects-of-chinas-tiananmen-crisis-in-1989-with-yl-software-insights/"><u>Unveiling the Lasting Effects of China's Tiananmen Crisis in 1989 with YL Software Insights</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-inbuilt-camera-functions-to-capture-screens-on-huaweis-matep-series-phones/"><u>[Updated] In 2024, Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-creations-unique-and-chic-minecraft-dwellings/"><u>[Updated] In 2024, Top Creations Unique and Chic Minecraft Dwellings</u></a></li>
+<li><a href="https://win-news.techidaily.com/experience-the-best-of-both-worlds-with-free-bootstrap-5-and-material-design-in-the-official-admin-template-by-creative-tim/"><u>Experience the Best of Both Worlds with Free Bootstrap 5 & Material Design in the Official Admin Template by Creative Tim</u></a></li>
+<li><a href="https://win-news.techidaily.com/get-your-free-creative-tim-materialize-with-bootstrap-integration-for-stunning-websites/"><u>Get Your Free Creative Tim Materialize with Bootstrap Integration for Stunning Websites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-6s-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 6s to Android? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/impressive-zero-cost-bootstrap-landing-page-templates-by-creative-tim-elevate-your-website-now/"><u>Impressive, Zero-Cost Bootstrap Landing Page Templates by Creative Tim – Elevate Your Website Now!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-apple-watch-or-iphone-7-from-icloud-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Apple Watch Or iPhone 7 from iCloud</u></a></li>
+<li><a href="https://win-news.techidaily.com/modern-react-web-apps-using-material-components-powered-by-nodejs-collaborative-project-from-creative-tim-and-updivision/"><u>Modern React Web Apps Using Material Components, Powered by Node.js - Collaborative Project From Creative Tim & UPDIVISION</u></a></li>
+<li><a href="https://win-news.techidaily.com/premium-angular-admin-framework-now-ui-pro-enhanced-bootstrap-templates-for-developers-created-by-creative-tim/"><u>Premium Angular Admin Framework Now UI PRO: Enhanced Bootstrap Templates for Developers | Created by Creative Tim</u></a></li>
+<li><a href="https://win-news.techidaily.com/premium-nextjs-admin-suite-enhanced-material-design-with-nextjs-material-dashboard-v2-pro-from-creative-tim/"><u>Premium NextJS Admin Suite - Enhanced Material Design with NextJS Material Dashboard v2 Pro From Creative Tim</u></a></li>
+<li><a href="https://win-news.techidaily.com/premium-vueadmin-dashboard-access-your-unique-online-management-tool-crafted-from-bootstrap-4-and-vuejs-by-creative-tim/"><u>Premium Vue.admin-dashboard: Access Your Unique Online Management Tool, Crafted From Bootstrap 4 & Vue.js by Creative Tim</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-oppo-a38-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Oppo A38 has been deleted</u></a></li>
+<li><a href="https://article-tips.techidaily.com/techniques-for-fascinating-vlog-dialogue-structure/"><u>Techniques for Fascinating Vlog Dialogue Structure</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/thinkpad-t420s-drivers-download-and-update-for-windows-11/"><u>ThinkPad T420s Drivers Download & Update For Windows 11</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-vivo-v30-lite-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Vivo V30 Lite 5G Location | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-what-sets-final-cut-pro-apart-from-final-cut-express-in-2024/"><u>Updated What Sets Final Cut Pro Apart From Final Cut Express, In 2024</u></a></li>
 </ul></div>
 

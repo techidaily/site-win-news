@@ -1,7 +1,7 @@
 ---
 title: "Inspired by 'Happy': A Campaign for the Children of Syria - Transforming Pharrell Williams' Hit Into Positive Change Amid Crisis"
-date: 2025-02-04T17:19:23.177Z
-updated: 2025-02-09T01:19:14.226Z
+date: 2025-02-13T02:05:00.127Z
+updated: 2025-02-18T20:15:45.201Z
 tags:
   - product
 categories:
@@ -33,7 +33,7 @@ Beats, Rhymes and Relief is a US based NGO that utilizes the arts to raise aware
 Learn More About PCDJ – [DJ Software for Professional DJs](https://tools.techidaily.com/pcdj/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -55,24 +55,22 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2014/06/pharellwilliams-syria.jpg?
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-silent-streaming-rankings-of-the-top-8-secret-downloaders-2023/"><u>[New] 2024 Approved Silent Streaming Rankings of the Top 8 Secret Downloaders, 2023</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-vlc-screen-recorder-review-and-using-guide-for-2024/"><u>[New] VLC Screen Recorder Review and Using Guide for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ultimate-techniques-for-creating-full-sphere-photos/"><u>[Updated] 2024 Approved Ultimate Techniques for Creating Full-Sphere Photos</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-periscope-presentation-outline-width-height-time/"><u>[Updated] Periscope Presentation Outline Width, Height, Time</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-turn-out-clearer-snaps-ranking-the-most-effective-online-editors/"><u>[Updated] Turn Out Clearer Snaps Ranking the Most Effective Online Editors</u></a></li>
-<li><a href="https://win-news.techidaily.com/1-top-rated-software-for-effortlessly-inserting-stickers-into-images/"><u>1. Top Rated Software For Effortlessly Inserting Stickers Into Images</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-cameras-for-automotive-tracking-unveiled/"><u>2024 Approved Leading Cameras for Automotive Tracking Unveiled</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-5-no-cost-software-applications-for-microphone-recording/"><u>Best 5 No-Cost Software Applications for Microphone Recording</u></a></li>
-<li><a href="https://win-news.techidaily.com/best-gray-image-background-software-top-5-picks/"><u>Best Gray Image Background Software : Top 5 Picks</u></a></li>
-<li><a href="https://win-news.techidaily.com/discover-the-best-methods-to-separate-your-signature-from-the-backdrop-cost-free-and-subscription-options/"><u>Discover the Best Methods to Separate Your Signature From the Backdrop: Cost-Free and Subscription Options</u></a></li>
-<li><a href="https://win-news.techidaily.com/how-to-easily-access-and-edit-heic-images-on-your-windows-pc/"><u>How to Easily Access and Edit HEIC Images on Your Windows PC</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-mac-for-iphone-13-pro-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock on Mac For iPhone 13 Pro?</u></a></li>
-<li><a href="https://win-news.techidaily.com/iphone-youyube-to-mac-video-downloader-free-and-easy/"><u>IPhone YouYube-to-Mac Video Downloader: Free & Easy</u></a></li>
-<li><a href="https://win-news.techidaily.com/maximize-media-playback-how-to-effortlessly-adapt-videos-for-microsofts-surface-devices/"><u>Maximize Media Playback: How to Effortlessly Adapt Videos for Microsoft's Surface Devices</u></a></li>
-<li><a href="https://win-news.techidaily.com/simple-methods-for-converting-mxf-files-into-mov/"><u>Simple Methods for Converting MXF Files Into Mov</u></a></li>
-<li><a href="https://win-news.techidaily.com/step-by-step-guide-converting-swf-files-into-mov-format/"><u>Step-by-Step Guide: Converting SWF Files Into MOV Format</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-ultimate-guide-to-saying-hello-in-spanish-with-top-10-methods/"><u>The Ultimate Guide To Saying 'Hello' In Spanish With Top 10 Methods</u></a></li>
-<li><a href="https://win-dash.techidaily.com/top-strategies-and-guides-for-maximizing-your-seagate-backup-plus-drive/"><u>Top Strategies & Guides for Maximizing Your Seagate Backup Plus Drive</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/tutorial-de-clonacion-profesional-usando-clonezilla-en-sistemas-operativos-windows/"><u>Tutorial De Clonación Profesional: Usando Clonezilla en Sistemas Operativos Windows</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-expert-recommendations-for-efficient-gif-makers/"><u>[New] In 2024, Expert Recommendations for Efficient GIF Makers</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-maximize-ms-edge-usage-understanding-and-using-picture-in-picture/"><u>[New] In 2024, Maximize MS Edge Usage Understanding and Using Picture-in-Picture</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-concept-to-cut-tape-imovie-steps-for-optimizing-youtube-edits/"><u>[Updated] 2024 Approved From Concept to Cut-Tape IMovie Steps for Optimizing YouTube Edits</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-leveraging-youtube-luck-a-no-ad-earnings-blueprint-for-content-masters/"><u>2024 Approved Leveraging YouTube Luck A No-Ad Earnings Blueprint for Content Masters</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-strategies-to-maintain-synchronization-between-cameras-and-streaming-software/"><u>2024 Approved Strategies to Maintain Synchronization Between Cameras and Streaming Software</u></a></li>
+<li><a href="https://win-news.techidaily.com/4-effective-methods-to-restore-lost-data-outside-of-the-recycle-bin/"><u>4 Effective Methods to Restore Lost Data Outside of the Recycle Bin</u></a></li>
+<li><a href="https://win-news.techidaily.com/5-simple-methods-wirelessly-moving-data-from-iphone-to-your-computer/"><u>5 Simple Methods: Wirelessly Moving Data From iPhone to Your Computer</u></a></li>
+<li><a href="https://win-news.techidaily.com/comprehensive-guide-to-setting-up-data-lifespan-protocols-in-aomei-cloud-storage/"><u>Comprehensive Guide to Setting Up Data Lifespan Protocols in AOMEI Cloud Storage</u></a></li>
+<li><a href="https://win-news.techidaily.com/discover-secret-texts-on-iphones-iphone-78x11121314-unlocking-the-secrets-of-messaging-apps/"><u>Discover Secret Texts on iPhones (iPhone 7/8/X/11/12/13/14) - Unlocking the Secrets of Messaging Apps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/future-of-siri-looks-brighter-as-apple-plans-major-upgrades-for-intelligence-exclusive/"><u>Future of Siri Looks Brighter as Apple Plans Major Upgrades for Intelligence | Exclusive</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pro-gamers-and-casters-to-subscribe-now/"><u>In 2024, Pro Gamers & Casters to Subscribe Now!</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/in-depth-evaluation-unlocking-insights-with-the-western-digital-datalabs-diagnostics-suite/"><u>In-Depth Evaluation: Unlocking Insights with the Western Digital DataLabs Diagnostics Suite</u></a></li>
+<li><a href="https://win-news.techidaily.com/rubah-pakai-ios-proses-pemulihan-gadgeti-cloud-apple/"><u>Rubah Pakai iOS - Proses Pemulihan Gadgeti Cloud Apple</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-ultimate-strategy-to-harness-microsofts-chatgpt-for-engaging-interactions/"><u>The Ultimate Strategy to Harness Microsoft's ChatGPT for Engaging Interactions</u></a></li>
+<li><a href="https://win-news.techidaily.com/two-secure-methods-for-cloning-your-hard-drive-onto-an-ssd-without-data-loss/"><u>Two Secure Methods for Cloning Your Hard Drive Onto an SSD Without Data Loss</u></a></li>
+<li><a href="https://win-news.techidaily.com/vrije-gratis-software-voor-oprichtingen-van-sd-drives/"><u>Vrije Gratis Software Voor Oprichtingen Van SD-Drives</u></a></li>
+<li><a href="https://win-news.techidaily.com/wie-man-das-programm-aomei-backupper-erfolgreich-aktualisiert-anleitung-und-tipps-fur-eine-reibungslose-upgrade-erfahrung/"><u>Wie Man Das Programm AOMEI Backupper Erfolgreich Aktualisiert - Anleitung Und Tipps Für Eine Reibungslose Upgrade-Erfahrung</u></a></li>
 </ul></div>
 
