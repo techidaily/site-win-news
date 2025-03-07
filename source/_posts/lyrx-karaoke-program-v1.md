@@ -1,7 +1,7 @@
 ---
 title: LYRX Karaoke Program V1.
-date: 2025-02-17T16:22:37.195Z
-updated: 2025-02-18T18:30:21.626Z
+date: 2025-02-28T16:07:47.821Z
+updated: 2025-03-07T16:07:42.787Z
 tags:
   - product
 categories:
@@ -28,10 +28,6 @@ As always, this is a free update for existing LYRX owners. Just download/install
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### New, Changed, and Fixed in LYRX v1.6.1
 
 * Added karaoke fixed rotation (add a new singer after the last added singer)
@@ -45,10 +41,6 @@ As always, this is a free update for existing LYRX owners. Just download/install
 **IMPORTANT NOTE:** If you receive this warning _“lyrx-v1.6.1-installer\_mac.pkg can’t be opened because Apple cannot check it for malicious software. this software needs to be updated. Contact the developer for more information”_ when installing to macOS Catalina [please follow the steps on Apple’s website](https://support.apple.com/guide/mac-help/open-a-mac-app-from-an-unidentified-developer-mh40616/mac) to install LYRX.
 
 _Have questions about the latest release of our LYRX **karaoke software**? Please leave them in the comments section below!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -69,15 +61,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2020/12/lyrx161update.jpg?fit=900%
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-superior-camcorder-features-direct-look-up/"><u>[New] 2024 Approved Superior Camcorder Features – Direct Look-Up</u></a></li>
-<li><a href="https://win-news.techidaily.com/1728487455112-windows-11-0x807800c5/"><u>如何解決 Windows 11 儲存器出現的 0X807800C5 錯誤碼？一招神奇的修复技巧</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/abbyy-finereader-powers-preservation-safeguarding-over-4-million-pages-from-latvias-national-library-across-20-languages/"><u>ABBYY FineReader Powers Preservation: Safeguarding Over 4 Million Pages From Latvia's National Library Across 20 Languages</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/design-personalized-language-agents/"><u>Design Personalized Language Agents</u></a></li>
-<li><a href="https://win-news.techidaily.com/guia-paso-a-paso-para-realizar-copias-de-seguridad-de-tus-aplicaciones-en-windows-11-y-evitar-la-reinstalacion/"><u>Guía Paso a Paso Para Realizar Copias De Seguridad De Tus Aplicaciones en Windows 11 Y Evitar La Reinstalación</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-7-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 7? 5 Best Solutions | Stellar</u></a></li>
-<li><a href="https://win-news.techidaily.com/leading-the-pack-the-ultimate-choices-for-duplicating-your-samsung-860-evo-1tb-solid-state-drive/"><u>Leading the Pack: The Ultimate Choices for Duplicating Your Samsung 860 EVO 1TB Solid State Drive</u></a></li>
-<li><a href="https://win-news.techidaily.com/pc-startup-issues-resolved-now-booting-safely-in-safe-mode-only/"><u>PC Startup Issues Resolved - Now Booting Safely in Safe Mode Only</u></a></li>
-<li><a href="https://common-error.techidaily.com/resolved-miracast-issues-with-graphics-driver-now-compatible/"><u>Resolved Miracast Issues with Graphics Driver - Now Compatible</u></a></li>
-<li><a href="https://techidaily.com/unable-to-save-excel-2019-workbook-issue-fix-2024-by-stellar-guide/"><u>Unable to Save Excel 2019 Workbook Issue Fix 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-androids-top-video-recording-options-5-excellent-picks/"><u>[New] 2024 Approved Android's Top Video Recording Options - 5 Excellent Picks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>[New] Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-tweak-twitter-video-clip-cover/"><u>[New] In 2024, Tweak Twitter Video Clip Cover</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-ffmpeg-review-upholding-authentic-audio-formats/"><u>[Updated] 2024 Approved FFmpeg Review Upholding Authentic Audio Formats</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/digital-dominance-top-youtube-watch-count-chronicles/"><u>Digital Dominance Top YouTube Watch Count Chronicles</u></a></li>
+<li><a href="https://win-news.techidaily.com/erfolgreiche-tipps-zur-effizienten-synchronisation-ihrer-dateien-verwenden-sie-ein-synology-nas-auf-dem-windows-system/"><u>Erfolgreiche Tipps Zur Effizienten Synchronisation Ihrer Dateien: Verwenden Sie Ein Synology NAS Auf Dem Windows System</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-lava-blaze-2-promirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Lava Blaze 2 ProMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/il-top-choice-per-il-backup-locale-di-windows-11-sostituisci-dell-datasafe/"><u>Il Top Choice Per Il Backup Locale Di Windows 11: Sostituisci Dell DataSafe</u></a></li>
+<li><a href="https://win-news.techidaily.com/les-meilleurs-outils-pour-fabriquer-une-cle-usb-de-demarrage-avec-windows-11/"><u>Les Meilleurs Outils Pour Fabriquer Une Clé USB De Démarrage Avec Windows 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/mastering-bi-directional-file-synchronization-on-windows-tips-and-techniques-from-vista-to-11/"><u>Mastering Bi-Directional File Synchronization on Windows: Tips and Techniques From Vista to 11</u></a></li>
+<li><a href="https://win-news.techidaily.com/recover-vanished-files-and-ink-incident/"><u>Recover, Vanished Files, and Ink Incident.</u></a></li>
+<li><a href="https://win-news.techidaily.com/transferts-completes-de-fichiers-avec-xcopy-sur-systemes-windows-7-a-11-methode-resolue/"><u>Transferts Complètes De Fichiers Avec XCopy Sur Systèmes Windows 7 À 11 - Méthode Résolue</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-honor-play-8t-by-fonelab-android-recover-data/"><u>Undelete lost data from Honor Play 8T</u></a></li>
 </ul></div>
 
